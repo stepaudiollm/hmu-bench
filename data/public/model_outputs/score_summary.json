@@ -1,0 +1,366 @@
+{
+  "version": "2026-10-08-final",
+  "score_scale": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "judge_scores_only": true,
+  "contains_judge_rationales": false,
+  "models": {
+    "abc/en/deepseek41_flash": {
+      "count": 1029,
+      "mean_score": 3.033,
+      "score_counts": {
+        "0": 45,
+        "1": 125,
+        "2": 180,
+        "3": 80,
+        "4": 599
+      }
+    },
+    "abc/en/gemini25_pro": {
+      "count": 1029,
+      "mean_score": 2.9786,
+      "score_counts": {
+        "0": 30,
+        "1": 145,
+        "2": 207,
+        "3": 82,
+        "4": 565
+      }
+    },
+    "abc/en/gemini31_pro": {
+      "count": 1029,
+      "mean_score": 3.2362,
+      "score_counts": {
+        "0": 25,
+        "1": 88,
+        "2": 156,
+        "3": 110,
+        "4": 650
+      }
+    },
+    "abc/en/gemini37_flash": {
+      "count": 1029,
+      "mean_score": 3.8639,
+      "score_counts": {
+        "0": 3,
+        "1": 5,
+        "2": 33,
+        "3": 47,
+        "4": 941
+      }
+    },
+    "abc/en/gpt6_astra": {
+      "count": 1029,
+      "mean_score": 3.9417,
+      "score_counts": {
+        "0": 0,
+        "1": 1,
+        "2": 17,
+        "3": 23,
+        "4": 988
+      }
+    },
+    "abc/en/qwen35_omni_plus": {
+      "count": 1029,
+      "mean_score": 2.6239,
+      "score_counts": {
+        "0": 91,
+        "1": 172,
+        "2": 227,
+        "3": 82,
+        "4": 457
+      }
+    },
+    "abc/en/qwen3_omni_flash": {
+      "count": 1029,
+      "mean_score": 1.9018,
+      "score_counts": {
+        "0": 236,
+        "1": 255,
+        "2": 188,
+        "3": 74,
+        "4": 276
+      }
+    },
+    "abc/en/seed_lite": {
+      "count": 1029,
+      "mean_score": 3.5209,
+      "score_counts": {
+        "0": 14,
+        "1": 37,
+        "2": 127,
+        "3": 72,
+        "4": 779
+      }
+    },
+    "abc/en/stepaudio3_0909": {
+      "count": 1029,
+      "mean_score": 3.4082,
+      "score_counts": {
+        "0": 21,
+        "1": 51,
+        "2": 141,
+        "3": 90,
+        "4": 726
+      }
+    },
+    "abc/zh/deepseek41_flash": {
+      "count": 1029,
+      "mean_score": 2.9815,
+      "score_counts": {
+        "0": 43,
+        "1": 133,
+        "2": 204,
+        "3": 69,
+        "4": 580
+      }
+    },
+    "abc/zh/gemini25_pro": {
+      "count": 1029,
+      "mean_score": 2.9116,
+      "score_counts": {
+        "0": 49,
+        "1": 137,
+        "2": 214,
+        "3": 85,
+        "4": 544
+      }
+    },
+    "abc/zh/gemini31_pro": {
+      "count": 1029,
+      "mean_score": 3.2741,
+      "score_counts": {
+        "0": 27,
+        "1": 76,
+        "2": 161,
+        "3": 89,
+        "4": 676
+      }
+    },
+    "abc/zh/gemini37_flash": {
+      "count": 1029,
+      "mean_score": 3.8397,
+      "score_counts": {
+        "0": 1,
+        "1": 5,
+        "2": 46,
+        "3": 54,
+        "4": 923
+      }
+    },
+    "abc/zh/gpt6_astra": {
+      "count": 1029,
+      "mean_score": 3.9582,
+      "score_counts": {
+        "0": 0,
+        "1": 2,
+        "2": 11,
+        "3": 15,
+        "4": 1001
+      }
+    },
+    "abc/zh/qwen35_omni_plus": {
+      "count": 1029,
+      "mean_score": 2.7396,
+      "score_counts": {
+        "0": 74,
+        "1": 174,
+        "2": 197,
+        "3": 85,
+        "4": 499
+      }
+    },
+    "abc/zh/qwen3_omni_flash": {
+      "count": 1029,
+      "mean_score": 1.9145,
+      "score_counts": {
+        "0": 185,
+        "1": 300,
+        "2": 209,
+        "3": 88,
+        "4": 247
+      }
+    },
+    "abc/zh/seed_lite": {
+      "count": 1029,
+      "mean_score": 3.516,
+      "score_counts": {
+        "0": 6,
+        "1": 40,
+        "2": 135,
+        "3": 84,
+        "4": 764
+      }
+    },
+    "abc/zh/stepaudio3_0909": {
+      "count": 1029,
+      "mean_score": 3.3061,
+      "score_counts": {
+        "0": 15,
+        "1": 82,
+        "2": 159,
+        "3": 90,
+        "4": 683
+      }
+    },
+    "audio/en/gemini25_pro": {
+      "count": 460,
+      "mean_score": 0.8978,
+      "score_counts": {
+        "0": 297,
+        "1": 31,
+        "2": 60,
+        "3": 26,
+        "4": 46
+      }
+    },
+    "audio/en/gemini31_pro": {
+      "count": 460,
+      "mean_score": 1.1217,
+      "score_counts": {
+        "0": 274,
+        "1": 30,
+        "2": 57,
+        "3": 24,
+        "4": 75
+      }
+    },
+    "audio/en/gemini37_flash": {
+      "count": 460,
+      "mean_score": 1.0283,
+      "score_counts": {
+        "0": 291,
+        "1": 29,
+        "2": 48,
+        "3": 20,
+        "4": 72
+      }
+    },
+    "audio/en/qwen35_omni_plus": {
+      "count": 460,
+      "mean_score": 1.3326,
+      "score_counts": {
+        "0": 227,
+        "1": 47,
+        "2": 74,
+        "3": 30,
+        "4": 82
+      }
+    },
+    "audio/en/qwen3_omni_flash": {
+      "count": 460,
+      "mean_score": 0.913,
+      "score_counts": {
+        "0": 298,
+        "1": 29,
+        "2": 61,
+        "3": 19,
+        "4": 53
+      }
+    },
+    "audio/en/seed_lite": {
+      "count": 460,
+      "mean_score": 0.9413,
+      "score_counts": {
+        "0": 295,
+        "1": 35,
+        "2": 50,
+        "3": 22,
+        "4": 58
+      }
+    },
+    "audio/en/stepaudio3_0909": {
+      "count": 460,
+      "mean_score": 0.863,
+      "score_counts": {
+        "0": 305,
+        "1": 33,
+        "2": 53,
+        "3": 18,
+        "4": 51
+      }
+    },
+    "audio/zh/gemini25_pro": {
+      "count": 460,
+      "mean_score": 0.9174,
+      "score_counts": {
+        "0": 292,
+        "1": 29,
+        "2": 72,
+        "3": 19,
+        "4": 48
+      }
+    },
+    "audio/zh/gemini31_pro": {
+      "count": 460,
+      "mean_score": 1.1761,
+      "score_counts": {
+        "0": 261,
+        "1": 29,
+        "2": 73,
+        "3": 22,
+        "4": 75
+      }
+    },
+    "audio/zh/gemini37_flash": {
+      "count": 460,
+      "mean_score": 1.1587,
+      "score_counts": {
+        "0": 251,
+        "1": 40,
+        "2": 80,
+        "3": 23,
+        "4": 66
+      }
+    },
+    "audio/zh/qwen35_omni_plus": {
+      "count": 460,
+      "mean_score": 1.3304,
+      "score_counts": {
+        "0": 223,
+        "1": 46,
+        "2": 85,
+        "3": 28,
+        "4": 78
+      }
+    },
+    "audio/zh/qwen3_omni_flash": {
+      "count": 460,
+      "mean_score": 0.9652,
+      "score_counts": {
+        "0": 283,
+        "1": 35,
+        "2": 65,
+        "3": 29,
+        "4": 48
+      }
+    },
+    "audio/zh/seed_lite": {
+      "count": 460,
+      "mean_score": 1.0935,
+      "score_counts": {
+        "0": 267,
+        "1": 34,
+        "2": 71,
+        "3": 25,
+        "4": 63
+      }
+    },
+    "audio/zh/stepaudio3_0909": {
+      "count": 460,
+      "mean_score": 0.9457,
+      "score_counts": {
+        "0": 296,
+        "1": 20,
+        "2": 70,
+        "3": 21,
+        "4": 53
+      }
+    }
+  }
+}

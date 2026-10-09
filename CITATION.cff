@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "HMU-Bench"
+version: "2026-10-08-final"
+date-released: 2026-10-08
+type: dataset
+message: "Please cite HMUBench when using the benchmark or its evaluation results."
+abstract: "A bilingual benchmark for ABC notation understanding and full-track music audio understanding."
+authors:
+  - name: "HMUBench authors"

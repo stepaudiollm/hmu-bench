@@ -1,0 +1,73 @@
+{
+  "name": "HMUBench",
+  "display_name": "HMU-Bench",
+  "repository_slug": "hmu-bench",
+  "version": "2026-10-08-final",
+  "release_date": "2026-10-08",
+  "package_status": "final_data_release",
+  "tracks": {
+    "abc": {
+      "questions_per_language": 1029,
+      "languages": [
+        "zh-CN",
+        "en"
+      ],
+      "day_counts": {
+        "1": 257,
+        "2": 256,
+        "3": 256,
+        "4": 260
+      }
+    },
+    "audio": {
+      "questions_per_language": 460,
+      "track_count": 92,
+      "languages": [
+        "zh-CN",
+        "en"
+      ],
+      "model_count": 7
+    }
+  },
+  "public_contents": {
+    "data": {
+      "questions_only": [
+        "abc/data/zh/questions.json",
+        "abc/data/en/questions.json",
+        "audio/data/zh/questions.json",
+        "audio/data/en/questions.json"
+      ],
+      "with_answers": [
+        "abc/data/zh/with_answers.json",
+        "abc/data/en/with_answers.json",
+        "audio/data/zh/with_answers.json",
+        "audio/data/en/with_answers.json"
+      ]
+    },
+    "prompts": "prompts/",
+    "aggregate_results": "aggregate_results/",
+    "model_outputs": "model_outputs/",
+    "graded_responses": null
+  },
+  "integrity": {
+    "public_contains_gold_answers": true,
+    "public_contains_model_answers": true,
+    "public_contains_compact_judge_scores": true,
+    "judge_rationales_included": false,
+    "benchmark_policy": "open_benchmark",
+    "inference_files_are_answer_blind": true,
+    "graded_responses_included": false,
+    "detailed_model_reports_location": null,
+    "public_audio_paths_are_relative": true,
+    "gold_files": {
+      "abc_zh": "abc/data/zh/with_answers.json",
+      "abc_en": "abc/data/en/with_answers.json",
+      "audio_zh": "audio/data/zh/with_answers.json",
+      "audio_en": "audio/data/en/with_answers.json"
+    }
+  },
+  "publication_blockers": [
+    "license selection is pending",
+    "audio redistribution rights are not documented in this directory"
+  ]
+}

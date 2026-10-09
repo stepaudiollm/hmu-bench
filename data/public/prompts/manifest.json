@@ -1,0 +1,43 @@
+{
+  "schema_version": "hmu-bench-prompts-v1",
+  "release_version": "2026-10-08-final",
+  "contains_question_specific_gold": false,
+  "contains_model_responses": false,
+  "answering": {
+    "abc": {
+      "file": "abc_answering.md",
+      "languages": ["zh-CN", "en"],
+      "prompt_versions": [
+        "abc-final-v3-system-no-visible-reasoning",
+        "abc-final-v4-structured-answer"
+      ],
+      "temperature": 0
+    },
+    "audio": {
+      "file": "audio_answering.md",
+      "languages": ["zh-CN", "en"],
+      "prompt_versions": [
+        "music-expansion-audio-v1-independent-full-track",
+        "music-expansion-audio-v1-independent-full-track-en-short-retry-v2"
+      ],
+      "temperature": 0,
+      "audio_input": "complete_track_for_every_question",
+      "question_isolation": "one_question_per_request"
+    }
+  },
+  "evaluation": {
+    "abc": {
+      "file": "abc_evaluator.md",
+      "judge_model": "qwen3.5-flash",
+      "score_scale": [0, 1, 2, 3, 4],
+      "temperature": 0
+    },
+    "audio": {
+      "file": "audio_evaluator.md",
+      "judge_model": "qwen3.5-flash",
+      "score_scale": [0, 1, 2, 3, 4],
+      "temperature": 0,
+      "judge_audio_input": false
+    }
+  }
+}

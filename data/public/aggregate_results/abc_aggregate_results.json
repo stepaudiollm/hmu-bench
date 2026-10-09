@@ -1,0 +1,99 @@
+{
+  "schema_version": "hmu-bench-abc-aggregate-v1",
+  "release_version": "2026-10-08-final",
+  "source": "HMUBench-ABC aggregate results",
+  "score_scale": [0, 1, 2, 3, 4],
+  "question_count_per_language": 1029,
+  "subgroup_language_policy": "domain and solution-requirement scores aggregate both languages",
+  "counts": {
+    "domains": {
+      "global_information": 49,
+      "pitch_and_melody": 268,
+      "tonality_and_harmony": 392,
+      "rhythm": 208,
+      "form_and_temporal_structure": 25,
+      "verifiable_symbolic_tasks": 87
+    },
+    "solution_requirements": {
+      "extraction": 335,
+      "single_step": 441,
+      "multi_step": 253
+    }
+  },
+  "models": [
+    {
+      "id": "gemini37_flash",
+      "label": "Gemini 3.7 Flash",
+      "group": "omni",
+      "overall": {"zh": 3.840, "en": 3.864},
+      "domains": {"global_information": 3.97, "pitch_and_melody": 3.69, "tonality_and_harmony": 3.91, "rhythm": 3.95, "form_and_temporal_structure": 3.76, "verifiable_symbolic_tasks": 3.83},
+      "solution_requirements": {"extraction": 3.81, "single_step": 3.86, "multi_step": 3.89}
+    },
+    {
+      "id": "seed_lite",
+      "label": "Seed2.0 Lite",
+      "group": "omni",
+      "overall": {"zh": 3.516, "en": 3.521},
+      "domains": {"global_information": 3.79, "pitch_and_melody": 3.34, "tonality_and_harmony": 3.52, "rhythm": 3.72, "form_and_temporal_structure": 3.40, "verifiable_symbolic_tasks": 3.47},
+      "solution_requirements": {"extraction": 3.56, "single_step": 3.51, "multi_step": 3.48}
+    },
+    {
+      "id": "stepaudio3",
+      "label": "StepAudio 3 Realtime",
+      "group": "omni",
+      "overall": {"zh": 3.306, "en": 3.408},
+      "domains": {"global_information": 3.64, "pitch_and_melody": 3.12, "tonality_and_harmony": 3.38, "rhythm": 3.57, "form_and_temporal_structure": 3.38, "verifiable_symbolic_tasks": 3.32},
+      "solution_requirements": {"extraction": 3.38, "single_step": 3.35, "multi_step": 3.35}
+    },
+    {
+      "id": "gemini31_pro",
+      "label": "Gemini 3.1 Pro",
+      "group": "omni",
+      "overall": {"zh": 3.274, "en": 3.236},
+      "domains": {"global_information": 3.73, "pitch_and_melody": 2.95, "tonality_and_harmony": 3.45, "rhythm": 3.24, "form_and_temporal_structure": 3.16, "verifiable_symbolic_tasks": 3.12},
+      "solution_requirements": {"extraction": 3.11, "single_step": 3.26, "multi_step": 3.44}
+    },
+    {
+      "id": "gemini25_pro",
+      "label": "Gemini 2.5 Pro",
+      "group": "omni",
+      "overall": {"zh": 2.912, "en": 2.979},
+      "domains": {"global_information": 3.45, "pitch_and_melody": 2.54, "tonality_and_harmony": 3.04, "rhythm": 3.16, "form_and_temporal_structure": 3.10, "verifiable_symbolic_tasks": 2.93},
+      "solution_requirements": {"extraction": 2.78, "single_step": 2.96, "multi_step": 3.14}
+    },
+    {
+      "id": "qwen35_omni_plus",
+      "label": "Qwen 3.5 Omni Plus",
+      "group": "omni",
+      "overall": {"zh": 2.740, "en": 2.621},
+      "domains": {"global_information": 3.33, "pitch_and_melody": 2.40, "tonality_and_harmony": 2.72, "rhythm": 2.81, "form_and_temporal_structure": 2.94, "verifiable_symbolic_tasks": 2.60},
+      "solution_requirements": {"extraction": 2.50, "single_step": 2.77, "multi_step": 2.77}
+    },
+    {
+      "id": "qwen3_omni_flash",
+      "label": "Qwen 3 Omni Flash",
+      "group": "omni",
+      "overall": {"zh": 1.914, "en": 1.898},
+      "domains": {"global_information": 2.47, "pitch_and_melody": 1.72, "tonality_and_harmony": 1.84, "rhythm": 2.18, "form_and_temporal_structure": 2.46, "verifiable_symbolic_tasks": 1.64},
+      "solution_requirements": {"extraction": 1.73, "single_step": 2.00, "multi_step": 1.98}
+    },
+    {
+      "id": "gpt6_astra",
+      "label": "GPT-6 Astra",
+      "group": "abc_only_reference",
+      "overall": {"zh": 3.964, "en": 3.945},
+      "domains": {"global_information": 3.99, "pitch_and_melody": 3.93, "tonality_and_harmony": 3.96, "rhythm": 3.98, "form_and_temporal_structure": 3.84, "verifiable_symbolic_tasks": 3.93},
+      "solution_requirements": {"extraction": 3.95, "single_step": 3.95, "multi_step": 3.96}
+    },
+    {
+      "id": "deepseek41_flash",
+      "label": "DeepSeek V4.1 Flash",
+      "group": "abc_only_reference",
+      "overall": {"zh": 2.982, "en": 3.033},
+      "domains": {"global_information": 3.58, "pitch_and_melody": 2.60, "tonality_and_harmony": 3.19, "rhythm": 3.07, "form_and_temporal_structure": 3.00, "verifiable_symbolic_tasks": 2.95},
+      "solution_requirements": {"extraction": 2.87, "single_step": 3.04, "multi_step": 3.12}
+    }
+  ],
+  "contains_question_level_responses": false,
+  "contains_gold_answers": false
+}

@@ -1,0 +1,1029 @@
+{"id": "ABC-V2-0001", "model": "gemini-3.1-pro-preview", "response": "K: Bbm\n解释：谱例以Bbm和弦开始，最后以F7sus4到Bbm的属到主解决结束，且题目提示不要将中间的Gb误当成主音，因此调性为降B小调（Bbm）。"}
+{"id": "ABC-V2-0002", "model": "gemini-3.1-pro-preview", "response": "K: Bm\n\"Bm\" z4 F,F,3 D3C3 z B,- | \"Bm\" B,2 z D- D4 \"Bm/F#\" z8 | \"Bm\" z4 D3B, \"Bm/F#\" D4 F4 | \"Em\" E8 \"Em/B\" z8 |"}
+{"id": "ABC-V2-0003", "model": "gemini-3.1-pro-preview", "response": "短小节拍号为1/4，旋律从第3个1/16拍位（即第2个八分音符位置）进入。4/4拍从第3小节恢复，恢复后的首个发声音是G,。"}
+{"id": "ABC-V2-0004", "model": "gemini-3.1-pro-preview", "response": "第一条谱行第2小节先后标了Db和C#dim7和弦。后一个和弦（C#dim7）是减七和弦，增加了该小节的不稳定性。"}
+{"id": "ABC-V2-0004-A1", "model": "gemini-3.1-pro-preview", "response": "重拼为E, G, Bb, Db（E减七和弦）。关键半音解决：E解决到F，G解决到Ab，Bb解决到C，Db解决到Eb。"}
+{"id": "ABC-V2-0005", "model": "gemini-3.1-pro-preview", "response": "短小节包含附点音型（F,F,3）。随后两个4/4小节的起音（z F,3）和跨拍时值（F,4 E,4 E,4）通过休止和长音打破了常规的强弱规律，重新组织了重音。这些记谱证据不足以判断为swing，因为swing通常需要明确的标记或特定的节奏模式（如八分音符的三连音感），而这里的附点和切分音型在非swing音乐中也很常见。"}
+{"id": "ABC-V2-0006", "model": "gemini-3.1-pro-preview", "response": "最低音是 G,，最高音是 E。音域跨度为 20 个半音，即小十三度。"}
+{"id": "ABC-V2-0007", "model": "gemini-3.1-pro-preview", "response": "第三个发声音是 c4，科学音高为 C5；第四个发声音是 ^F4，科学音高为 F#4。\n从 C5 到 F#4 的下行跳进音程是减五度。"}
+{"id": "ABC-V2-0007-A1", "model": "gemini-3.1-pro-preview", "response": "实际增加了小七度（c）和小九度（Eb，若考虑调号，但谱例中为B，即大六度/减七度，结合D和弦，B为大六度，构成D6和弦，c为小七度，构成D7和弦）。最关键的张力音程是^F（大三度）与c（小七度）构成的减五度音程。"}
+{"id": "ABC-V2-0008", "model": "gemini-3.1-pro-preview", "response": "E和弦小节的连音将G,音延长了14个十六分音符，随后音高下降到F,。"}
+{"id": "ABC-V2-0008-A1", "model": "gemini-3.1-pro-preview", "response": "B是Emaj7的五音，Emaj7/B表示第二转位。\n前后和弦标签的低音依次为：E, B, A。\n低音走向：从E下行到B，再下行到A。"}
+{"id": "ABC-V2-0009", "model": "gemini-3.1-pro-preview", "response": "音高序列为G, G, G, G, A, B, E。同音重复G,后，旋律向上级进至A,，再向上级进至B,，最后向上跳进至E。"}
+{"id": "ABC-V2-0010", "model": "gemini-3.1-pro-preview", "response": "该同音延音应连续保持 8 个 1/16 音符的时值，即一个二分音符（2 拍）。不需要重新起音。\n\n解释：\n谱段开头跨越第一条小节线的同音延音是 E,2E,2- | E,6。\nE,2 表示 2 个 1/16 音符，E,2- 表示 2 个 1/16 音符并带有延音线，E,6 表示 6 个 1/16 音符。\n延音线连接了 E,2- 和 E,6，因此总时值为 2 + 6 = 8 个 1/16 音符。\n在 4/4 拍中，8 个 1/16 音符等于一个二分音符，即 2 拍。\n延音线表示音符连续发声，不需要重新起音。"}
+{"id": "ABC-V2-0011", "model": "gemini-3.1-pro-preview", "response": "第2个完整小节依次出现Db、Fm7/C、Bbm7三个和弦。它们的低音线进行为Db-C-Bb。"}
+{"id": "ABC-V2-0012", "model": "gemini-3.1-pro-preview", "response": "首音为 C，调号 E 大调中 C 升半音，实际音高为 C#4。下一音为 B，实际音高为 B4。从 C#4 到 B4 的上行音程为小七度。"}
+{"id": "ABC-V2-0013", "model": "gemini-3.1-pro-preview", "response": "这段谱呈现小调色彩。最后三小节的和弦进行是 Am7b5 - D7 - Gm，这是一个典型的 iiø7 - V7 - i 进行，指向 G 小调。因此，主音是 G，调式是小调，应补写的 K 字段是 K: Gm。"}
+{"id": "ABC-V2-0014", "model": "gemini-3.1-pro-preview", "response": "K: C\nz12 | \"C\" E4 G2 z E z G3 E4 | \"G\" D2D2G2 D4 z6 | \"Am\" z4 A2A2 A4 E4 |"}
+{"id": "ABC-V2-0015", "model": "gemini-3.1-pro-preview", "response": "第三小节唯一的短音是 F2，长度为 1/8。它结束后，第三小节剩余 14/16 的休止符（z6 z4 z4）。第四小节开始有 8/16 的休止符（z8）。合并计算，连续静默的总长度为 14/16 + 8/16 = 22/16，即 11/8。"}
+{"id": "ABC-V2-0016", "model": "gemini-3.1-pro-preview", "response": "末小节的行内调号把B♭小调转向了D♭大调。同样的E♭m7在换号前可理解为B♭小调的iv7和弦，换号后可理解为D♭大调的ii7和弦。"}
+{"id": "ABC-V2-0016-A1", "model": "gemini-3.1-pro-preview", "response": "不能断言。\nB♭小调解释：i7 - i7 - iv7 - VII - v7 - i7 - iv7 - iv7。\nD♭大调解释：vi7 - vi7 - ii7 - V - iii7 - vi7 - ii7 - ii7。\n缺失确认信号：D♭大调的属和弦（A♭或A♭7）解决到主和弦（D♭），或明确的D♭大调终止式。"}
+{"id": "ABC-V2-0017", "model": "gemini-3.1-pro-preview", "response": "`B,4` 不属于主拍号 4/4 小节，它位于 `[M:1/4]` 拍号下，是一个弱起小节（或不完整小节）。紧随其后的 `C16-` 从 `[M:4/4]` 拍号开始，并跨越了 2 个完整的 4/4 小节（`C16-` 占据第一个 4/4 小节，延音线连接到下一个小节的 `C16`，占据第二个 4/4 小节）。"}
+{"id": "ABC-V2-0018", "model": "gemini-3.1-pro-preview", "response": "第一条有声谱行最后一个小节由Emaj7和Emaj7/B和弦构成。它们没有改变主功能。"}
+{"id": "ABC-V2-0019", "model": "gemini-3.1-pro-preview", "response": "A和弦两小节中，连音将C,音延长至第二小节，维持了旋律重心，下一次重新起音在第二小节的第三拍（C,4）。"}
+{"id": "ABC-V2-0020", "model": "gemini-3.1-pro-preview", "response": "第1小节从Fm和弦开始，是F小调的主和弦（i）；第4小节从Ab和弦开始，是F小调的自然大调平行调主和弦（III）。"}
+{"id": "ABC-V2-0021", "model": "gemini-3.1-pro-preview", "response": "低音起音（C,4）是四分音符，随后成组的短音（C2C2 E2E2D2D2）是八分音符。四分音符的时值是八分音符的两倍。"}
+{"id": "ABC-V2-0022", "model": "gemini-3.1-pro-preview", "response": "B是A的原样重现。\n\n解释：\n谱段A和谱段B的音符、时值、休止符和和弦标记完全一致。\n谱段A: \"G\" G4 G2D2 G2G2G2E2 | \"Em\" B4 z6 G2G2G2 |\n谱段B: \"G\" G4 G2D2 G2G2G2E2 | \"Em\" B4 z6 G2G2G2 |\n两者没有任何区别，因此B是A的原样重现。"}
+{"id": "ABC-V2-0023", "model": "gemini-3.1-pro-preview", "response": "旋律从休止进入时由 Gm 和弦承托。下一条谱行换到 Cm7 和弦。"}
+{"id": "ABC-V2-0023-A1", "model": "gemini-3.1-pro-preview", "response": "持续音是F,。在Gm和弦中，F,是七音（G-Bb-D-F）；在Cm7和弦中，F,是十一音（C-Eb-G-Bb-D-F）。这个持续音在i—iv7连接中起到了平滑过渡的作用，通过保持共同音，增强了和声进行的连贯性。"}
+{"id": "ABC-V2-0024", "model": "gemini-3.1-pro-preview", "response": "和弦进行：B - E - G#7 - C#m。\nG#7和弦直接推动进行落到C#m。"}
+{"id": "ABC-V2-0025", "model": "gemini-3.1-pro-preview", "response": "第三小节转入Fm7后，随后的B♭7实际落到了Cm7和弦。这组进行（Fm7 - B♭7）是E♭大调的ii-V进行，带有E♭区域的暗示。然而，它并没有解决到E♭和弦，而是解决到了Cm7，因此不足以确认已经转调。"}
+{"id": "ABC-V2-0026", "model": "gemini-3.1-pro-preview", "response": "四小节各自第一个有声音构成音高轮廓是：下行，下行，下行。末两项是重复。"}
+{"id": "ABC-V2-0027", "model": "gemini-3.1-pro-preview", "response": "最低音为 F, (F2)，最高音为 D (D4)。音域达到一个八度。"}
+{"id": "ABC-V2-0028", "model": "gemini-3.1-pro-preview", "response": "谱段B起音更密集，谱段A音域更宽。\n谱段A起音数为4，音域跨度为16个半音（C,到E）；谱段B起音数为11，音域跨度为4个半音（C到E）。"}
+{"id": "ABC-V2-0029", "model": "gemini-3.1-pro-preview", "response": "^A,,是A1，=A,是A2。从^A,,到=A,，音区升高了一个八度，音级色彩从升A变为还原A。"}
+{"id": "ABC-V2-0030", "model": "gemini-3.1-pro-preview", "response": "最高实际音高是 c5。\n在最后一小节中，c5 前的音程运动是 G4 到 c5 的纯四度上行，c5 后的音程运动是 c5 到 F4 的纯五度下行，形成局部峰值。"}
+{"id": "ABC-V2-0031", "model": "gemini-3.1-pro-preview", "response": "演唱者应把这次起音连续保持 3/16 个全音符。\n\n解释：\n第一小节末尾的音符是 C2，第二小节开头的音符是 C2。它们由连音线连接，因此演唱者应把这次起音连续保持 2/16 + 1/16 = 3/16 个全音符。"}
+{"id": "ABC-V2-0032", "model": "gemini-3.1-pro-preview", "response": "第一条谱行第2小节包含Cmaj7和D7和弦。在G大调中，Cmaj7是下属和弦（IV级），D7是属和弦（V级）。"}
+{"id": "ABC-V2-0033", "model": "gemini-3.1-pro-preview", "response": "在传统和声中，G7sus4（属七挂四和弦）通常解决到 G7（属七和弦），即挂留音 C 解决到和弦音 B。\n本谱中，G7sus4 并没有按这种方式解决。它后面紧跟的和弦是 Fmaj7，而不是 G7。旋律中，G7sus4 小节的最后两个音是 E 和 D，也没有体现出 C 到 B 的解决。"}
+{"id": "ABC-V2-0034", "model": "gemini-3.1-pro-preview", "response": "第一组进行是Gm7-C7-F，解决到F大调主和弦；第二组进行是A7-Dm，解决到d小调主和弦。由于F大调和d小调是关系大小调，且谱例中F大调的解决更为完整和稳定，因此F大调建立全局主音，d小调只是局部主音化。据此恢复K字段为K: F。"}
+{"id": "ABC-V2-0035", "model": "gemini-3.1-pro-preview", "response": "所示第一小节在旋律第一次进入前要等待附点八分休止符，即1.5拍。\n\n解释：\nL: 1/16 表示基本音符单位为十六分音符。\nM: 4/4 表示每小节有4拍，每拍为四分音符。\n第一小节开头的 \"z6\" 表示休止6个十六分音符，即1.5个四分音符（1.5拍），相当于一个附点八分休止符。"}
+{"id": "ABC-V2-0036", "model": "gemini-3.1-pro-preview", "response": "结尾两小节的长音通过连音线跨越小节线，窗口未给出后续旋律转向。"}
+{"id": "ABC-V2-0037", "model": "gemini-3.1-pro-preview", "response": "八分音符。\n\n解释：\n谱例中 `L: 1/16` 表示基本音符时值为十六分音符。\n短休止 `z2` 之后第一次出现的 F 音是 `F,3`。\n`F,3` 表示该音符的时值是基本音符时值的 3 倍，即 3 个十六分音符，也就是附点八分音符。\n题目问的是“附点长度”对应的“常用音符时值”，即去掉附点后的基本时值，所以是八分音符。"}
+{"id": "ABC-V2-0038", "model": "gemini-3.1-pro-preview", "response": "将两个B♭和弦小节中的F音从持续音改写成活动型旋律，可以通过将长音符分解为短音符，并加入其他和弦内音或经过音来实现。例如，可以将第一个B♭小节的F,16改写为F,4 D,4 F,4 B,,4，将第二个B♭小节的F,2 F,4 D,2 F,4 G,4改写为F,2 D,2 F,2 B,,2 D,2 F,2 G,2 F,2。这样，F音就不再是单一的持续音，而是与其他音符交织在一起，形成了更具动感的旋律。"}
+{"id": "ABC-V2-0039", "model": "gemini-3.1-pro-preview", "response": "谱段A和谱段B的前两小节中，第一小节完全相同。第二小节的前半部分（\"Bbm\" B2ABF2E）也相同。变化发生在第二小节的后半部分：谱段A为“D z DEDEDED”，而谱段B为“D2EEEEDED”。因此，它们是局部变奏。"}
+{"id": "ABC-V2-0040", "model": "gemini-3.1-pro-preview", "response": "首个有声小节标记为Fmaj7和弦。两小节后出现的E♭7不属于F大调的自然和声，因为F大调的自然音阶中不包含E♭音。"}
+{"id": "ABC-V2-0041", "model": "gemini-3.1-pro-preview", "response": "谱段A的四音单元实际音高为E, B, A♭, B,，谱段B的四音单元实际音高为E B A♭ B。\nB相对A向上移调了纯八度（或12个半音）。\n节奏没有改变，均为十六分音符。"}
+{"id": "ABC-V2-0042", "model": "gemini-3.1-pro-preview", "response": "第一条谱行第2小节中，E7后半直接换成了C#m7和弦。这一步不是A大调的V7—Ⅰ解决，因为E7（V7）没有解决到主和弦A（Ⅰ），而是进行到了C#m7（iii7），这是一种阻碍解决或替代解决。后面明确构成应用属解决的相邻和弦是F#7—Bm7，即V7/ii—ii的解决。"}
+{"id": "ABC-V2-0043", "model": "gemini-3.1-pro-preview", "response": "持续2拍，属于二分音符。\n\n解释：\n谱例中 `L: 1/16` 表示基本音符时值为十六分音符。\n小节结尾的低音是 `G,,8`，其时值为 8 个十六分音符，即 8 * (1/16) = 1/2 个全音符。\n在 `M: 4/4` 拍中，一拍为四分音符（1/4），因此 1/2 个全音符等于 2 拍。\n时值为 1/2 个全音符的音符是二分音符。"}
+{"id": "ABC-V2-0044", "model": "gemini-3.1-pro-preview", "response": "第一音为B,，第二音为A，音程为小七度。"}
+{"id": "ABC-V2-0045", "model": "gemini-3.1-pro-preview", "response": "总体方向是下行，中间的E和F造成了回摆。"}
+{"id": "ABC-V2-0046", "model": "gemini-3.1-pro-preview", "response": "带还原号的音是=A,（实际音高A2），此前同名音是A,（实际音高Ab2）。\n在Fm7和弦（F-Ab-C-Eb）中，Ab变为A，使和弦性质从Fm7变为F7（F-A-C-Eb）。F7是Bbm7的属和弦（V7/vi），这个半音变化（Ab -> A）作为导音，强烈倾向并预示了后继的Bbm7和弦。"}
+{"id": "ABC-V2-0047", "model": "gemini-3.1-pro-preview", "response": "和弦骨架：\nDm7 | G7 | Cmaj7 | Am7 |\nDm7 | G7 | Cmaj7 | Cmaj7 ||\n\n前半与后半均由功能链 Dm7—G7 导向 Cmaj7。\n第二次 V7—I（G7—Cmaj7）位于材料末端。"}
+{"id": "ABC-V2-0048", "model": "gemini-3.1-pro-preview", "response": "最高音是 B,，只出现一次。"}
+{"id": "ABC-V2-0049", "model": "gemini-3.1-pro-preview", "response": "从第2小节起，连续四个和弦标签是 G#m7 - C#m7 - F#7 - G#m7。\n这四个和弦构成了 G♯ 小调的 i7 - iv7 - VII7 - i7 进行。\n最后的落点是 G#m7，即 G♯ 小调的主和弦。\n因此，这些和弦没有提供离开 G♯ 小调、建立新主调的终止证据，而是巩固了 G♯ 小调。"}
+{"id": "ABC-V2-0050", "model": "gemini-3.1-pro-preview", "response": "在B♭7之后，音乐不再以C小调为中心，而是转向了E♭大调。紧随B♭7之后的和弦是E♭maj7，行内调号也变为[K:Eb]，明确指示了E♭大调的调性。后续的Cm和弦在E♭大调中作为vi级和弦出现，进一步巩固了这一新的调性区域。"}
+{"id": "ABC-V2-0051", "model": "gemini-3.1-pro-preview", "response": "四分休止符。\n\n解释：\n谱例开头为 `z4`，基本音符长度为 `L: 1/16`，因此 `z4` 表示 4 个十六分休止符的长度，即一个四分休止符。"}
+{"id": "ABC-V2-0052", "model": "gemini-3.1-pro-preview", "response": "Emaj7活动小节的音高轮廓从低音区（C,E,F,G,）上行，随后在E,F,处略微回落，最后跳跃至中音区（F4）形成高点。下一小节（E7）形成显著停驻是因为它包含一个持续整个小节的=D16-音符，打破了前一小节密集的十六分音符节奏，产生强烈的静止感。"}
+{"id": "ABC-V2-0053", "model": "gemini-3.1-pro-preview", "response": "d为D♯，=d为D♮。色彩变化发生在C♯m小节末尾，由D♯降至D♮，暗示和声向C♯m的属和弦或相关调性过渡。"}
+{"id": "ABC-V2-0054", "model": "gemini-3.1-pro-preview", "response": "_D代表降D，=D代表还原D。在E♭大调中，第七音级是D，_D将其降低半音，=D将其还原为自然音。"}
+{"id": "ABC-V2-0055", "model": "gemini-3.1-pro-preview", "response": "第三小节中没有从拍内弱位起音、并跨越下一拍边界的切分长音。"}
+{"id": "ABC-V2-0056", "model": "gemini-3.1-pro-preview", "response": "B7之后实际落到了Cmaj7和弦，而没有按应用属的惯例进入Em。随后同根和弦由Cmaj7转成Cm，这在G大调中属于同主音大小调交替（或借用小调和弦）手法。"}
+{"id": "ABC-V2-0057", "model": "gemini-3.1-pro-preview", "response": "第1与第3小节的四音短句是原音重复，但两次进入方式不同。第1小节的四音短句是在长音B,之后进入，而第3小节的四音短句是在休止符之后进入。"}
+{"id": "ABC-V2-0058", "model": "gemini-3.1-pro-preview", "response": "谱例中出现了 \"Bb\" 和弦，且在乐句中起到了稳定和解决的作用，这确立了降B大调的主音和调式。同时，谱例中没有出现关系小调（g小调）的主和弦 \"Gm\" 或其属和弦 \"D7\"，因此排除了关系调的归属。"}
+{"id": "ABC-V2-0059", "model": "gemini-3.1-pro-preview", "response": "不足以。前两小节停在B和弦（属和弦）是半终止，随后解决到E和弦（主和弦），且后续和弦（G#7、C#m）均在E大调范围内，说明并未转调，仍为E大调。"}
+{"id": "ABC-V2-0060", "model": "gemini-3.1-pro-preview", "response": "主要持续音从D,升至E,再升至F,和A,，最高重心出现在第三个有声小节（A,）。"}
+{"id": "ABC-V2-0061", "model": "gemini-3.1-pro-preview", "response": "谱段A更像密集的叙述型旋律，谱段B更像高位长音停驻。\n\n解释：\n谱段A由连续的十六分音符组成，音符密集，节奏紧凑，具有叙述性旋律的特征。\n谱段B由全音符和二分音符组成，音符时值长，节奏舒缓，且音高较高（F和G），符合高位长音停驻的特征。"}
+{"id": "ABC-V2-0062", "model": "gemini-3.1-pro-preview", "response": "斜线和弦是 \"Db/Ab\"，它是第二转位。\n\n解释：\n从 \"Db\" 和弦开始，后续四个和弦标签依次是 \"Ab/C\"、\"Bbm\"、\"Db/Ab\" 和 \"Gb\"。\n它们的低音分别是 C、Bb、Ab 和 Gb。\n从 Db 开始，低音序列 Db -> C -> Bb -> Ab -> Gb 构成级进下行。\n其中，\"Db/Ab\" 是斜线和弦，其低音为 Ab，是 Db 大三和弦的五音，因此是第二转位。"}
+{"id": "ABC-V2-0063", "model": "gemini-3.1-pro-preview", "response": "实际音高是D♮。在A♭和弦上，D♮是增四度（或减五度）张力（#11），随后在第5小节解决到C（大三度）。"}
+{"id": "ABC-V2-0064", "model": "gemini-3.1-pro-preview", "response": "发声音没有发生方向反转。压缩后的音高路径为 E,F,A,B,c,e，轮廓为严格上升。"}
+{"id": "ABC-V2-0065", "model": "gemini-3.1-pro-preview", "response": "K: D\nz4 | \"D\" A,4 z12 | \"D\" z6 F,2 A,2G,2A,2G,2 | \"Bm\" A,4 F,4 D,4 B,,4 |"}
+{"id": "ABC-V2-0066", "model": "gemini-3.1-pro-preview", "response": "C和弦所在小节的四个有声音（E, D, C, B,,）构成下行轮廓。末音B,,跨小节延续并再次出现，起到了连接乐句、保持音乐连贯性的作用。"}
+{"id": "ABC-V2-0067", "model": "gemini-3.1-pro-preview", "response": "L: 1/16\nM: 4/4\nK: G\n\"Am7\" z C3 z E3 G2 B4 z A- | \"D\" A4 z6 B2B2 z A | \"G\" B4 D4 z D B4 z A- | \"B\" A4 z6 G2 z GF2 |"}
+{"id": "ABC-V2-0068", "model": "gemini-3.1-pro-preview", "response": "在C和弦与Am之间，谱面插入了Em7/B和弦。它是Em7和弦的第三转位（七音在低音），三个和弦的标示低音（C - B - A）形成了下行的级进连接。"}
+{"id": "ABC-V2-0069", "model": "gemini-3.1-pro-preview", "response": "F♯7之后落到Bm和弦。是的，Bm是当前小调（B小调）的主和弦。"}
+{"id": "ABC-V2-0070", "model": "gemini-3.1-pro-preview", "response": "F7；Bbm7。"}
+{"id": "ABC-V2-0071", "model": "gemini-3.1-pro-preview", "response": "第一小节结尾的同音连音结束后，紧接着的休止是附点八分休止符。\n\n解释：\n在第一小节中，同音连音 `C- C` 结束后，紧接着的休止符是 `z3`。\n根据 `L: 1/16`，基本音符时值为十六分音符。\n`z3` 表示 3 个十六分音符的时值，即一个附点八分休止符。"}
+{"id": "ABC-V2-0072", "model": "gemini-3.1-pro-preview", "response": "不是同度重复。D,4 是大字组 D#，D,,4 是大字一组 D#。运动方向为下行，音程为纯八度。"}
+{"id": "ABC-V2-0073", "model": "gemini-3.1-pro-preview", "response": "在第二小节，Cm和弦的低音支点是根音C。在第三小节，和弦变为Cm7/G，低音支点移到了五音G，这是一个第二转位和弦。在第四小节，和弦变为Cm7，低音支点又回到了根音C。"}
+{"id": "ABC-V2-0074", "model": "gemini-3.1-pro-preview", "response": "Fm小节中的E—=D—C按实际音高构成大二度-大二度下行关系。\n\n解释：\n在Fm调中，E为降E（Eb），C为C。\n谱例中Fm小节的音符为E, =D, C,。\nEb到=D（还原D）是小二度下行。\n=D到C是大二度下行。\n因此，实际音高构成了小二度-大二度下行关系。"}
+{"id": "ABC-V2-0075", "model": "gemini-3.1-pro-preview", "response": "下一枚和弦标记是 \"Em\"。\n在 K:G（G大调）中，Em 是 vi 级和弦。\nB7 是 Em 的属和弦，因此 B7 在此处作为 V/vi（六级的副属和弦）使用，体现了应用属功能。"}
+{"id": "ABC-V2-0076", "model": "gemini-3.1-pro-preview", "response": "谱段第一个旋律音是长时值。它的常用时值名称是二分音符，拍数为2拍。"}
+{"id": "ABC-V2-0077", "model": "gemini-3.1-pro-preview", "response": "A段：\n独立起音：D, C, =B,, C (4个)\n音域：=B, 到 D (小三度)\n\nB段：\n独立起音：D, B,, B,, C, D, C, B,, G, E,, G,, B,, D, C (13个)\n音域：E, 到 G (大十度)\n\nB段更密（13个起音 > 4个起音），B段更宽（大十度 > 小三度）。"}
+{"id": "ABC-V2-0078", "model": "gemini-3.1-pro-preview", "response": "开头休止了半拍（两个十六分音符），首音位于第一拍的后半拍。"}
+{"id": "ABC-V2-0079", "model": "gemini-3.1-pro-preview", "response": "压缩音高路径：A,2-B,2-F,2-E,2-C,2-B,,2-A,,2\n最高音：B,2 (第2个音)\n最低音：A,,2 (第7个音)\n分段：\n1. A,2-B,2 (上升)\n2. B,2-F,2-E,2-C,2-B,,2-A,,2 (下降)\n轮廓类型：凸型 (Convex)"}
+{"id": "ABC-V2-0080", "model": "gemini-3.1-pro-preview", "response": "=D,在第一小节末尾出现，并通过延音线（-）连接到第二小节的=D,，从而跨越了\"Emaj7\"和\"Fdim7\"两个和弦。在E大调调号下，D默认是升D（D#），而=D,使用了还原记号，表示还原D，与调号规定的升D不同。"}
+{"id": "ABC-V2-0081", "model": "gemini-3.1-pro-preview", "response": "K: E\nz8 | \"E\" B,6 F6 G4 | \"F#m7\" A6 C4 A4 G2- | \"B7\" G4 F4 D4 E4 |"}
+{"id": "ABC-V2-0082", "model": "gemini-3.1-pro-preview", "response": "前两条谱行持续使用D#m和弦。这种长时间不换和弦说明开头和声节奏非常缓慢。"}
+{"id": "ABC-V2-0083", "model": "gemini-3.1-pro-preview", "response": "音符序列：E4 C2 F2 A2 B2 c2 e2\n首尾音比较：E4 < e2\n全局极值：e2 (最高音), C2 (最低音)\n轮廓分类：波浪形上升 (首音低于尾音，且中间有起伏)"}
+{"id": "ABC-V2-0084", "model": "gemini-3.1-pro-preview", "response": "第一小节以E♭开始，随后下降到D并保持，第二小节在D上停留后，通过C-D的级进运动再次回到E♭，形成E♭-D-C-D-E♭的离开与返回轮廓。"}
+{"id": "ABC-V2-0085", "model": "gemini-3.1-pro-preview", "response": "完成了持续换调。目标调为F大调。换号边界在第1小节末尾，调号从E大调变为F大调。后续和弦\"F\"（F大调主和弦）和\"Dm\"（F大调关系小调主和弦）共同确认了F大调的调性。"}
+{"id": "ABC-V2-0086", "model": "gemini-3.1-pro-preview", "response": "C在2/4拍下起音，延续到4/4拍。"}
+{"id": "ABC-V2-0087", "model": "gemini-3.1-pro-preview", "response": "静默后首个完整小节标记 E 和弦，下一小节转到 C#m 和弦。在 E 大调中，C#m 是 vi 级和弦，属于下属功能组，常用于阻碍终止或作为主和弦的替代。"}
+{"id": "ABC-V2-0088", "model": "gemini-3.1-pro-preview", "response": "低音由Fm的根音F经Fm7/E♭的低音E♭下行级进至D♭。Fm7/E♭是Fm7的第三转位。"}
+{"id": "ABC-V2-0089", "model": "gemini-3.1-pro-preview", "response": "最低音是 F,，最高音是 E。两端相距 11 个半音，构成大七度音程。"}
+{"id": "ABC-V2-0090", "model": "gemini-3.1-pro-preview", "response": "A段处于更高平均音区，B段覆盖更大范围。\nA段音符集中在B4和A4，音区较高且范围窄。B段包含E4、B2、D3、E3、B3，跨越两个八度，范围更广。B段的低音下探（B,,4）显著扩大了音域范围，而持续音（E8, E,12）则稳定了低音区的和声基础。"}
+{"id": "ABC-V2-0091", "model": "gemini-3.1-pro-preview", "response": "这两个小节构成A♭大调的正格解决。\n\n判断依据：\n1. 调性：谱例明确标注为A♭大调（K: Ab）。\n2. 和弦进行：第一小节的和弦为\"Eb7\"，即A♭大调的属七和弦（V7）；第二小节的和弦为\"Ab\"，即A♭大调的主和弦（I）。\n3. 解决：从属七和弦（V7）进行到主和弦（I）是典型的正格解决。"}
+{"id": "ABC-V2-0092", "model": "gemini-3.1-pro-preview", "response": "最后两次起音是 C 和 E，在 Gm 调中，C 是第四音，E 是第六音（由于调号，实际为 Eb）。从 C 到 Eb 是小三度音程，属于跳进。"}
+{"id": "ABC-V2-0093", "model": "gemini-3.1-pro-preview", "response": "谱段B的低B重复型与谱段A相比没有被加密或简化。两小节的起音完全相同。"}
+{"id": "ABC-V2-0094", "model": "gemini-3.1-pro-preview", "response": "C2 C2 C2 C2 C2 B,2 A,2 B,2\n开头同音连续起音的次数为5。"}
+{"id": "ABC-V2-0095", "model": "gemini-3.1-pro-preview", "response": "C#7和弦没有按惯例解决。它的升高三音是E#。后续三个和弦是E、E6、C#m7，E#半音下行到E和弦的根音E，从而转为同根小和弦色彩。"}
+{"id": "ABC-V2-0096", "model": "gemini-3.1-pro-preview", "response": "旋律依次出现D、C、A。相对E♭，D是大七度，C是大六度，A是增四度。其中A音最直接带来利底亚色彩。"}
+{"id": "ABC-V2-0097", "model": "gemini-3.1-pro-preview", "response": "8拍；全休止符。\n\n解释：\n第一小节首音为 `B,2`，时值为 2 个 1/16 音符，即 1/8 拍。紧接的休止符为 `z8`，时值为 8 个 1/16 音符，即 1/2 拍。在 4/4 拍中，1/2 拍等于 2 拍。因此，该休止符应空出 2 拍。常用休止符名称为全休止符。"}
+{"id": "ABC-V2-0098", "model": "gemini-3.1-pro-preview", "response": "八分休止符，半拍。"}
+{"id": "ABC-V2-0099", "model": "gemini-3.1-pro-preview", "response": "第五个完整小节（\"Dm7\" E,8- E,2 E,4 E,2-）中几乎全程持续的旋律音是 E,。\n在 Dm7 和弦（D-F-A-C）中，E 是九音。\n这种持续延伸音（九音）带来了丰富的和声色彩，增加了和弦的紧张度和爵士风味，使和声听起来更加饱满和现代。"}
+{"id": "ABC-V2-0100", "model": "gemini-3.1-pro-preview", "response": "E♭/G是A♭大调的属和弦（V），Fm是下中音和弦（vi）。低音从G半音下行到F。属和弦没有回到主和弦，而是进行到了vi和弦，形成阻碍进行。"}
+{"id": "ABC-V2-0101", "model": "gemini-3.1-pro-preview", "response": "休止总共占 5 个十六分单位，相当于 1.25 拍。\n第一个休止符占 1 个十六分单位，位于第 2 拍的第 4 个十六分音符位置。\n第二个休止符占 4 个十六分单位，位于第 3 拍。\n第三个休止符占 1 个十六分单位，位于第 4 拍的第 2 个十六分音符位置。"}
+{"id": "ABC-V2-0102", "model": "gemini-3.1-pro-preview", "response": "所示材料未改变G大调中心。D7—G进行（D7和弦包含F#，G和弦包含G）是G大调的属到主进行，直接确立了G大调。后两小节（Am和弦包含C，D7和弦包含F#，D6和弦包含F#，Em7和弦包含E）均属于G大调的自然音阶和弦，与G大调中心完全相容。"}
+{"id": "ABC-V2-0103", "model": "gemini-3.1-pro-preview", "response": "首小节的B♭7sus4通过挂留音E♭下行级进至D，解除为B♭7。后继和弦E♭maj7完成了E♭大调的主功能落地。挂留音E♭在这次终止中预示了主和弦E♭maj7的根音。"}
+{"id": "ABC-V2-0104", "model": "gemini-3.1-pro-preview", "response": "发声与留白等长。\n发声（B,,8）占8个1/16音符，即2拍；留白（z8）占8个1/16音符，即2拍。"}
+{"id": "ABC-V2-0105", "model": "gemini-3.1-pro-preview", "response": "功能链为II7-V7-V7-Imaj7，属七和弦（C7）在第四小节实际解决到主和弦（Fmaj7）。"}
+{"id": "ABC-V2-0106", "model": "gemini-3.1-pro-preview", "response": "行内换号将G小调转向其关系大调降B大调。换号后的Dm7和Gm7分别被重新解释为降B大调的iii级和vi级和弦。后续的Bbmaj7和弦确认了目标主音降B。"}
+{"id": "ABC-V2-0107", "model": "gemini-3.1-pro-preview", "response": "没有。前四小节的F♯和弦（属和弦）延长和休止只是在B大调的框架内制造期待，随后的B—F♯进行（主—属）进一步巩固了B大调，并未建立新调。"}
+{"id": "ABC-V2-0108", "model": "gemini-3.1-pro-preview", "response": "首小节三个和弦的低音构成下行级进线条（F-E-D），C/E在F大调中承担属和弦的第一转位功能。"}
+{"id": "ABC-V2-0109", "model": "gemini-3.1-pro-preview", "response": "A♯7在F♯大调中主音化D♯m和弦，材料展示了实际解决。"}
+{"id": "ABC-V2-0110", "model": "gemini-3.1-pro-preview", "response": "最低音是 B♭2，最高音是 A4。两端构成大十四度，距离纯八度还差10个半音。"}
+{"id": "ABC-V2-0111", "model": "gemini-3.1-pro-preview", "response": "前两个发声音的科学音高是 C#4 和 E3。这次下行跃进是小六度音程。"}
+{"id": "ABC-V2-0112", "model": "gemini-3.1-pro-preview", "response": "第二小节末的七和弦（Bbm7）在降B小三和弦（Bb-Db-F）的基础上增加了小七度音Ab。第四小节的六和弦（Gb6）在降G大三和弦（Gb-Bb-Db）的基础上增加了大六度音Eb。"}
+{"id": "ABC-V2-0113", "model": "gemini-3.1-pro-preview", "response": "Fm7–B♭7sus4的衔接并未建立F小调、B♭大调或C大调。结合后续的A♭和B♭7和弦，这一进行更倾向于E♭大调的ii7–V7sus4–IV–V7进行，最终解决到Gm（iii和弦），整体处于E♭大调的调性框架内。"}
+{"id": "ABC-V2-0114", "model": "gemini-3.1-pro-preview", "response": "该谱段通过“F#m7 - B - E”的进行，即 ii7 - V - I 的经典和声功能序进，明确建立了 E 大调的和声体系。在第二小节，主和弦（E）的落点出现后，通过第三、四小节持续的 E 和弦伴奏音型（如 B,,、C,、E, 等音的交替与重复），在节奏和织体上对主和弦进行了延长与巩固。"}
+{"id": "ABC-V2-0115", "model": "gemini-3.1-pro-preview", "response": "第三小节通过 `[M:2/4]` 临时改变了拍号，因此它是一个完整的 2/4 拍小节，而不是 4/4 拍下的半小节。紧接的第四小节通过 `[M:4/4]` 恢复为 4/4 拍。"}
+{"id": "ABC-V2-0116", "model": "gemini-3.1-pro-preview", "response": "第一枚F,是十六分音符，第二枚F,2是八分音符。后者是前者的两倍。"}
+{"id": "ABC-V2-0117", "model": "gemini-3.1-pro-preview", "response": "Fmaj7/A的低音是A，扩展音是大七度（E）；Dm7是小七和弦。"}
+{"id": "ABC-V2-0118", "model": "gemini-3.1-pro-preview", "response": "谱段B的第2-3小节完整重现了谱段A的D—C回摆与第二小节休止。"}
+{"id": "ABC-V2-0119", "model": "gemini-3.1-pro-preview", "response": "B♭7后的和声落点是E♭，主和弦的稳定在下一小节继续。"}
+{"id": "ABC-V2-0120", "model": "gemini-3.1-pro-preview", "response": "F♯m7/C♯的低音是C♯，七音是E；Dmaj7的低音是D，七音是C♯。"}
+{"id": "ABC-V2-0121", "model": "gemini-3.1-pro-preview", "response": "开场休止符为 `z6`，在 `L: 1/16` 下，时值为 6 个十六分音符，即附点八分音符，持续 1.5 拍。"}
+{"id": "ABC-V2-0122", "model": "gemini-3.1-pro-preview", "response": "A7的实际后继是Dm7，确认了A7作为属和弦（V7）解决到主和弦（i7）的功能。末小节的Em7b5（iiø7）把和声带向了属和弦（V）的前属区域，为接下来的属和弦做准备。"}
+{"id": "ABC-V2-0123", "model": "gemini-3.1-pro-preview", "response": "\"Fm7\" \"Bb\" \"Eb\" 构成 ii7 - V - I 进行，最后停在 Eb 大调主和弦上。"}
+{"id": "ABC-V2-0124", "model": "gemini-3.1-pro-preview", "response": "目标在搜索范围中从第1个局部小节开始出现，并连续占据第1、2小节。\n\n解释：\n目标旋律由两条互补的C—D—E旋律组成，即“C3 D2C2 E2D2C2E2D- | DC2E2D2 C2E2D2C2E-”。在谱段B中，这部分旋律从第1个局部小节开始，连续占据了第1和第2小节。"}
+{"id": "ABC-V2-0125", "model": "gemini-3.1-pro-preview", "response": "第二小节保持不变，第一小节局部变奏。"}
+{"id": "ABC-V2-0126", "model": "gemini-3.1-pro-preview", "response": "B, 和 G。音程为小六度。"}
+{"id": "ABC-V2-0127", "model": "gemini-3.1-pro-preview", "response": "C7含导音E自然，B♭m属于小三和弦。"}
+{"id": "ABC-V2-0128", "model": "gemini-3.1-pro-preview", "response": "主音为 D，调式为 D 小调。\n\n依据：\n1.  **和弦进行**：谱例中出现了 \"A\" -> \"Dm\" 的和弦进行。A 和弦（A 大三和弦）是 D 小调的属和弦（V），Dm 和弦（D 小三和弦）是 D 小调的主和弦（i）。V -> i 的进行是典型的正格终止，强烈暗示了 D 小调。\n2.  **后续色彩**：后续出现的 \"C6\" 和 \"Bb\" 和弦也符合 D 小调的自然音阶和弦（VII 和 VI），进一步巩固了 D 小调的调性色彩。"}
+{"id": "ABC-V2-0129", "model": "gemini-3.1-pro-preview", "response": "这两个音符是 ^B, 和 F。\n在 E 大调中，F 默认升半音为 F#。\n^B, 带有显式升号，实际音高为 B#。\n从 B# 到 F# 的下行音程是减五度。"}
+{"id": "ABC-V2-0130", "model": "gemini-3.1-pro-preview", "response": "没有。谱段B与谱段A完全相同，没有进行移调或节奏扩张。两段的首句音高和时值完全一致。"}
+{"id": "ABC-V2-0131", "model": "gemini-3.1-pro-preview", "response": "在K:E下，B和弦上写作F、G、C的旋律音实际为F#、G#、C#，它们分别是B和弦的五音、十三音和九音，这些音属于自然延伸音，不支持B7alt的判断。"}
+{"id": "ABC-V2-0132", "model": "gemini-3.1-pro-preview", "response": "相同。`D,3` 和 `E,3` 都是附点八分音符。"}
+{"id": "ABC-V2-0133", "model": "gemini-3.1-pro-preview", "response": "4/4、2/4、3/4；最后一组连续八分音属于3/4拍。"}
+{"id": "ABC-V2-0134", "model": "gemini-3.1-pro-preview", "response": "首小节D大三和弦（属和弦）在第二小节解决到Gm和弦（主和弦）。后续主功能保持了两个小节，分别是第二小节的Gm和第三小节的Gm7。"}
+{"id": "ABC-V2-0135", "model": "gemini-3.1-pro-preview", "response": "不是。双逗号B（B,,）是最低音，但单逗号B（B,）不是最高音。谱段中出现了比单逗号B更高的音，如D,、E,、F,、A,、G,。"}
+{"id": "ABC-V2-0136", "model": "gemini-3.1-pro-preview", "response": "这段旋律在连续短音后由第四音（A♭）落到第五音（B♭）。结合E♭调号，A♭和B♭之间是大二度关系，因此这一落点关系属于大二度。"}
+{"id": "ABC-V2-0137", "model": "gemini-3.1-pro-preview", "response": "这段音乐的速度感较快（Q=188），但旋律活动感相对平缓。虽然Q=188表示每分钟188个四分音符，速度较快，但谱例中大量使用了八分音符（如B,2G,2）、四分音符（如G,4）和二分音符（如E8），以及较长的休止符（如z8, z6）。这些较长的音符和休止符使得实际的起音频率并不密集，因此旋律听起来并不急促。"}
+{"id": "ABC-V2-0138", "model": "gemini-3.1-pro-preview", "response": "这个小节总共有4拍。发声占2拍，留白占2拍。\n\n解释：\n谱例中 `L: 1/16` 表示基本音符单位是十六分音符，`M: 4/4` 表示每小节有4拍，每拍是四分音符（即4个十六分音符）。\n小节内容 `\"Bb\" B,,8 z8` 包含：\n- `B,,8`：发声，持续8个十六分音符，即2拍。\n- `z8`：休止（留白），持续8个十六分音符，即2拍。\n总计4拍。"}
+{"id": "ABC-V2-0139", "model": "gemini-3.1-pro-preview", "response": "第二个发声音是 C4，即 C#3。带逗号的 G 是 G,4，即 G#2。从 C#3 下落到 G#2，音程为纯四度。"}
+{"id": "ABC-V2-0139-A1", "model": "gemini-3.1-pro-preview", "response": "音高序列：A2, C3, G2, F2。\n音程运动：\n- A2 到 C3：上行小三度\n- C3 到 G2：下行纯四度\n- G2 到 F2：下行大二度\n音域：F2 - C3。"}
+{"id": "ABC-V2-0140", "model": "gemini-3.1-pro-preview", "response": "E♭m7—F—B♭m构成iv7—V—i的典型小调阻碍-属-主进行，第三小节B♭m和弦真实落主，形成完满终止。"}
+{"id": "ABC-V2-0141", "model": "gemini-3.1-pro-preview", "response": "这段的时间组织更接近“规则拍点中的断续活动”。\n\nG小调的暗淡色彩与Ebmaj7、Gm7两种七和弦的交替，营造出一种忧郁而略带悬疑的氛围。疏密交替的节奏（长休止符与短促音符的对比）打破了平稳的流动，将情绪重心推向一种压抑、不安且充满期待的紧张感中。"}
+{"id": "ABC-V2-0142", "model": "gemini-3.1-pro-preview", "response": "后四小节没有建立新的调性中心。\n\n解释：\n前四小节和声进行为 F#7 - G - A6 - Bm，是 B 小调的 V7 - VI - VII - I 进行，明确了 B 小调。\n后四小节和声进行为 Bm - G - A6 - Bm，是 B 小调的 I - VI - VII - I 进行。\n后四小节的第三个和弦是 A6，其构成音为 A-C#-E-F#，在 B 小调中作为 VII 级和弦（或自然小调的 VII 级附加六度），并没有发生等音重释。末端落点为 Bm，即 B 小调的主和弦。因此，后四小节依然停留在 B 小调，没有建立新的调性中心。"}
+{"id": "ABC-V2-0143", "model": "gemini-3.1-pro-preview", "response": "谱段A的小节线构成清楚的乐句边界。下一句没有在小节线处立即发声，因为谱段B开头有四分休止符（z4），即休止了4个1/16音符的长度。"}
+{"id": "ABC-V2-0144", "model": "gemini-3.1-pro-preview", "response": "Dmaj7的七音是C#，大七度，主功能；A7的七音是G，小七度，属功能。A7中制造属张力的音程是C#-G（减五度）。"}
+{"id": "ABC-V2-0145", "model": "gemini-3.1-pro-preview", "response": "级数骨架为III-VII-I-VI，主和弦位于句中。"}
+{"id": "ABC-V2-0146", "model": "gemini-3.1-pro-preview", "response": "A7/C♯是第一转位和弦。在F大调中，A7是vi级（Dm）的属和弦，因此是应用属和弦。下一小节的实际和弦是Dm，目标兑现。"}
+{"id": "ABC-V2-0147", "model": "gemini-3.1-pro-preview", "response": "C♯7在F♯大调中是属七和弦，预期指向主和弦F♯。材料中实际后继是Bmaj7（下属七和弦），这构成了阻碍解决（V7-IV7），推迟了主和弦的出现，增加了音乐的张力。"}
+{"id": "ABC-V2-0148", "model": "gemini-3.1-pro-preview", "response": "第三个有声小节（即谱例第三小节）由Emaj7换到D♯m7时，换和弦前后的两个旋律音分别是D,和F,。\nD,是Emaj7和弦的七音，F,是D♯m7和弦的三音。\n旋律由D,上行小三度到F,，和弦根音由E下行小二度到D♯。"}
+{"id": "ABC-V2-0149", "model": "gemini-3.1-pro-preview", "response": "是，C♯7（属）解决到F♯m（主），主功能延续到第3小节。"}
+{"id": "ABC-V2-0150", "model": "gemini-3.1-pro-preview", "response": "D7和弦。构成：D-F#-A-C。功能：F大调的VI级副属和弦（V7/II）。导向作用：F#作为导音，强烈倾向于解决到Gm7的根音G。"}
+{"id": "ABC-V2-0151", "model": "gemini-3.1-pro-preview", "response": "谱段A和谱段B的旋律完全相同。\n\n解释：\n对比谱段A和谱段B，除了和弦标签 \"Fmaj7\" 和 \"F\" 的拼写差异外，两者的音符序列、时值和休止符完全一致，均为 `G8- G2A2G2D2 | E4 z4 z2 C2C2D2 |`。因此，它们的旋律关系是完全相同。"}
+{"id": "ABC-V2-0152", "model": "gemini-3.1-pro-preview", "response": "后三个G♯7/D♯标记覆盖的有声小节中，旋律分别落在G♯2和E3。\nG♯2是和弦内音（根音），E3是和弦外音，形成♭13张力。\nG♯7/D♯是G♯7和弦的第二转位。"}
+{"id": "ABC-V2-0153", "model": "gemini-3.1-pro-preview", "response": "目标两小节从谱段B的第2小节进入，首个F♯低音token为`F,2`。"}
+{"id": "ABC-V2-0154", "model": "gemini-3.1-pro-preview", "response": "谱段A和谱段B完全相同。二者在F—低B♭摆动以及第二小节尾部短音上没有任何变化。"}
+{"id": "ABC-V2-0155", "model": "gemini-3.1-pro-preview", "response": "四小节和弦功能依次为：iii - IV - V7 - I (V6)。\n在第三小节到第四小节，B7（属七）解决到了E（主和弦），落到了主和弦上。\n末小节后半形成开放结尾是因为第四小节后半拍出现了B/D#（属和弦的第一转位，即V6），打破了主和弦的稳定感，形成了半终止（开放结尾）。"}
+{"id": "ABC-V2-0156", "model": "gemini-3.1-pro-preview", "response": "Q=85的拍速设定了从容的整体节奏，而逐小节的和弦变化（G-Bm-Em）提供了稳定的和声框架。同时，连续的十六分音符（短音）起音创造了持续的脉动感，这种脉动在从容的拍速下显得既有活力又不失稳重，两者结合形成了独特的音乐体验。"}
+{"id": "ABC-V2-0157", "model": "gemini-3.1-pro-preview", "response": "前一和弦（Dm7b5）的减五音是Ab，后一和弦（G7）的三音是B，作为导音强烈倾向于解决到Cm7的根音C。"}
+{"id": "ABC-V2-0158", "model": "gemini-3.1-pro-preview", "response": "“+”表示增三和弦。在Gm7中，B♭是小三度，D是纯五度；在G♭+中，B♭是增三度（等音为大三度），D是增五度。"}
+{"id": "ABC-V2-0159", "model": "gemini-3.1-pro-preview", "response": "谱段A的两小节材料在谱段B中从第2小节开始完整出现。\n\n解释：\n谱段A的第1小节（\"F#m7\" E2C2A,2B,2 C4 A,2E2-）与谱段B的第2小节完全相同。\n谱段A的第2小节（\"Bm7\" E2D2C2D2 A3F3B,2）与谱段B的第3小节完全相同。\n因此，谱段A的材料在谱段B中从第2小节开始完整出现。"}
+{"id": "ABC-V2-0160", "model": "gemini-3.1-pro-preview", "response": "Emaj7小节总长16个1/16音符（即4拍）。前半部分发声占8个1/16音符（2拍），后半部分休止占8个1/16音符（2拍）。"}
+{"id": "ABC-V2-0161", "model": "gemini-3.1-pro-preview", "response": "A♭和弦作为降III级和弦，引入了同主音小调（F小调）的色彩，增加了和声的暗淡感和意外感。后续的属功能和弦C7在第5小节的F和弦处实际回主。"}
+{"id": "ABC-V2-0161-A1", "model": "gemini-3.1-pro-preview", "response": "第6小节由前小节连音进入（A,- | A,G,A,2...）。经过音^G,只在第6小节出现（\"Ab+\" A,2G,G,-）。A♭（A♭-C-E♭）与A♭+（A♭-C-E）的音集差异在于E♭变为E，增加了增三和弦的紧张度，带来更强的不稳定感和张力。"}
+{"id": "ABC-V2-0162", "model": "gemini-3.1-pro-preview", "response": "4拍。\n\n谱段的拍号为 4/4，即每小节有 4 拍。第一小节为 `z16`，在 `L: 1/16` 的设定下，代表 16 个十六分音符的休止，正好等于 4 拍，即一个完整的静默小节。因此，在下一小节的首音进入前，需要数满 4 拍。"}
+{"id": "ABC-V2-0163", "model": "gemini-3.1-pro-preview", "response": "E,是最低音，E是最高音。总音域为E,到E。"}
+{"id": "ABC-V2-0164", "model": "gemini-3.1-pro-preview", "response": "在C♯7sus4和C♯7和弦中，挂四音是F♯，三音是E♯。因此，F♯应解决到E♯。"}
+{"id": "ABC-V2-0165", "model": "gemini-3.1-pro-preview", "response": "Am7b5在G小调中由A、C、Eb、G构成，它与普通Am7差在五音，Am7b5是降五音（Eb），而Am7是纯五音（E）。"}
+{"id": "ABC-V2-0166", "model": "gemini-3.1-pro-preview", "response": "A段有9个独立起音，音区为D,至F，音域为15个半音。\nB段有2个独立起音，音区为f至g，音域为2个半音。"}
+{"id": "ABC-V2-0167", "model": "gemini-3.1-pro-preview", "response": "F7作为V7/vi，实际解决到了Bbm（vi级），符合预期解决。随后D♭/A♭（I级第二转位）的低音A♭（属音）增加了和弦的不稳定性，通常作为经过和弦或终止四六和弦，引导向属和弦或下属和弦（此处接Gb，IV级）。"}
+{"id": "ABC-V2-0168", "model": "gemini-3.1-pro-preview", "response": "第一小节从唯一长起音开始到小节线共包含4拍。该长音自身占其中2拍。\n\n解释：\n谱例中 `L: 1/16` 表示基本音符单位为十六分音符，`M: 4/4` 表示每小节有4拍，每拍为四分音符（即4个十六分音符）。\n第一小节的音符序列为 `\"Bbsus4\" D,8 z4 G,2B,B,-`。\n唯一的长起音是 `D,8`，它占据了8个十六分音符的时值，即 8/4 = 2拍。\n从 `D,8` 开始到小节线，整个小节的时值为 8 (D,8) + 4 (z4) + 2 (G,2) + 1 (B,) + 1 (B,-) = 16个十六分音符，即 16/4 = 4拍。"}
+{"id": "ABC-V2-0169", "model": "gemini-3.1-pro-preview", "response": "这段音乐没有完成从 E 小调到 G 大调的结构性转调，只是对关系大调进行了临时主和弦化。\n\n**解释：**\n音乐以 E 小调主和弦（Em）开始并持续了四个小节，确立了 E 小调的调性。随后和弦进行为 Em - Am - D - G - D/F#。虽然出现了 G 大调的主和弦（G），但它是由其属和弦（D）引入的，这在 E 小调中可以看作是对关系大调（G 大调）的临时主和弦化（即离调）。紧接着的 D/F# 和弦（G 大调的属和弦第一转位）并没有解决到 G 大调主和弦，而是暗示了音乐将继续发展，并未在 G 大调上形成稳定的终止式，因此不能算作结构性转调。"}
+{"id": "ABC-V2-0171", "model": "gemini-3.1-pro-preview", "response": "Fm/C的低音是C，根位Fm的低音是F。这两个标签不改变和弦性质，都是F小三和弦。"}
+{"id": "ABC-V2-0172", "model": "gemini-3.1-pro-preview", "response": "谱段A末小节线构成强边界。谱段B的新句在小节后半进入。\n\n解释：谱段A的单音C占据了小节的第一个八分音符，随后是长达七个八分音符的休止，这在听觉上形成了一个明显的停顿，因此A末小节线构成强边界。谱段B的前半小节（8个十六分音符）为休止，新句从后半小节开始进入。"}
+{"id": "ABC-V2-0173", "model": "gemini-3.1-pro-preview", "response": "首小节时值序列为3+3+3+3+3+1=16，填满4/4拍。跨小节的D连音在第二小节补成2/16，总时值为3/16。"}
+{"id": "ABC-V2-0174", "model": "gemini-3.1-pro-preview", "response": "开头两个同名C处于不同八度，是因为第一个C（C2）位于中央C，而第二个C（C,2）带有逗号，表示低一个八度。\n\n音高路径：C4 -> C3 -> E3 -> F3 -> G3 -> A3 -> C4 -> D4。\n\n最高音位于第8位（D4），最低音位于第2位（C3）。\n\n方向共改变1次（第2音后由下行转为上行）。\n\n整体轮廓：先下行后持续上行。"}
+{"id": "ABC-V2-0175", "model": "gemini-3.1-pro-preview", "response": "骨干音序：E,C,B,,G,,E,,C,,E\n起音：E\n收音：E\n全局最低音：C,,\n轮廓：下行-上行"}
+{"id": "ABC-V2-0176", "model": "gemini-3.1-pro-preview", "response": "和弦事件由少到多：第1小节（1个，B）、第2小节（2个，C#m7、F#7）、第3小节（2个，D#7、G#m）。\n唯一实际兑现的属七解决：D#7 -> G#m。\n和声节奏与连续短音共同形成的是带局部目标的推进。"}
+{"id": "ABC-V2-0177", "model": "gemini-3.1-pro-preview", "response": "五和弦链：Fmaj7 - B7 - Em7 - A7 - Dm7。\n根音运动：F - B - E - A - D。\n获得实际解决的属七和弦：B7（解决到Em7）和A7（解决到Dm7）。"}
+{"id": "ABC-V2-0178", "model": "gemini-3.1-pro-preview", "response": "第一小节有3次独立起音，持续音占比为1/4；第二小节有1次独立起音，持续音占比为3/4。"}
+{"id": "ABC-V2-0179", "model": "gemini-3.1-pro-preview", "response": "F2 F2 F2 G2 F2 E♭2 E♭2 F2。\n\n解释：\n调号 K:E♭ 包含 B♭, E♭, A♭。\n音符 F, 对应 F2，G, 对应 G2，E, 对应 E♭2。\n因此，这八个音符的实际音高依次为 F2 F2 F2 G2 F2 E♭2 E♭2 F2。"}
+{"id": "ABC-V2-0180", "model": "gemini-3.1-pro-preview", "response": "真实音域为 B, 到 d。\nB, 到 d 跨越了 B, C D E F G A B c d，共 10 个音级，超过了一个八度（8 个音级）。"}
+{"id": "ABC-V2-0181", "model": "gemini-3.1-pro-preview", "response": "A♯m7和E♭7和弦的根音A♯和E♭互为增四度/减五度关系，在十二平均律中，A♯m7可以等音拼写为B♭m7，E♭7可以等音拼写为D♯7。A♯m7是小七和弦，E♭7是属七和弦。"}
+{"id": "ABC-V2-0182", "model": "gemini-3.1-pro-preview", "response": "谱段A是单音区重复，谱段B把同音材料扩展到多个八度。\n\n解释：\n谱段A中，所有的音符都是F,，即大字组的F，音区单一。\n谱段B中，出现了F,,,（大字三组的F）和F,,（大字二组的F），将F音扩展到了不同的八度。"}
+{"id": "ABC-V2-0183", "model": "gemini-3.1-pro-preview", "response": "首小节的音符和休止符相加为16个1/16音符，填满4/4拍。末音 `D,4` 占1拍。"}
+{"id": "ABC-V2-0184", "model": "gemini-3.1-pro-preview", "response": "前两小节的时值排列不相同。差异集中在第1小节的第4拍和第2小节的第1拍、第4拍。"}
+{"id": "ABC-V2-0185", "model": "gemini-3.1-pro-preview", "response": "E连音持续4拍，后半小节的休止占8拍。\n\n解释：\n在第二小节中，\"E,,2- E,,4\" 表示一个E连音，其时值为2+4=6个1/16音符，即6/16拍，等于3/8拍，也就是1.5拍。但题目问的是“持续几拍”，在4/4拍中，1/16音符是1/4拍，所以6个1/16音符是1.5拍。但根据ABC记谱法，\"E,,2- E,,4\" 实际上是两个音符的连结，总时值为6个单位。由于L: 1/16，每个单位是1/16拍。所以总时值是6/16拍。但通常“拍”指的是四分音符（在4/4拍中）。所以6/16拍 = 1.5拍。\n后半小节的休止符是 \"z8\"，表示8个1/16音符的时值，即8/16拍，等于2拍。"}
+{"id": "ABC-V2-0186", "model": "gemini-3.1-pro-preview", "response": "谱段B完整引用了谱段A的同一旋律。两个谱段的音高和时值完全一致，均为：B2 c4 B2 c2 c4 A2 | B4 z6 E2F2G2- |。"}
+{"id": "ABC-V2-0187", "model": "gemini-3.1-pro-preview", "response": "D♭/F是第一转位，A♭/C是第一转位。\nD♭/F参与形成G♭-F-E♭的级进下行低音线，A♭/C参与形成D♭-C-B♭的级进下行低音线。"}
+{"id": "ABC-V2-0188", "model": "gemini-3.1-pro-preview", "response": "开头完整休止小节需要数4拍。下一小节的连续短音从第1拍开始。"}
+{"id": "ABC-V2-0189", "model": "gemini-3.1-pro-preview", "response": "第1与第3小节共享的等分节奏为：E,2C,2 G,2F,2E,2D,2。\n共享材料前的休止与起音不同点在于：第1小节在共享材料前有二分休止符（z2）和起音C,2；而第3小节在共享材料前有四分休止符（z4），没有起音。"}
+{"id": "ABC-V2-0190", "model": "gemini-3.1-pro-preview", "response": "谱段A的和声骨架（E - G♯m7/D♯ - C♯m7 - A - B7sus4 - B）与谱段B的落点（E）并未建立新主调，而是巩固了E大调。\n\n在E大调内，谱段A的功能进行为：I - iii7/7 - vi7 - IV - V7sus4 - V。谱段B的落点为I（E大调主和弦）。\n\nG♯m7/D♯（iii7/7）与Emaj7/G♯（Imaj7/3）分别形成了下行级进（E - D♯ - C♯）和上行跳进（E - G♯ - A）的低音连接。"}
+{"id": "ABC-V2-0191", "model": "gemini-3.1-pro-preview", "response": "第一小节开头两枚八分音（B,2F,2）共占1拍，距离小节线还有3拍。后续休止符（z6）占1.5拍，起音（A,2A,2F,2）占1.5拍，共同填满剩余的3拍。"}
+{"id": "ABC-V2-0192", "model": "gemini-3.1-pro-preview", "response": "D总共持续20个十六分音符（即5拍），和弦更换时没有产生新起音。\n\n解释：\n在第一小节中，D,12- 表示D持续12个十六分音符，并带有延音线。\n在第二小节中，D,4- 表示D持续4个十六分音符，并带有延音线。\n在第三小节中，D,4 表示D持续4个十六分音符。\n由于延音线的存在，这三个D音符被连接在一起，总持续时间为 12 + 4 + 4 = 20 个十六分音符。\n和弦在第一小节和第二小节之间从 \"Bmaj7\" 变为 \"D#m7\"，但由于延音线的存在，D音符没有重新发音，因此没有产生新起音。"}
+{"id": "ABC-V2-0193", "model": "gemini-3.1-pro-preview", "response": "G♯m7小节的12单位长音从第2拍开始，占据3拍。\n\n解释：\n在G♯m7小节中，音符序列为`C,2B,,2 B,,12`。\n- `C,2`和`B,,2`各占2个单位，共4个单位，即1拍（4/16）。\n- `B,,12`是一个12单位长音，从第2拍开始，占据12/16，即3拍。"}
+{"id": "ABC-V2-0194", "model": "gemini-3.1-pro-preview", "response": "三个B和弦小节的有声时长相同，均为8个1/16音符。\n第一个B和弦小节前8个1/16音符休止，后8个1/16音符发声；\n第二个B和弦小节前8个1/16音符发声，后8个1/16音符休止；\n第三个B和弦小节前8个1/16音符发声，后8个1/16音符休止。"}
+{"id": "ABC-V2-0195", "model": "gemini-3.1-pro-preview", "response": "末小节的两个和弦标签是 \"Abmaj7\" 和 \"Ab6\"。\n它们分别增加了大七度音 (G) 和大六度音 (F) 作为色彩音。\n它们保留的共同三和弦核心是降A大三和弦 (Ab major triad)，包含音符 Ab, C, Eb。"}
+{"id": "ABC-V2-0195-A1", "model": "gemini-3.1-pro-preview", "response": "末小节第二个和弦（Ab6）的音级集合为{Ab, C, Eb, F}。若改写为七和弦，可写成Fm7（F-Ab-C-Eb）。\n这种重释将根音从Ab变为F，功能听法从主和弦（I6）变为下中音和弦（vi7），增加了音乐的色彩变化和进行方向的模糊性。"}
+{"id": "ABC-V2-0196", "model": "gemini-3.1-pro-preview", "response": "G4 > B,3 < E4 < F4 < G4 < B4。最低音是B,3。轮廓是下-上-上-上-上。"}
+{"id": "ABC-V2-0197", "model": "gemini-3.1-pro-preview", "response": "第一小节由一枚附点二分音符和一枚四分音符构成。指挥应给出4拍，末音落在第4拍。"}
+{"id": "ABC-V2-0198", "model": "gemini-3.1-pro-preview", "response": "C♯7/E♯是第一转位，低音E♯是F♯的导音，形成半音上行解决，进入F♯m的根音F♯，连接顺畅。"}
+{"id": "ABC-V2-0199", "model": "gemini-3.1-pro-preview", "response": "这段音乐的调式是A小调。\n\n解释：\n谱例中反复出现“Am”和弦，并且在结尾处使用了“E7sus4”和弦，这在A小调中具有属功能，指向主和弦Am。因此，全局主音是A，调式是小调。"}
+{"id": "ABC-V2-0200", "model": "gemini-3.1-pro-preview", "response": "谱段通过插入 `[M:2/4]` 拍号，将 `C4 E4` 组织成一个 2/4 拍的短小节。下一枚 A♭ 和弦进入时，拍号已经通过 `[M:4/4]` 恢复为 4/4 拍。"}
+{"id": "ABC-V2-0201", "model": "gemini-3.1-pro-preview", "response": "休止前的音是 B,，实际音高为 Bb2。休止后的音是 A，实际音高为 A4。跨越休止的旋律音程是小七度。"}
+{"id": "ABC-V2-0202", "model": "gemini-3.1-pro-preview", "response": "旋律在F,改变方向，整体轮廓为下行-上行。"}
+{"id": "ABC-V2-0203", "model": "gemini-3.1-pro-preview", "response": "Am7属于G大调自然和声（II级）。Cm7含降E（^D在ABC中表示升D，但此处作为降E的等音，构成C-Eb-G-Bb），通过下属小和弦借用，解决到Gmaj7主和弦。"}
+{"id": "ABC-V2-0204", "model": "gemini-3.1-pro-preview", "response": "A段包含14个音符，音域为G,,至B,；B段包含7个音符，音域为D至G。A段音符密度是B段的两倍，且音域明显低于B段。"}
+{"id": "ABC-V2-0205", "model": "gemini-3.1-pro-preview", "response": "K: Eb\n解释：\n谱例中和弦进行为 Ab -> Bb6 -> Eb -> Ebmaj7。\n从 Ab 经 Bb6 进入同名主和弦 Eb，并保持其大七色彩（Ebmaj7）。\n因此，全局主音为 Eb，调式为大调（Major）。\n在 ABC 记谱法中，K 字段应写入 `K: Eb`。"}
+{"id": "ABC-V2-0206", "model": "gemini-3.1-pro-preview", "response": "Cm和弦第一次出现时构成2拍小节。主拍号从下一小节的G,旋律入口恢复。"}
+{"id": "ABC-V2-0207", "model": "gemini-3.1-pro-preview", "response": "4拍。\n\n解释：\n谱例中 `M: 4/4` 表示每小节有4拍。第一小节从首音到小节线，无论音符长短和休止符，总拍数应符合拍号规定，即4拍。"}
+{"id": "ABC-V2-0208", "model": "gemini-3.1-pro-preview", "response": "在F♯和弦小节（第三小节）中，前半小节的节奏为“E3E3D2”，即附点八分音符、附点八分音符、八分音符，形成3+3+2的十六分音符分组。这种分组打破了4/4拍常规的强弱规律，跨越了第二拍的拍内重音。后半小节的节奏为“F2F2D2B,2-”，即四个八分音符，恢复了常规的等分节奏。"}
+{"id": "ABC-V2-0209", "model": "gemini-3.1-pro-preview", "response": "第二小节包含三个和弦事件：\"Dm\"、\"A\" 和 \"Dm\"。\n根据拍号 4/4 和音符时值，每个和弦事件的持续时间和拍点如下：\n*   \"Dm\" 和弦：持续 2 拍（F,2D,2 z2 D,2），落在第 1 拍。\n*   \"A\" 和弦：持续 1 拍（^C,2A,,2），落在第 3 拍。\n*   \"Dm\" 和弦：持续 1 拍（z2 D,2），落在第 4 拍。"}
+{"id": "ABC-V2-0210", "model": "gemini-3.1-pro-preview", "response": "首个D#m小节的第一次起音位于第5个十六分音符位置。该小节以一个十六分休止符开始，随后是三个附点八分音符（各占4个十六分音符时值），最后以一个附点八分音符（占3个十六分音符时值）结束，总时值为1+4+4+4+3=16个十六分音符，符合4/4拍的时值要求。"}
+{"id": "ABC-V2-0211", "model": "gemini-3.1-pro-preview", "response": "谱段A的G长音活动量低，音域窄；谱段B的短音线活动量高，音域宽。"}
+{"id": "ABC-V2-0212", "model": "gemini-3.1-pro-preview", "response": "开头E的连续连音跨越30个十六分单位，等于7.5拍。\n\n解释：\n谱例中开头的E音符为 `E,,6- E,,4- E,,4- | E,,8- E,,`。\n其时值总和为 6 + 4 + 4 + 8 + 1 = 23 个十六分音符。\n由于 L: 1/16，每个十六分音符为 1/4 拍。\n因此，23 个十六分音符等于 23 / 4 = 5.75 拍。\n\n（注：题目中“跨越多少个十六分单位”可能指从第一个E开始到最后一个E结束的总跨度，包括中间的休止符或其他音符。但谱例中E是连续的，所以跨度即为时值总和。如果题目意指从第一个E开始到下一个非E音符开始的跨度，则为 6+4+4+8+1 = 23 个十六分单位。如果题目意指从第一个E开始到小节结束的跨度，则为 6+4+4 = 14 个十六分单位。根据常规理解，这里取连续E音符的时值总和。）"}
+{"id": "ABC-V2-0213", "model": "gemini-3.1-pro-preview", "response": "C♯/E♯是F♯大调的属和弦第一转位（V6），进入D♯m（vi）形成阻碍进行。末尾B变为Bm时，和弦三音D♯降为D♮，带来同主音小调借用色彩。"}
+{"id": "ABC-V2-0214", "model": "gemini-3.1-pro-preview", "response": "是的，合计恰好填满主拍号。总拍数为16。"}
+{"id": "ABC-V2-0215", "model": "gemini-3.1-pro-preview", "response": "音高序列为[C, E, D, E, B, C]。起音C等于止音C，最低音为C，最高音为B。轮廓类型为<, >, <。"}
+{"id": "ABC-V2-0216", "model": "gemini-3.1-pro-preview", "response": "1. \"Fmaj7\" E,16：大七和弦，音集为 {F, A, C, E}。\n2. \"Am7\" z4 G,8：小七和弦，音集为 {A, C, E, G}。\n3. \"Gm7\" F,4-：小七和弦，音集为 {G, Bb, D, F}。"}
+{"id": "ABC-V2-0217", "model": "gemini-3.1-pro-preview", "response": "第一个Asus4小节有声比例为100%，起音在小节开头；第二个Asus4小节有声比例为50%，起音在小节中间（第三拍）。"}
+{"id": "ABC-V2-0217-A1", "model": "gemini-3.1-pro-preview", "response": "实际音为F♮（D大调中F为F#，但谱面未写临时升号，根据调号应为F#，但题目写的是F,8，在ABC记谱中，若调号为D大调，F默认是F#，所以实际音是F#）。\n加入Asus4（A, D, E）后，音集变为{A, D, E, F#}。这可以解释为Dadd9（省略五音）或Asus4(add13)。\n仅凭这三小节不能断言ii-V-I已经完成，因为最后停留在Asus4（或其变体）上，并未解决到主和弦（D大调的I级和弦D）。"}
+{"id": "ABC-V2-0218", "model": "gemini-3.1-pro-preview", "response": "第一小节结尾的 `A,4` 占据了该小节的第四拍；第三小节中的两枚 `A,4` 分别占据了该小节的第三拍和第四拍。"}
+{"id": "ABC-V2-0219", "model": "gemini-3.1-pro-preview", "response": "Fm7/C是Fm7的第二转位，低音由根音F变为五音C。紧接B♭7时，低音C下行级进到B♭，功能上是下属（ii）到属（V）的连接。"}
+{"id": "ABC-V2-0220", "model": "gemini-3.1-pro-preview", "response": "倒数第二小节的两个和弦标签是 Bm7b5 和 Dm6。它们没有改变实际音集，因为 Bm7b5 的音集是 {B, D, F, A}，而 Dm6 的音集是 {D, F, A, B}，两者包含相同的音。\n跨过换和弦位置的连音是 =E,。在 Bm7b5 的根音解释下，=E, 是 11 音；在 Dm6 的根音解释下，=E, 是 9 音。"}
+{"id": "ABC-V2-0221", "model": "gemini-3.1-pro-preview", "response": "G,音总共持续了四分音符（4个1/16音符）加四分音符（4个1/16音符），即二分音符的时值。在Gm和弦中，它是根音；在Cm和弦中，它是五音。下一小节强拍不重新起音，因为有连音线连接。"}
+{"id": "ABC-V2-0222", "model": "gemini-3.1-pro-preview", "response": "前半小节：B2 c2 z B F2\n后半小节：B2 c2 B2 F2\n第三次起音是F，时值从2变为2，没有变化。"}
+{"id": "ABC-V2-0223", "model": "gemini-3.1-pro-preview", "response": "谱段B的旋律没有改变。\n\n异同说明：\n1. 旋律音符：谱段A和谱段B的旋律音符完全相同，均为 `D4 z2 F4 D4 C2- | C2B,2 D3E D2 B,4 C2 |`。\n2. 和弦标签：谱段A第二小节包含两个和弦标签 `\"Dm7\"` 和 `\"Gm7\"`，而谱段B第二小节只有一个和弦标签 `\"Gm7\"`。和弦标签的改变不影响旋律音符。"}
+{"id": "ABC-V2-0224", "model": "gemini-3.1-pro-preview", "response": "立即开始。谱段A的B,占1个L单位，随后有15个L单位的休止符，填满了4/4拍小节。谱段B是新小节，因此新句立即开始。"}
+{"id": "ABC-V2-0225", "model": "gemini-3.1-pro-preview", "response": "调性抬升从第5小节开始，目标调是Eb大调。换号后，和弦进行为Eb - Gm - Cm - Bbsus4 - Ab - Eb，通过主和弦Eb的出现，以及随后的下属和弦Ab和属和弦Bbsus4，确立了Eb大调的新中心。"}
+{"id": "ABC-V2-0226", "model": "gemini-3.1-pro-preview", "response": "和弦骨架：\n\"C#m7\" [D2B,2C2] | \"D#7\" [A,2^F,2D,2^A,,2F,,2G,,2C,2] | \"D#7\" [C,2A,,2] | \"D#7\" [A,,2C,2] |\n\"D#7\" [A,,2C,2^F,,2E,,2] | \"D#7\" [C,,2D,,2E,,2^F,,2] | \"D#7\" [D,,2C,,2] | \"D#7\" [C,,2D,,2E,,2] |\n\n属功能未解决。材料停留在D#7和弦，未进行到主和弦G#m。"}
+{"id": "ABC-V2-0227", "model": "gemini-3.1-pro-preview", "response": "首小节的C连音从第2个十六分音符起，持续7个十六分音符，后续休止8个十六分音符补足小节。"}
+{"id": "ABC-V2-0228", "model": "gemini-3.1-pro-preview", "response": "谱段A更稀疏且音区更高，谱段B转向密集的低音型。\n谱段A包含3个起音，音域为B, - D；谱段B包含15个起音，音域为A,, - B,。"}
+{"id": "ABC-V2-0229", "model": "gemini-3.1-pro-preview", "response": "持续 16 拍，填满整个主拍号。\n\n解释：\n谱例中只有一个音符 `E16`，其时值为 16 个 1/16 音符，即 16 拍。主拍号为 4/4，即每小节 4 拍，每拍为 1/4 音符。16 个 1/16 音符等于 4 个 1/4 音符，因此填满了整个主拍号。"}
+{"id": "ABC-V2-0230", "model": "gemini-3.1-pro-preview", "response": "和弦顺序：\n谱行1：Am7 - D7 - Am7\n谱行2：Bm7b5 - E7 - Am7 - D7 - Bm7b5\n\n谱行2的“Bm7b5 - E7 - Am7”构成A小调的iiø7 - V7 - i进行，实际落回A小调主和弦（Am7）。"}
+{"id": "ABC-V2-0231", "model": "gemini-3.1-pro-preview", "response": "框架：B7 - Em7；否，Em7/B 仍为主功能。"}
+{"id": "ABC-V2-0232", "model": "gemini-3.1-pro-preview", "response": "G#m - C#m7 - F#7 - Bmaj7 - G#m7 - A#m7 - D#7\n属链：A#m7 - D#7"}
+{"id": "ABC-V2-0233", "model": "gemini-3.1-pro-preview", "response": "节奏为 0011111111111111，第一次起音位于第2个八分位置。"}
+{"id": "ABC-V2-0234", "model": "gemini-3.1-pro-preview", "response": "四次起音合计跨越4拍。最后一次和弦更替从第3.25拍开始。\n\n解释：\n拍号为4/4，单位拍为四分音符（4个1/16音符）。\n音符时值：E,,2（0.5拍），G,,4（1拍），A,,6（1.5拍），E,4-（1拍）。\n总拍数 = 0.5 + 1 + 1.5 + 1 = 4拍。\n和弦更替：\"E\"在第1拍开始，\"E6\"在第3.25拍开始（0.5 + 1 + 1.5 = 3拍后，即第3.25拍）。"}
+{"id": "ABC-V2-0235", "model": "gemini-3.1-pro-preview", "response": "C♯在B和弦中是九音，在F♯和弦中是五音。通过延音线（tie）连接，即在第一小节末尾的C,2后加上“-”，使其与第二小节开头的C,4相连，表示不重新起音。"}
+{"id": "ABC-V2-0236", "model": "gemini-3.1-pro-preview", "response": "不能。\n\n证据极弱。谱例中仅有低音E,,和D,,的交替，缺乏任何和弦、旋律或导音（如G#）来明确和声功能。虽然调号标记为[K:Am]，但音乐材料本身并未提供任何支持A小调转调的和声证据，无法确认转调。"}
+{"id": "ABC-V2-0237", "model": "gemini-3.1-pro-preview", "response": "首小节的休止、短音与末尾长音的分占情况：\n前半小节：休止符（z6）和短音（G,2）\n后半小节：末尾长音（F,8）\n\n全小节拍数：16拍\n末音所占拍数：8拍"}
+{"id": "ABC-V2-0238", "model": "gemini-3.1-pro-preview", "response": "和弦顺序：Ab, Bb, Ab, Bb7, Cm, Bb, Ab。\n首次落到主功能的和弦是 Cm。"}
+{"id": "ABC-V2-0238-A1", "model": "gemini-3.1-pro-preview", "response": "B♭7进入Cm后，和声没有在主和弦上形成闭合，是因为Cm之后紧接着出现了Bb和Ab和弦。从Cm开始的三个和弦根音走向为C-Bb-Ab，这是一个下行级进的走向，它并没有指向主和弦，而是指向了下属方向，因此没有形成闭合。"}
+{"id": "ABC-V2-0239", "model": "gemini-3.1-pro-preview", "response": "第一小节的两个八分音符（C2和B,2）分别从第四拍的后半拍和第四拍的最后四分之一拍进入。\n\n解释：\n该曲目拍号为4/4，即每小节4拍。基本音符长度为1/16。\n第一小节的音符序列为：z12 C2B,2。\nz12表示休止12个1/16音符，即3拍。\n因此，C2从第四拍的后半拍（第13个1/16音符位置）进入，持续2个1/16音符。\nB,2从第四拍的最后四分之一拍（第15个1/16音符位置）进入，持续2个1/16音符。"}
+{"id": "ABC-V2-0240", "model": "gemini-3.1-pro-preview", "response": "根音框架：G♯-F♯-E。F♯6未引入新根音，材料未回到主和弦。"}
+{"id": "ABC-V2-0241", "model": "gemini-3.1-pro-preview", "response": "首小节的\"B/D#\"表示B大三和弦，低音为D#；\"B\"表示B大三和弦，低音为B。未加记号的F实际音为F#，因为调号Em包含F#。"}
+{"id": "ABC-V2-0242", "model": "gemini-3.1-pro-preview", "response": "第三拍和第四拍。\n\n解释：\n在4/4拍中，每小节有4拍，每拍为四分音符（长度为4个1/16音符）。\n\"Gm\"小节的音符序列为：z8 D,4 F,4。\nz8表示休止8个1/16音符，即2拍（第一拍和第二拍）。\nD,4表示一个四分音符，从第三拍开始。\nF,4表示一个四分音符，从第四拍开始。"}
+{"id": "ABC-V2-0243", "model": "gemini-3.1-pro-preview", "response": "谱段A末足以构成乐句边界。结束音后有14个十六分音符的静默，谱段B的下一次发声在第3拍。"}
+{"id": "ABC-V2-0244", "model": "gemini-3.1-pro-preview", "response": "正拍和后半拍。\n\n解释：\nD7小节的音符序列为 `z12 G,2G,2`。\n`z12` 占据了前三拍（12个1/16音符）。\n最后一拍（第4拍）由两个 `G,2` 组成。\n第一个 `G,2` 落在第4拍的正拍（第13个1/16音符位置）。\n第二个 `G,2` 落在第4拍的后半拍（第15个1/16音符位置）。"}
+{"id": "ABC-V2-0245", "model": "gemini-3.1-pro-preview", "response": "第一枚音符的起音拍位是1.0，第二枚音符的起音拍位是2.0，第三枚音符的起音拍位是3.0，第四枚音符的起音拍位是4.0。"}
+{"id": "ABC-V2-0246", "model": "gemini-3.1-pro-preview", "response": "第2拍的后半拍。\n\n解释：\nA和弦小节是第2小节。\n第4个发声音符是 B,4。\n前三个音符 C,2D,2E,2 占据了 2+2+2 = 6 个 1/16 音符的时值，即 1.5 拍。\n因此，B,4 从第2拍的后半拍开始。"}
+{"id": "ABC-V2-0247", "model": "gemini-3.1-pro-preview", "response": "跨和弦小节线的E由E4和E16相连。第三小节为休止符（z16），没有音符发声，因此不计入持续时长。"}
+{"id": "ABC-V2-0248", "model": "gemini-3.1-pro-preview", "response": "D小调。^C作为导音与A7（属和弦）共同指向Dm（主和弦）。F大调虽与D小调关系密切，但谱例中频繁出现^C且以Dm和弦为主，缺乏F大调的特征，因此D小调是更合理的全局判断。K: Dm。"}
+{"id": "ABC-V2-0249", "model": "gemini-3.1-pro-preview", "response": "谱段B是谱段A向下移调纯八度。谱段B中的所有音符都比谱段A中的对应音符多了一个逗号，在ABC记谱法中，逗号表示向下移调一个八度。"}
+{"id": "ABC-V2-0250", "model": "gemini-3.1-pro-preview", "response": "谱段A的低G之后，下一句并不立即从小节线开始。谱段B的起句位置在小节的第二个八分音符处。"}
+{"id": "ABC-V2-0251", "model": "gemini-3.1-pro-preview", "response": "斜线标记Dbmaj7/F增加了F作为低音的信息。同小节未加记号的B按调号读作Bb。"}
+{"id": "ABC-V2-0252", "model": "gemini-3.1-pro-preview", "response": "第三小节前三个B类音的实际音高分别是B♮2、B♭2、B♭2。\n临时记号的作用范围是本小节内，因此第一个B,前的还原号（=）使其变为B♮2，第二个B,前的降号（_）使其变为B♭2，第三个B,没有临时记号，受第二个B,的降号影响，也是B♭2。"}
+{"id": "ABC-V2-0253", "model": "gemini-3.1-pro-preview", "response": "和弦骨架：G - Cmaj7/E - G - Bm7/F# - Em7 - D6 - C。\nG - Bm7/F# - Em7 - D6 - C 构成连续级进下行。"}
+{"id": "ABC-V2-0254", "model": "gemini-3.1-pro-preview", "response": "小调功能路线：i - iv - VII - III - VI - iv。\n未展示属和弦回主的闭合。"}
+{"id": "ABC-V2-0255", "model": "gemini-3.1-pro-preview", "response": "音高次序为B3, B4, G4, F4, E4, B3。\n端点高度：起点等于终点。\n极值位置：最高点在第2个音。\n上行、下行所用音数：上行1个音，下行4个音。\n轮廓：凸。\n对称性：不对称。"}
+{"id": "ABC-V2-0256", "model": "gemini-3.1-pro-preview", "response": "B,、C、c、e。大写字母加逗号表示低音区，大写字母表示中音区，小写字母表示高音区。"}
+{"id": "ABC-V2-0257", "model": "gemini-3.1-pro-preview", "response": "^D,将D升高半音，并在低八度；=D,将D还原，并在低八度；^D,,将D升高半音，并在低两个八度。"}
+{"id": "ABC-V2-0258", "model": "gemini-3.1-pro-preview", "response": "材料实际展示的四和弦功能路线为：A - C#m - D - E。\n结尾没有回到主和弦，而是停留在属和弦（E）。"}
+{"id": "ABC-V2-0259", "model": "gemini-3.1-pro-preview", "response": "两处=D,不按调号读作D♭是因为它们前面有还原记号（=），表示还原为D。各自占6个1/16拍，即3/8拍。"}
+{"id": "ABC-V2-0260", "model": "gemini-3.1-pro-preview", "response": "目标的两组“长3单位重复音+尾部短音”从第2小节开始。\n\n解释：\n谱段B的第2小节为 `\"E\" G3G3B2 z2 G2F2F2`，包含“长3单位重复音+尾部短音”（G3G3B2）。\n第3小节为 `\"C#m\" F3F3E2 z2 G2F2C2`，包含“长3单位重复音+尾部短音”（F3F3E2）。\n这两组特征与谱段A的第1、2小节完全一致。"}
+{"id": "ABC-V2-0261", "model": "gemini-3.1-pro-preview", "response": "Ab - Cm - Db - Ab - Abmaj7/G - Fm - Ab/Eb - Bbm7"}
+{"id": "ABC-V2-0262", "model": "gemini-3.1-pro-preview", "response": "A段独立起音数为16，音域为A,,-A,。B段独立起音数为6，音域为F,,-B,,。A段独立起音数多，A段音域宽。\n\n解释：\nA段中，A,2- A,-A,D,E,A,,2D,- 包含连音链 A,2- A,-A,，合并为 A,4。合并后，A段的音符为 D, A,, D, A,, C, D, D, D, A, A, A, G, A, D, E, A,, D,，共16个独立起音。音域从最低音 A,, 到最高音 A,。\nB段的音符为 A,, G,, B,, A,, G,, F,,，共6个独立起音。音域从最低音 F,, 到最高音 B,,。\n比较可知，A段独立起音数多，A段音域宽。"}
+{"id": "ABC-V2-0263", "model": "gemini-3.1-pro-preview", "response": "B7 -> Em7 -> Dm7 -> G7 -> C"}
+{"id": "ABC-V2-0264", "model": "gemini-3.1-pro-preview", "response": "第5次起音从第3拍开始，位于第5个八分脉冲。"}
+{"id": "ABC-V2-0265", "model": "gemini-3.1-pro-preview", "response": "主干功能路线为：T - D - Ts - D - S - D - T。回到E之后出现的F♯m7/E属于终止后的延伸。"}
+{"id": "ABC-V2-0266", "model": "gemini-3.1-pro-preview", "response": "末尾D-跨到下一行后形成多长的连音链？按调号写出实际音高。\n\n连音链长度：32个1/16音符（即2个全音符）。\n实际音高：D#。"}
+{"id": "ABC-V2-0267", "model": "gemini-3.1-pro-preview", "response": "旋律没有改写。谱段B的旋律与谱段A完全一致，仅和弦标签由\"Fmaj7\"变为\"F\"。"}
+{"id": "ABC-V2-0268", "model": "gemini-3.1-pro-preview", "response": "^^F,表示大字组的重升F（Fx）。在G#m调中，F本身已升，^^F,是临时变音记号，表示在F♯基础上再升半音，即Fx，不能只读作调号中的F♯。"}
+{"id": "ABC-V2-0269", "model": "gemini-3.1-pro-preview", "response": "音高序列为E, G, F, E, D, A,,。最高音为G,，最低音为A,,。运动方向为上-下-下-下-下，轮廓类型为<up, down, down, down, down>。"}
+{"id": "ABC-V2-0270", "model": "gemini-3.1-pro-preview", "response": "实际音高为A2到G4，音程名称为小七度。"}
+{"id": "ABC-V2-0271", "model": "gemini-3.1-pro-preview", "response": "换点：Gmaj7, Em7, Am7, D7, Bm7, A#6, D7, G。\n否，开头是I–vi–ii–V。"}
+{"id": "ABC-V2-0272", "model": "gemini-3.1-pro-preview", "response": "末小节的=A,,应读作大字组的A。等号表示还原记号，两个逗号表示大字组。"}
+{"id": "ABC-V2-0273", "model": "gemini-3.1-pro-preview", "response": "八小节最有根据的内部边界在第4小节和第5小节之间。\n\n第4小节以一个长音E结束，并伴随休止符，形成了一个明显的停顿，但和声停留在Em7，并未形成完全的闭合感。第8小节以主和弦D的根音F#结束，并伴随休止符，形成了一个强烈的停顿和完全的闭合感。因此，第8小节的停顿和闭合程度都强于第4小节。"}
+{"id": "ABC-V2-0274", "model": "gemini-3.1-pro-preview", "response": "第一小节起音材料在第五小节回返，第五小节起音材料与第一小节相同，但后续旋律发展不同，提示四小节层级而非逐字重复。"}
+{"id": "ABC-V2-0275", "model": "gemini-3.1-pro-preview", "response": "G♯7解决到C♯m7；根音线从C♯m7开始半音下行（C♯-C-B）。"}
+{"id": "ABC-V2-0276", "model": "gemini-3.1-pro-preview", "response": "拍号变化为 3/4 -> 2/4 -> 4/4。中间短小节（2/4拍）包含的音符是 A,6 A,2。"}
+{"id": "ABC-V2-0277", "model": "gemini-3.1-pro-preview", "response": "主功能：F6、Fmaj7/A、Am、F、Dm、Fmaj7/C；下属功能：Bb；属功能：C/E。C/E实际解决到Dm。"}
+{"id": "ABC-V2-0278", "model": "gemini-3.1-pro-preview", "response": "否。和声顺序相同（Bbm7-Ebm7-Gb-Bbm7），但旋律起音不同（A段起音E，B段起音E）。"}
+{"id": "ABC-V2-0279", "model": "gemini-3.1-pro-preview", "response": "属链：C#7 -> F#m7 -> B7sus4。\n片段末尾停留在B7sus4，尚未回到E主和弦。"}
+{"id": "ABC-V2-0280", "model": "gemini-3.1-pro-preview", "response": "双逗号使音符降低两个八度，三逗号使音符降低三个八度。\n低音声部七音路径：G2 -> B2 -> G2 -> E2 -> C2 -> B1 -> G1。\n最高音：B2（第2个音）。\n最低音：G1（第7个音）。\n路径方向分类：\n- 上行：G2 -> B2\n- 下行：B2 -> G2 -> E2 -> C2 -> B1 -> G1"}
+{"id": "ABC-V2-0281", "model": "gemini-3.1-pro-preview", "response": "前两小节节奏完全一致（z4 C4 C2 C4 C2- | C2 C4 A,2 C4 C4），形成平行结构。\n第三小节旋律结尾不同：第一组停在B,（属音），和声为Em7，产生半终止的开放感；第二组停在F,（主和弦三音），和声为Dmaj7，产生全终止的闭合感。\n因此，第一组的整小节休止（第四小节）延续了半终止的期待感，而第二组的整小节休止（第八小节）则巩固了全终止的稳定感。"}
+{"id": "ABC-V2-0282", "model": "gemini-3.1-pro-preview", "response": "第五小节可视为周期重新启动。第一小节和第五小节都在第三拍进入，分别回到主和弦D，形成四小节的周期结构。"}
+{"id": "ABC-V2-0283", "model": "gemini-3.1-pro-preview", "response": "G7局部主音化之后实际出现的路线是G7-Cm7-F；材料没有完成回B♭主和弦。"}
+{"id": "ABC-V2-0284", "model": "gemini-3.1-pro-preview", "response": "和弦顺序为：G/B - C - Cmaj7 - Fmaj7 - G/B - Am7 - Em。\n第一次G/B解决到C，是正格解决；第二次G/B解决到Am7，是阻碍解决。"}
+{"id": "ABC-V2-0285", "model": "gemini-3.1-pro-preview", "response": "这段材料呈现出一种“快速度下的低运动密度”：Q=137指示了较快的脉动，但连续的休止符和随后的长音（八分、四分音符级别）使得实际发声的音符非常稀疏。\n这些信息不足以唯一判断具体风格或叙事情绪，因为这种“快脉动、慢发声”的特征既可以出现在紧张悬疑的电影配乐中（作为背景铺垫），也可以出现在某些极简主义音乐或环境音乐中，缺乏旋律、和声进行、音色等更多维度的信息来限定其具体语境。"}
+{"id": "ABC-V2-0286", "model": "gemini-3.1-pro-preview", "response": "这两个E是同音重复，旋律保持水平。\n\n解释：\n在ABC记谱法中，`E,` 表示比中央C低一个八度的E，而 `E` 表示中央C上方的E。然而，在给定的谱例中，第一个E是 `E,`，第二个E是 `E`。由于它们在ABC记谱法中表示不同的八度，但题目指出它们是“两个相邻E”，这暗示了在实际演奏或音乐上下文中，它们被视为同音重复。因此，旋律在两个E之间保持水平，没有向上或向下移动。"}
+{"id": "ABC-V2-0287", "model": "gemini-3.1-pro-preview", "response": "目标调是Db大调。材料中Ab-Db和弦组已经实际确认新主音，末尾F7的后继不能据此确定。"}
+{"id": "ABC-V2-0288", "model": "gemini-3.1-pro-preview", "response": "第4小节落于A和弦，旋律为B-c，未形成完整终止；第8小节落于Dmaj7和弦，旋律为F-E-D，形成完整终止。"}
+{"id": "ABC-V2-0289", "model": "gemini-3.1-pro-preview", "response": "和声框架：C - D - Bm - Em - Am7 - D7sus4 - D7\n级数：IV - V - iii - vi - ii7 - V7sus4 - V7\n这个片段没有完成回到 G 的循环，它停在了属和弦（D7）上，形成了一个半终止。"}
+{"id": "ABC-V2-0290", "model": "gemini-3.1-pro-preview", "response": "最低音区的下一次起音落在第3拍的后半拍（即第3拍的第3个十六分音符位置）。\n\n解释：\n小节开头 B,,8 占据了前两拍（8个十六分音符）。\n接着 z2 是半拍休止（2个十六分音符），占据了第3拍的前半拍。\n随后的 E,,2 是最低音区的音符，它紧接着休止符，因此落在第3拍的后半拍。"}
+{"id": "ABC-V2-0291", "model": "gemini-3.1-pro-preview", "response": "是的，继续受该状态控制。在ABC记谱法中，行内字段（如 `[K:F]`）的作用范围从其出现的位置开始，一直持续到乐曲结束或被新的同类字段覆盖。因此，首小节设置的调号 `F` 会一直影响后续小节。"}
+{"id": "ABC-V2-0292", "model": "gemini-3.1-pro-preview", "response": "和弦顺序：F—B♭m—E♭m7—D♭maj7—G♭maj7—Cm7♭5。\nB♭m小调的V—i（F—B♭m）已经落地。\n后半没有形成关系大调的ii—V—I，也没有形成另一组小调终止。"}
+{"id": "ABC-V2-0293", "model": "gemini-3.1-pro-preview", "response": "发声音序列为：D, E, F, E, F, E, F, E, F, E, F, E, D,。\n中间相邻两音来回交替了5次。"}
+{"id": "ABC-V2-0294", "model": "gemini-3.1-pro-preview", "response": "发声音token序列：C2, D2, A,2, C2, A,2, F,2, D,2, B,,2\n实际音高序列：C4, D4, Ab3, C4, Ab3, F3, Db3, Bb2"}
+{"id": "ABC-V2-0295", "model": "gemini-3.1-pro-preview", "response": "谱中出现了两次调号状态变化：\n1. 从 Am 变为 Cm（`[K:Cm]`）。\n2. 从 Cm 变为 Fm（`[K:Fm]`）。\n\n这些记号与随后实际发声的音**不足以**证明两次新调都已经建立。\n*   **Cm 调**：调号变化后，出现的音是 `=A,`（还原 A）和 `G,`，以及 `C`。在 Cm 调中，A 应该是降 A（Ab），而这里使用了还原 A，这削弱了 Cm 调的建立。\n*   **Fm 调**：调号变化后，出现的音是 `B`（降 B，受调号影响）、`=B`（还原 B）和 `B,`（降 B），以及 `C`。在 Fm 调中，B 应该是降 B（Bb），而这里出现了还原 B，同样削弱了 Fm 调的建立。\n\n因此，仅凭这些音符不足以证明新调已经建立。"}
+{"id": "ABC-V2-0296", "model": "gemini-3.1-pro-preview", "response": "前属—属单元出现在第2小节和第4小节。第2小节的“Dm7-G7”进行到第3小节的“Cmaj7”，实际落到了主和弦；第4小节的“Dm7-G7”之后没有进行到主和弦。"}
+{"id": "ABC-V2-0297", "model": "gemini-3.1-pro-preview", "response": "E2 E E E2 E2 E2 E2 E4；前七次起音时值相同，最后一次起音时值是前七次的2倍。"}
+{"id": "ABC-V2-0298", "model": "gemini-3.1-pro-preview", "response": "变奏再现。\n稳定骨架：第2-3小节与第6-7小节完全一致（\"Em7\" D2B,2D2B,2 \"F#m7\" E4 B,2B,2 | \"Dmaj7\" A,4 z12）。\n末端改写：第1小节（\"Em7\" z4 F4 D4 z2 D2-）在第5小节被改写为（\"Em7\" F2 F4 E4 D4 D2-），增加了音符并改变了节奏；第4小节（\"Dmaj7\" z8 \"F#m\" z6 F2-）在第8小节被改写为全休止（z8 z8）。"}
+{"id": "ABC-V2-0299", "model": "gemini-3.1-pro-preview", "response": "和声第一次转到B发生在第4条小节线（即第4小节结束、第5小节开始处）。这一换点将八小节分为前四小节（G♯m和声组）和后四小节（B及后续和声组），形成对比。"}
+{"id": "ABC-V2-0300", "model": "gemini-3.1-pro-preview", "response": "K: Dm\nz4 | \"Dm\" D,12 A,4 | \"Dm\" E,12 C,4 | \"Dm\" D,16 |"}
+{"id": "ABC-V2-0301", "model": "gemini-3.1-pro-preview", "response": "L: 1/16\nM: 4/4\nK: F#m\n\"F#m\" z4  C,4 A,4 C,4 | \"F#m\" F,,8 C,8 | \"F+\" =F,,8 A,8 | \"F+\" =F,,4 \"C#\" C,4 z4 C,4 |"}
+{"id": "ABC-V2-0302", "model": "gemini-3.1-pro-preview", "response": "两个标有 Db 的小节都使用了 D,,、D,、A,,、F, 这四个音高。第一个 Db 小节末尾的 A,,—F, 节奏为十六分音符和附点八分音符（跨小节延音），第二个 Db 小节末尾的 A,,—F, 节奏为两个八分音符。"}
+{"id": "ABC-V2-0303", "model": "gemini-3.1-pro-preview", "response": "K: C#m\nz4 | z16 | \"E\" z12  E,4 | \"F#m\" D,8 z4 D,4 |"}
+{"id": "ABC-V2-0304", "model": "gemini-3.1-pro-preview", "response": "旋律重新进入时，音高走向从下行变为上行。"}
+{"id": "ABC-V2-0305", "model": "gemini-3.1-pro-preview", "response": "全局K字段为：K: Ab\n\n解释：\n谱例中，和弦进行为 Ab -> Bbm7 -> Abmaj7/C -> Eb7sus4 -> Ab。\n虽然 Bbm7 占据了第二小节，但整个乐段的起始和结束和弦均为 Ab。\n同时，Eb7sus4 作为属功能和弦，最终解决到了主和弦 Ab。\n因此，整个乐段的调性中心是 Ab 大调，全局 K 字段应为 K: Ab。"}
+{"id": "ABC-V2-0306", "model": "gemini-3.1-pro-preview", "response": "最低音是 G,,,，最高音是 C,，音域是 17 个半音。"}
+{"id": "ABC-V2-0307", "model": "gemini-3.1-pro-preview", "response": "首先落地的正格回归在第4小节，由C和弦解决到F和弦。同小节后半的转位属和弦（C/E）实际走向了Dm7和弦。"}
+{"id": "ABC-V2-0308", "model": "gemini-3.1-pro-preview", "response": "两处行内K字段形成了F大调到F小调再回到F大调的同主调式往返。换号前的D♭和弦（包含D♭音）预示了F小调的降D音，换号后的Eb、Ab、Eb/G和弦明确了F小调的调性。回到原调号后，C和弦（属和弦）和F和弦（主和弦）的出现，以及旋律中的C-F-c进行，提供了更强的主音证据，确认了F大调的回归。"}
+{"id": "ABC-V2-0309", "model": "gemini-3.1-pro-preview", "response": "K: D\n\"D\" z6 D2 C4 F,4 | \"F#m\" A,6 B,,2 C,4 D,4 | \"G\" z6 B,2 A,4 D,4 |"}
+{"id": "ABC-V2-0310", "model": "gemini-3.1-pro-preview", "response": "B, F#, G#, C#"}
+{"id": "ABC-V2-0311", "model": "gemini-3.1-pro-preview", "response": "功能路线：i - iv - VII - III；关系大调已落地，原小调未回归。"}
+{"id": "ABC-V2-0312", "model": "gemini-3.1-pro-preview", "response": "K: Am\nz4 | \"Am\" A,,2A,,2A,,2A,,2 A,,2A,,2A,,2A,,2 | \"Am\" A,,2A,,2A,,2 C,4 B,4 D2 | \"D7\" D,2D,2D,2D,2 D,2D,2D,2D,2 |\n\n解释：\n原调为G小调（Gm），目标调为A小调（Am），整体移高大二度。\n1. K字段从 `K: Gm` 变为 `K: Am`。\n2. 和弦标记：\"Gm\" 移高大二度变为 \"Am\"；\"C7\" 移高大二度变为 \"D7\"。\n3. 音符移调：\n   - G,, 移高大二度变为 A,,\n   - B, 移高大二度变为 C,\n   - A, 移高大二度变为 B,\n   - C 移高大二度变为 D\n   - C, 移高大二度变为 D,\n时值和重复次数保持不变。"}
+{"id": "ABC-V2-0313", "model": "gemini-3.1-pro-preview", "response": "和弦骨架为E - B/D♯ - Emaj7/D♯ - C♯m - B。\n斜线和弦B/D♯和Emaj7/D♯通过保持D♯低音，形成低音的延长，随后下行至C♯m的C♯低音。\n末尾和弦为B，在E大调中是属和弦（V），功能未回主，而是停留在属功能上。"}
+{"id": "ABC-V2-0314", "model": "gemini-3.1-pro-preview", "response": "\"C#m\" G,8 C8 | \"E6\" B,2C2 B,4 G,2B,2 G,4 | \"F#m\" G,8 F,6 F,2- | \"F#m\" F,4 G,4 F,8 |\nC#m: vi\nE6: I\nF#m: ii"}
+{"id": "ABC-V2-0315", "model": "gemini-3.1-pro-preview", "response": "骨架为 Bm7 - Em7 - A7 - Dmaj7。\n它实际落到了关系大调 D 大调。"}
+{"id": "ABC-V2-0316", "model": "gemini-3.1-pro-preview", "response": "L: 1/16\nM: 4/4\nK: C#m\nz16 | \"C#m\" z4 C,F, G,6- G,4- | \"C#m\" G,8- G,B,B,2B,2B,B,- | \"C#m\" B,B,2B,3 G,6 F,E,C,D, |"}
+{"id": "ABC-V2-0317", "model": "gemini-3.1-pro-preview", "response": "K: C\n\"Dm7\" D,,4 C,3 C,3 C,4 B,,2- | \"G7\" B,,4 B,,4 B,,2 B,,4 G,,,2 | \"Cmaj7\" C,,4 B,,3 B,,3 B,,4 C,2- | \"Am7\" C,4 C,4 B,CB,2G,2E,D, |\n\n解释：\n原调为D大调，移至C大调，即整体向下大二度（或向下两个半音）。\n1. 调号：K: D 变为 K: C。\n2. 和弦：Em7 -> Dm7，A7 -> G7，Dmaj7 -> Cmaj7，Bm7 -> Am7。\n3. 旋律：所有音符向下移大二度。例如，E,, -> D,,，D, -> C,，C, -> B,,，A,,, -> G,,,，C -> B,，A, -> G,，F, -> E,，E, -> D,。连音线和节奏保持不变。"}
+{"id": "ABC-V2-0318", "model": "gemini-3.1-pro-preview", "response": "第一个具有双重指向的前属—属单元是“Gm7b5 - C7”。其理论目标是Fm，但实际落点是Fm7。后半部分没有形成新的已解决终止。"}
+{"id": "ABC-V2-0319", "model": "gemini-3.1-pro-preview", "response": "第一轮只到属功能，第二轮实际回主。\n\n解释：\n第一轮和弦进行为 Fmaj7 - Fmaj7/C - Fmaj7 - Fmaj7/C - Gm7 - Gm7/D - C7，合并后为 Fmaj7 - Gm7 - C7，停在属和弦 C7 上。\n第二轮和弦进行为 Fmaj7 - Fmaj7/C - Fmaj7 - Fmaj7/C - Gm7 - C7，合并后为 Fmaj7 - Gm7 - C7，虽然也停在 C7，但题目问的是“哪一轮实际回主”，这通常意味着在更宏观的结构中，第二轮的 C7 会解决到主和弦（尽管谱例中未显示解决），而第一轮的 C7 是半终止。根据题目给出的选项逻辑，第一轮是半终止（只到属功能），第二轮是全终止（实际回主）。"}
+{"id": "ABC-V2-0320", "model": "gemini-3.1-pro-preview", "response": "从休止后的 A, 起算，后续长音构成上行后下行的拱形轮廓，最高点落在 F 音。"}
+{"id": "ABC-V2-0321", "model": "gemini-3.1-pro-preview", "response": "最低音是 B,，最高音是 G。B, 到 G 的音程是小六度，小于一个八度，因此整段在一个八度以内。"}
+{"id": "ABC-V2-0322", "model": "gemini-3.1-pro-preview", "response": "在第二个 Eb 小节中，G,6 后的四个独立音是 E,2、B,2、G,2 和 F,4。\nG,6 与 E,2 形成小三度音程。\nE,2 与 B,2 形成纯五度音程。\nB,2 与 G,2 形成大三度音程。\nG,2 与 F,4 形成大二度音程。"}
+{"id": "ABC-V2-0323", "model": "gemini-3.1-pro-preview", "response": "换号后的材料相对原调向上移调了小二度。目标调在后四小节中通过主和弦（Bb）和属和弦（F）的交替出现，以及旋律中强调主音（Bb）和属音（F）来确认。"}
+{"id": "ABC-V2-0323-A1", "model": "gemini-3.1-pro-preview", "response": "F大三和弦在A大调中是降VI级和弦（借用和弦），在Bb大调中是属和弦（V级）。它通过共同音F（在A大调中为E#，在Bb大调中为F）连接两个调，并直接解决到Bb大调的主和弦（Bb），完成转调。"}
+{"id": "ABC-V2-0324", "model": "gemini-3.1-pro-preview", "response": "第一枚发声音符从第1拍的后半拍进入。\n\n解释：\n在4/4拍中，每拍为四分音符（4个十六分音符）。\nF#m小节的开头是 `z2`，即休止2个十六分音符（半拍）。\n紧接着的音符是 `C,2`，它在第1拍的后半拍（第3个十六分音符位置）开始发声。"}
+{"id": "ABC-V2-0325", "model": "gemini-3.1-pro-preview", "response": "A的音域大，B的平均音区高。\n\n解释：\nA的音符包括：A, B,, B, C, C, D，音域为 B,, 到 D（15个半音）。\nB的音符包括：B c，音域为 B 到 c（1个半音）。\nA的平均音高为 C,，B的平均音高为 B。"}
+{"id": "ABC-V2-0326", "model": "gemini-3.1-pro-preview", "response": "第一组：第2小节的Cm7b5—F7—Bbm7，目标是主和弦Bbm7；第二组：第6小节的Ebm7—Ab7—Dbmaj7，目标是关系大调主和弦Dbmaj7。"}
+{"id": "ABC-V2-0327", "model": "gemini-3.1-pro-preview", "response": "最后两枚整小节长音分别受 3/4 和 4/4 拍号控制。在倒数第二小节（3/4 拍）和最后一小节（4/4 拍）之间，拍号从 3/4 变回了主拍号 4/4。"}
+{"id": "ABC-V2-0328", "model": "gemini-3.1-pro-preview", "response": "第一小节的八个起音是：A,, A,, A,, A,, A,, A,, B,, B,,。\n第二小节的八个起音是：B,, B,, B,, B,, B,, B,, D, D,。\n第二小节相对第一小节的变化是：移调。"}
+{"id": "ABC-V2-0329", "model": "gemini-3.1-pro-preview", "response": "应用属单元：C#7（V7/ii）重复出现，分别解决到F#m7（ii7）和F#m7（ii7）。\n第一转位属七：G#7/B#（V65/iii）的实际后继是G#m7（iii7），符合预期。"}
+{"id": "ABC-V2-0330", "model": "gemini-3.1-pro-preview", "response": "A,, D, E, F, G, A, C D E"}
+{"id": "ABC-V2-0331", "model": "gemini-3.1-pro-preview", "response": "从小调 C#m 转向了其关系大调 E 大调。换号前后的共同和弦 Emaj7 和 C#7 帮助平滑过渡。"}
+{"id": "ABC-V2-0332", "model": "gemini-3.1-pro-preview", "response": "末小节四个短音 A,2—C2—A,2—G,2 的相邻音程方向与大小是：\n1. A,2 到 C2：向上小三度（A, 到 C）\n2. C2 到 A,2：向下小三度（C 到 A,）\n3. A,2 到 G,2：向下大二度（A, 到 G,）"}
+{"id": "ABC-V2-0333", "model": "gemini-3.1-pro-preview", "response": "B段的独立起音数（10）大于A段（3）。\nB段的音域（B, - =A）大于A段（B, - C）。"}
+{"id": "ABC-V2-0334", "model": "gemini-3.1-pro-preview", "response": "骨架：A7/E—Dm—F/C—Bb—C—F。\n对vi的属化解决：A7/E—Dm。\n回到主和弦的IV—V—I：Bb—C—F。"}
+{"id": "ABC-V2-0335", "model": "gemini-3.1-pro-preview", "response": "和弦进行：Ebm7 - Ab7 - Db，Ebm7 - Ab7sus4 - Db；\n判断：短暂主音化；\n目标调：Db大调。"}
+{"id": "ABC-V2-0336", "model": "gemini-3.1-pro-preview", "response": "第一个 G#m 小节的 D,—C, 节奏为 2-1-2-2，落音在 D,；第二个 G#m 小节的 D,—C, 节奏为 2-2-2-2，落音在 B,,。"}
+{"id": "ABC-V2-0337", "model": "gemini-3.1-pro-preview", "response": "骨架：E - B/D# - C#m - B - A - Am/B - E。\nAm/B和弦（A小三和弦加B低音）在E大调中，其根音A和五音E属于自然音阶，但三音C是降VI级音，借用自同主音小调（E小调），因此具有借用色彩。"}
+{"id": "ABC-V2-0338", "model": "gemini-3.1-pro-preview", "response": "连音跨线处的 G,, 延音至第四小节，其后独立起音为 D,。"}
+{"id": "ABC-V2-0339", "model": "gemini-3.1-pro-preview", "response": "整小节休止后，Cm小节的第一次旋律起音落在第一拍。\n\n解释：\n在给定的ABC谱例中，第一小节是整小节休止（z16）。第二小节（\"Cm\"）的第一个音符是C4，它占据了该小节的前四个十六分音符，即第一拍。因此，Cm小节的第一次旋律起音落在第一拍。"}
+{"id": "ABC-V2-0340", "model": "gemini-3.1-pro-preview", "response": "第一个有声小节的七个音分为两次下行：第一次是A,2G,2F,2D,2，第二次是F,2E,2C,4。末音C,4的时值是前六个音（均为1/16音符）的两倍，形成了更大的落差。"}
+{"id": "ABC-V2-0341", "model": "gemini-3.1-pro-preview", "response": "起音在第1小节第1拍，保持到第1小节第4拍。\n\n解释：\n谱例中只有一个音符 `D,16`，它是一个全音符（16个1/16音符），占据了整个4/4拍小节。因此，起音在第1小节第1拍，并保持到第1小节第4拍结束。"}
+{"id": "ABC-V2-0342", "model": "gemini-3.1-pro-preview", "response": "B,,作为低音长音，承接了前一小节下行的旋律线（F,-E,-A,），并在下一小节通过A,,-B,,-D,-B,,的动机重新上行。这个长时值低点标志着一个局部乐句的结束和新乐句的准备。"}
+{"id": "ABC-V2-0343", "model": "gemini-3.1-pro-preview", "response": "末两小节中，休止后的短音群分别从 D, 开始、以 C, 结束，以及从 B,, 开始、以 B,, 结束。"}
+{"id": "ABC-V2-0344", "model": "gemini-3.1-pro-preview", "response": "第四个十六分位置。\n\n解释：\n谱例中 `L: 1/16` 表示基本音符单位为十六分音符。\n\"Em\" 小节开头的 `z3` 表示休止了 3 个十六分音符的时值。\n因此，首音 `B,2` 出现在第一拍的第 4 个十六分音符位置。"}
+{"id": "ABC-V2-0345", "model": "gemini-3.1-pro-preview", "response": "谱段A：Adim7 - Bbmaj7，主音导七。\n谱段B：D7 - Gm7，对vi的应用属。\n谱段C：F7sus4 - Bbmaj7，挂留属回主。"}
+{"id": "ABC-V2-0346", "model": "gemini-3.1-pro-preview", "response": "第一小节的D♯（D,）是B和弦的三音，同时也是E大调的导音。B和弦转到E和弦时，和声得到了解决（属到主），但旋律中的D♯并没有按导音惯例直接上行到E，而是跳进到了B,。"}
+{"id": "ABC-V2-0347", "model": "gemini-3.1-pro-preview", "response": "和声框架：Dm7 - Gm7 - C7 - Fmaj7 - Em7 - A7 - Dm7。\n功能分析：i7 - iv7 - VII7 - IIImaj7 - ii7 - V7 - i7。\n关系大调的属—主进行：C7 - Fmaj7 (VII7 - IIImaj7)。\n末尾回到 D 小调：通过 Em7 - A7 - Dm7 (ii7 - V7 - i7) 的进行回到 D 小调。"}
+{"id": "ABC-V2-0348", "model": "gemini-3.1-pro-preview", "response": "K: Cm\n解释：谱例中出现了Dm7b5 - G7 - Cm的进行，这是一个典型的iiø7 - V7 - i进行，指向C小调。末小节的Cm和弦也印证了这一点。因此，最合适的调号是C小调（K: Cm）。"}
+{"id": "ABC-V2-0349", "model": "gemini-3.1-pro-preview", "response": "和弦依次是：G（持续4拍）、C（持续4拍）、E（持续1.75拍）、E/G#（持续2.25拍）、Am（持续4拍）、Gm（持续1.75拍）、C7（持续2.25拍）、F（持续4拍）、G（持续4拍）、C（持续4拍）。\n重复出现的和弦有：G（2次）、C（2次）。"}
+{"id": "ABC-V2-0350", "model": "gemini-3.1-pro-preview", "response": "和弦顺序和各次拍数：Db(1拍), Dbmaj7(1拍), Bbm(4拍), Gb(4拍), Db(4拍)。\n出现两次的和弦：Db。"}
+{"id": "ABC-V2-0351", "model": "gemini-3.1-pro-preview", "response": "第一小节第4个发声音符是 C4，它从第3拍开始。"}
+{"id": "ABC-V2-0352", "model": "gemini-3.1-pro-preview", "response": "和弦事件依次为：B和弦持续4拍，F#/A#和弦持续4拍，G#m7和弦持续4拍，F#和弦持续4拍，Emaj7和弦持续4拍，D#m7和弦持续1拍，G#m7和弦持续3拍，C#m7和弦持续4拍。\n重复出现的和弦是G#m7，出现了2次。"}
+{"id": "ABC-V2-0353", "model": "gemini-3.1-pro-preview", "response": "和弦顺序为Dbmaj7、Ebm7、Ab7、Dbmaj7，拍数分别为4、1、1、4，重复次数分别为1、1、1、1。"}
+{"id": "ABC-V2-0354", "model": "gemini-3.1-pro-preview", "response": "音高序列：E, F, A, F, E, D, B,, A,,\n最低音：A,,\n方向分界：A,\n轮廓：先升后降"}
+{"id": "ABC-V2-0355", "model": "gemini-3.1-pro-preview", "response": "最低音是 A,，最高音是 F。音域是 A, 到 F。"}
+{"id": "ABC-V2-0356", "model": "gemini-3.1-pro-preview", "response": "目标小节在谱段B中紧接在 \"Em\" G2 z12 C2 | 之后出现。命中范围是谱段B。"}
+{"id": "ABC-V2-0357", "model": "gemini-3.1-pro-preview", "response": "和弦标记始终为 \"Ab\"，未发生变化。旋律与节奏仍在活动。这种和声组织通常被称为持续音（Pedal Point）或静态和声（Static Harmony）。它能支持氛围音乐、极简主义或某些民间音乐的风格联想，但不能唯一证明该段落属于某种特定的音乐流派或风格。"}
+{"id": "ABC-V2-0358", "model": "gemini-3.1-pro-preview", "response": "和弦事件顺序及持续拍数：\n1. Db和弦，持续10拍\n2. Gb和弦，持续1拍\n3. Ab和弦，持续2拍\n4. Db和弦，持续2.5拍\n5. Bbm7和弦，持续2拍\n6. Ab和弦，持续1拍\n7. Ebm和弦，持续1拍\n8. Ab和弦，持续2拍\n9. Db和弦，持续3.5拍\n10. Dbmaj7和弦，持续1拍\n11. Gb和弦，持续1拍\n12. Ab和弦，持续2拍\n13. Fm7和弦，持续2.5拍\n14. Bbm7和弦，持续2.5拍\n\n各和弦事件次数：\nDb和弦：3次\nGb和弦：2次\nAb和弦：3次\nBbm7和弦：2次\nEbm和弦：1次\nDbmaj7和弦：1次\nFm7和弦：1次"}
+{"id": "ABC-V2-0359", "model": "gemini-3.1-pro-preview", "response": "第三次起音从第3拍开始。\n\n解释：\n在D和弦小节中，音符为A,4 G,4 A,4 G,4。每个音符的时值是4个1/16音符，即1/4音符（1拍）。第三个音符是A,4，它从第3拍开始。"}
+{"id": "ABC-V2-0360", "model": "gemini-3.1-pro-preview", "response": "实际音级：E♭, F, C, B♭, G。\n和弦内音：E♭, G, B♭。\n色彩音：C（大六度），F（大九度）。\n最低点：G,。\n整体轮廓：从E♭开始，先上行至F，然后下行至C，再下行至B♭,，继续下行至G,，最后上行至B♭,和C，整体呈波浪形下行后上行的轮廓。"}
+{"id": "ABC-V2-0361", "model": "gemini-3.1-pro-preview", "response": "唯一的下行大跳是 E 到 G,，紧随其后的上行音程是 G, 到 C。"}
+{"id": "ABC-V2-0362", "model": "gemini-3.1-pro-preview", "response": "倒数第二小节最高音为E，出现在小节后半部分；最后一小节最高音为E，出现在小节中间。"}
+{"id": "ABC-V2-0363", "model": "gemini-3.1-pro-preview", "response": "目标从第二小节开始。\n完整命中范围为第二小节至第三小节。"}
+{"id": "ABC-V2-0364", "model": "gemini-3.1-pro-preview", "response": "E,2 F,2 G,2 A,2 B,2 D2 A,2 B,2\n在 B,2 和 D2 之间。"}
+{"id": "ABC-V2-0365", "model": "gemini-3.1-pro-preview", "response": "和弦顺序为F#maj7、C7、Fm7b5、A#7、D#m，逐次拍数分别为4、4、4、4、4，次数分别为1、1、1、1、1。"}
+{"id": "ABC-V2-0366", "model": "gemini-3.1-pro-preview", "response": "可观察事实：\n1. 速度为中板（Q: 1/4=88）。\n2. 存在较长休止（z4, z8）。\n3. 和弦包含Dbmaj7和Db6，是D♭主和弦的扩展。\n4. 节奏上出现连续的十六分音符（D,D,D,D,D,2）。\n\n有限推断：\n1. 速度和休止表明音乐具有一定的停顿和呼吸感，稳定度中等。\n2. Dbmaj7和Db6和弦增加了色彩和柔和感，情绪偏向抒情或沉思。\n3. 短音增密（连续十六分音符）带来局部的推动力，情绪有轻微的波动或向前发展的趋势。"}
+{"id": "ABC-V2-0367", "model": "gemini-3.1-pro-preview", "response": "休止后，旋律通过 B,,、D,、E,、F, 四个十六分音符上行到 F,，随后 F, 延长了 16 个十六分音符（即一个全音符）的时值，形成句尾的延长。"}
+{"id": "ABC-V2-0368", "model": "gemini-3.1-pro-preview", "response": "第四、五小节中，A♯m7原位与斜线形式交替顺序为：原位（2拍）- 斜线形式（2拍）- 原位（1拍）- 斜线形式（3拍）。原位出现2次，斜线形式出现2次。斜线形式A♯m7/E♯是第二转位。"}
+{"id": "ABC-V2-0369", "model": "gemini-3.1-pro-preview", "response": "从 Db 小节的 D,, 到 A,, 是纯五度上行，从 A,, 到 F, 是小六度上行，从 F, 到下一小节的 E, 是大二度下行，从 E, 到 =A, 是纯四度上行。"}
+{"id": "ABC-V2-0370", "model": "gemini-3.1-pro-preview", "response": "后续旋律从 D, 重新起步，方向向下变化。"}
+{"id": "ABC-V2-0371", "model": "gemini-3.1-pro-preview", "response": "第4拍的正拍。\n\n解释：\nBb小节的音符序列为 `z12 C4`。\n`z12` 表示休止12个1/16音符，即3拍。\n`C4` 表示C音持续4个1/16音符，即1拍。\n因此，C音从第4拍的正拍开始。"}
+{"id": "ABC-V2-0372", "model": "gemini-3.1-pro-preview", "response": "和弦事件顺序及拍数：\n1. C#m7 (16拍)\n2. F#7 (16拍)\n3. Bmaj7 (16拍)\n4. G#m7 (16拍)\n5. C#m7 (16拍)\n6. D#m7 (16拍)\n7. G#m7 (16拍)\n8. B/F# (16拍)\n\n重复出现的和弦：\n- C#m7 (2次)\n- G#m7 (2次)"}
+{"id": "ABC-V2-0373", "model": "gemini-3.1-pro-preview", "response": "第2小节和第3小节。\n\n解释：\n谱段A的特征是：第一小节有密集的F音（F2F2F2 F2B2A2F2），第二小节有C—D线条（C2 C4 D4 B,2B,2F2-）。\n在谱段B中，第2小节（\"Ebmaj7\" z2 F2F2F2 F2B2A2F2）和第3小节（\"Gm7\" C2 C4 D4 B,2B,2F2-）完全匹配谱段A的这两个特征。"}
+{"id": "ABC-V2-0374", "model": "gemini-3.1-pro-preview", "response": "A段以休止和三个长F为主，B段出现高音f并密集运动。A段节奏舒缓，B段节奏紧凑，两者形成鲜明对比。"}
+{"id": "ABC-V2-0375", "model": "gemini-3.1-pro-preview", "response": "旋律在D,处停止下降并开始回升。\n压缩路径：D C A, G, E, D, E,\n轮廓类型：< - - - - - + >"}
+{"id": "ABC-V2-0376", "model": "gemini-3.1-pro-preview", "response": "主音与调式：F#小调。\nK字段：K:F#m\n功能说明：\nG#m7b5：F#小调的iiø7和弦，作为前置和弦。\nC#7：F#小调的V7和弦，作为属和弦。\nF#m：F#小调的i和弦，作为目标主和弦。"}
+{"id": "ABC-V2-0377", "model": "gemini-3.1-pro-preview", "response": "第一小节的两次起音分别位于第4拍的第3个和第4个十六分音符位置。\n\n**解释：**\n第一小节的音符序列为 `z12 C,2E,2-`。\n* `z12` 表示休止了12个十六分音符，即前3拍（每拍4个十六分音符）。\n* `C,2` 占据了第4拍的前两个十六分音符位置（即第13和第14个十六分音符）。\n* `E,2-` 占据了第4拍的后两个十六分音符位置（即第15和第16个十六分音符）。\n因此，两次起音分别在第4拍的第3个和第4个十六分音符位置。"}
+{"id": "ABC-V2-0378", "model": "gemini-3.1-pro-preview", "response": "第一条连音落地后，旋律向下展开；第二条连音落地后，旋律向下展开；第三条连音落地后，旋律向下展开。"}
+{"id": "ABC-V2-0379", "model": "gemini-3.1-pro-preview", "response": "首尾两个完整小节的音高与节奏是严格重复的，均为“C,2D,2C,2D,2 C,2D,2C,2D,2”。中间小节通过引入不同的音高（F,）和休止符（z2），以及不同的节奏型（F,2 z2 F,2 z2 D,2 C,6），打断了这种重复。"}
+{"id": "ABC-V2-0380", "model": "gemini-3.1-pro-preview", "response": "第三拍。\n\n解释：\n第一小节的音符为 `G,4 ^G,4 =G,4 G,4`。\n`=G,4` 是带还原记号的音符。\n在 4/4 拍中，每个四分音符（长度为 4 个 1/16 音符）占一拍。\n`G,4` 占第一拍，`^G,4` 占第二拍，`=G,4` 占第三拍。\n因此，带还原记号的音符从第三拍起音。"}
+{"id": "ABC-V2-0381", "model": "gemini-3.1-pro-preview", "response": "谱段A与谱段B的第2、3小节是严格重复的。\n首小节的变奏体现在：\n1. 音高变化：谱段A的第1小节包含音高B、c、A，而谱段B的第1小节包含音高B、A、G、A。\n2. 起音变化：谱段A的第1小节起音为B，而谱段B的第1小节起音也为B，但后续音符的起音位置和时值有所不同。谱段A的起音模式为B3B3c2 A4 z2 A2，而谱段B的起音模式为B6 A G3 A4 A2。"}
+{"id": "ABC-V2-0382", "model": "gemini-3.1-pro-preview", "response": "顺序为 Bbm7, Eb7，分别持续 3, 5 拍。显式标记分别出现 3, 4 次。"}
+{"id": "ABC-V2-0383", "model": "gemini-3.1-pro-preview", "response": "K: E\nz12 | \"C#m\" C,3 z z4 z4 z2 B,, z | \"A\" A,,2B,, z A,,4 C,4 B,,4 | \"E\" z4 G,,4 B,,6 G,,2 |"}
+{"id": "ABC-V2-0384", "model": "gemini-3.1-pro-preview", "response": "谱段A的低音A（`A,2`）结束后，跨越小节线的静默共有14个1/16音符（即3.5拍）。谱段B中的更低A（`A,,2`）在该小节第2拍的后半拍（即第7个1/16音符位置）进入。"}
+{"id": "ABC-V2-0385", "model": "gemini-3.1-pro-preview", "response": "第三拍的后半拍。\n\n解释：\nGm7小节的拍号为4/4，即每小节4拍，每拍为四分音符。\n谱例中，Gm7小节的音符序列为：z8 z2 E2D2B,2。\nz8表示休止8个十六分音符，即两拍。\nz2表示休止2个十六分音符，即半拍。\n因此，前两拍半为休止。\n随后的第一枚发声音符为E2，它占据了第三拍的后半拍。"}
+{"id": "ABC-V2-0386", "model": "gemini-3.1-pro-preview", "response": "从 Db 小节末音 D, 到 Gb 小节第一个起音 F 发生了小三度音程，随后最高点在 F。"}
+{"id": "ABC-V2-0387", "model": "gemini-3.1-pro-preview", "response": "总时值是 4 个 1/16 音符（即 1 拍）。它从第 4 拍的后半拍（第 15 个 1/16 音符位置）进入。"}
+{"id": "ABC-V2-0388", "model": "gemini-3.1-pro-preview", "response": "进入首个有声小节时，谱面明确切换到 4/4 拍。若下一小节没有新的 `[M:]`，该拍号继续有效。"}
+{"id": "ABC-V2-0389", "model": "gemini-3.1-pro-preview", "response": "谱段A的独立起音数量为3，音域为F,,到B,,。谱段B的独立起音数量为12，音域为E,,到A,。谱段B的独立起音数量多于谱段A，谱段B的音域大于谱段A。"}
+{"id": "ABC-V2-0390", "model": "gemini-3.1-pro-preview", "response": "K: Ab\n大调。首尾和弦为Ab，第三小节解决到Ab，因此主音为Ab。和弦包含Db和Eb7，符合Ab大调的特征。"}
+{"id": "ABC-V2-0391", "model": "gemini-3.1-pro-preview", "response": "C大调。\n第6-7小节。\n第6小节的G7sus4和弦是属和弦的变体，第7小节的C和弦是主和弦，这两个和弦构成了属到主的进行，明确了C大调的调性。"}
+{"id": "ABC-V2-0391-A1", "model": "gemini-3.1-pro-preview", "response": "最能确认C大调归属的相邻和弦是 \"G7sus4\" 到 \"C\"。\n\n比较：\n1.  \"Fmaj7\" 到 \"G7/F\"：根音从F到G（上行大二度），功能为IV到V（下属到属），落点在属和弦，未解决到主和弦。\n2.  \"G7sus4\" 到 \"C\"：根音从G到C（下行纯五度），功能为V到I（属到主），落点在主和弦，形成了强烈的正格终止，最能确认C大调归属。"}
+{"id": "ABC-V2-0392", "model": "gemini-3.1-pro-preview", "response": "第一小节末拍的两个A♭八分音分别落在第四拍的强位和弱位。第二个A♭通过连音线与下一小节第一拍的A♭相连，使得下一小节第一拍的A♭不再独立起音，而是延续前一个音的时值，从而改变了重音位置，形成切分效果。"}
+{"id": "ABC-V2-0393", "model": "gemini-3.1-pro-preview", "response": "三个有声小节的和弦在 A 大调中分别是 I 级（A）、iii 级（C#m7）和 ii 级（Bm）。功能重心从主区（I 级）通过中介和弦（iii 级）平稳过渡到下属区（ii 级）。"}
+{"id": "ABC-V2-0394", "model": "gemini-3.1-pro-preview", "response": "音名：A, C♯\n运动方向：上行\n音程：大三度"}
+{"id": "ABC-V2-0395", "model": "gemini-3.1-pro-preview", "response": "这段音乐具有强烈的向前推进的运动感，但最终的和声收束感较弱，呈现出一种未完成或悬置的状态。\n\n运动感证据：速度标记为“Q: 1/4=182”，这是一个非常快的速度（Presto），赋予了音乐强烈的动能和紧迫感。\n和声收束感证据：乐段结束在“F#m7b5”和弦上，这是一个半减七和弦，通常作为下属功能和弦（如iiø7）出现，具有强烈的不稳定性和倾向性，并未解决到主和弦（Em），因此收束感弱，给人以悬念。"}
+{"id": "ABC-V2-0396", "model": "gemini-3.1-pro-preview", "response": "第三个起音E（E4）和带逗号的G（G,3）的实际音高分别为E4和G3。下行音程为大六度。整小节更接近和弦分解。"}
+{"id": "ABC-V2-0397", "model": "gemini-3.1-pro-preview", "response": "和弦顺序为 Amaj7, Am6, G#m7, C#m7, F#m7, B7。\n各次拍数分别为 16, 16, 16, 16, 32, 16。\n事件次数为 6。"}
+{"id": "ABC-V2-0398", "model": "gemini-3.1-pro-preview", "response": "第一小节的主要节奏骨架是：开头四个十六分音符成组，之后拉长为八分音符和四分音符。"}
+{"id": "ABC-V2-0399", "model": "gemini-3.1-pro-preview", "response": "第二个音D,6占据一拍半，越过了第二拍的后半拍和第三拍的前半拍，形成切分效果。长音后接休止符z6，使节奏重心落在长音上，产生悬念和停顿感。"}
+{"id": "ABC-V2-0400", "model": "gemini-3.1-pro-preview", "response": "F#m7 的末音 G, 连入 Emaj7 后，从 F#m7 的九音变为 Emaj7 的三音，和声功能由不稳定趋向稳定，旋律支撑音由 G, 变为 F,。"}
+{"id": "ABC-V2-0401", "model": "gemini-3.1-pro-preview", "response": "和弦事件顺序和逐次拍数：\nCmaj7: 2拍\nEm7: 1拍\nFmaj7: 3拍\nG7sus4: 2拍\nEm7: 1拍\nD#7: 1拍\nDm7: 4拍\nG7sus4: 2拍\nCmaj7: 2拍\nE7: 2拍\nAm7: 2拍\nGm7: 1拍\nC: 1拍\nFmaj7: 2拍\nC/G: 1拍\nG7sus4: 1拍\n\n重复事件及次数：\nCmaj7: 2次\nEm7: 2次\nFmaj7: 2次\nG7sus4: 3次"}
+{"id": "ABC-V2-0402", "model": "gemini-3.1-pro-preview", "response": "事件顺序为：G和弦、Am7和弦、D7和弦、Bm7和弦、E7和弦、Am7和弦、Bm7和弦、Cmaj7/B和弦、C和弦。\n逐次拍数为：8、4、4、4、4、1、1.5、1.5、4。\n重复次数为：1、1、1、1、1、1、1、1、1。"}
+{"id": "ABC-V2-0403", "model": "gemini-3.1-pro-preview", "response": "B段的两个C♯token由连线连接，表示同一个音符的延续，因此在计算独立起音数时只计为1个。\nA段的独立起音数为8个，音域为B,,到D♯。\nB段的独立起音数为2个，音域为C♯到E。\n因此，A段的独立起音数多于B段，A段的音域宽于B段。"}
+{"id": "ABC-V2-0404", "model": "gemini-3.1-pro-preview", "response": "和弦顺序和逐次拍数：\nCmaj7 (4拍)\nE7 (4拍)\nAm7 (4拍)\nGm7 (1拍)\nC7 (3拍)\nFmaj7 (4拍)\nEm7 (1拍)\nAm7 (3拍)\nDm7 (4拍)\nG7 (4拍)\n\n重复出现的和弦是 Am7，共出现 2 次。"}
+{"id": "ABC-V2-0405", "model": "gemini-3.1-pro-preview", "response": "休止后的两个和弦小节从主和弦（D#m）进行到下属和弦（G#m6），改变了和声色彩。第二小节的附加音（G#m6中的大六度音E#）带来了不协和的张力，增加了和声的复杂性和色彩感。"}
+{"id": "ABC-V2-0406", "model": "gemini-3.1-pro-preview", "response": "第一小节的 A, 是一个延音，因为两个 A, 之间有一个连音线（-），表示它们是一个连续的音符，而不是两个重复起音。"}
+{"id": "ABC-V2-0407", "model": "gemini-3.1-pro-preview", "response": "第一小节最醒目的节奏特征是切分音。在 \"A/C#\" 和弦处，音符 C 和 B, 形成切分节奏，打破了原本的强弱规律。"}
+{"id": "ABC-V2-0408", "model": "gemini-3.1-pro-preview", "response": "事件顺序和逐次拍数：F(4拍) - A7(4拍) - Dm(4拍) - F7/C(2拍) - F7(2拍) - Bb(4拍)；A7解决到Dm，F7/C—F7解决到Bb，F7/C是第二转位。"}
+{"id": "ABC-V2-0409", "model": "gemini-3.1-pro-preview", "response": "没有改动。谱段B的下行短音（G2F2 F2E2E2D2）及其后的长D（D6）在音高和节奏上与谱段A完全一致。"}
+{"id": "ABC-V2-0410", "model": "gemini-3.1-pro-preview", "response": "紧接Dm之后，谱面用Cm和弦把F大调属和弦（C和弦）的三音（E）降低半音（E♭）。\nCm是F大调的v级和弦，来源于同主音小调（F小调）的借用。\n随后F7（V7/IV）—F（I）—B♭（IV）的进行中，Cm作为副下属和弦（ii/IV），与F7共同构成了指向下属和弦B♭的ii-V-I进行，从而平滑地导向下属区域。"}
+{"id": "ABC-V2-0411", "model": "gemini-3.1-pro-preview", "response": "谱段B的密集C音群从第1小节的第3个16分音符位置开始。\n\n解释：\n谱段A的C长音（C2）占据了第1小节的前两个16分音符，随后是休止符。谱段B的开头是“z2”，表示休止两个16分音符，因此密集的C音群（C2C2C2 C2C2）从第1小节的第3个16分音符位置开始。"}
+{"id": "ABC-V2-0412", "model": "gemini-3.1-pro-preview", "response": "Bm 小节采用连续的八分音符节奏型。\n\n解释：\n在 ABC 谱例中，\"Bm\" 小节的音符为 `B,2C2D2C2 D2C2D2B,2`。\n由于 `L: 1/16`，每个数字代表十六分音符的时值。\n`B,2`、`C2`、`D2` 等音符的时值都是 2 个十六分音符，即一个八分音符。\n因此，该小节由连续的八分音符组成。"}
+{"id": "ABC-V2-0413", "model": "gemini-3.1-pro-preview", "response": "事件顺序与逐次拍数：\nB: 8拍\nG#m: 8拍\nD#m7: 8拍\nF#7/E: 4拍\n\n末尾斜线和弦转位：\n第三转位"}
+{"id": "ABC-V2-0413-A1", "model": "gemini-3.1-pro-preview", "response": "单个十六分休止符（z）将后续音符的起音位置推迟了半拍，打破了原本规整的节奏，产生了切分效果。结合其低音区的音高和重复的节奏型，它更像是一个伴奏riff，为音乐提供节奏支撑和和声基础，而非持续的主旋律。"}
+{"id": "ABC-V2-0414", "model": "gemini-3.1-pro-preview", "response": "事件顺序为Bm7、E7、C#m7、F#7、Em7、F#+，逐次拍数为16、16、16、16、32、16，事件次数为6。"}
+{"id": "ABC-V2-0415", "model": "gemini-3.1-pro-preview", "response": "和弦事件依次是：\n1. C和弦，持续4拍\n2. F和弦，持续2拍\n3. G和弦，持续6拍\n4. Em7和弦，持续3拍\n5. Am7和弦，持续5拍\n6. Dm7和弦，持续8拍\n7. Fm6和弦，持续4拍\n\n每种和弦形成的事件次数：\nC和弦：1次\nF和弦：1次\nG和弦：1次\nEm7和弦：1次\nAm7和弦：1次\nDm7和弦：1次\nFm6和弦：1次"}
+{"id": "ABC-V2-0416", "model": "gemini-3.1-pro-preview", "response": "在第一个G和弦小节中，低音材料在 `G,,` 与 `B,,` 之间交替，休止符位于第二拍的后半拍（`z B,,`）。在第二个G和弦小节中，低音材料同样在 `G,,` 与 `B,,` 之间交替，但休止符移动到了第三拍的后半拍（`z B,,`）。休止位置的移动并没有改变和声，因为两个小节都保持了G大调的主和弦（G和弦）的低音交替模式。"}
+{"id": "ABC-V2-0417", "model": "gemini-3.1-pro-preview", "response": "实际音高为A2和D4，音程方向为上行，性质为纯四度。"}
+{"id": "ABC-V2-0418", "model": "gemini-3.1-pro-preview", "response": "最低音是G,，最高音是F。音域是22个半音，音程性质是小七度。"}
+{"id": "ABC-V2-0419", "model": "gemini-3.1-pro-preview", "response": "和弦事件及拍数：\n1. F: 32拍\n2. A7: 16拍\n3. Dm7: 16拍\n4. Cm: 8拍\n5. F7: 8拍\n6. Bb: 16拍\n7. Bbm6: 16拍\n8. F: 16拍\n\n再次出现的标签：F。"}
+{"id": "ABC-V2-0420", "model": "gemini-3.1-pro-preview", "response": "音高序列：E2, G2, A2, B2, D3, F3, E3。\n音程方向：上，上，上，上，上，下。\n方向变化：在第6个音符（F3）处。\n轮廓类型：上-下。"}
+{"id": "ABC-V2-0421", "model": "gemini-3.1-pro-preview", "response": "发声音token：C2 E C B,2 E2 C2 B,2 C2 E2\n三音动机：C2 B,2 C2"}
+{"id": "ABC-V2-0422", "model": "gemini-3.1-pro-preview", "response": "旋律保持原样。\n\n解释：\n谱段A和谱段B的第二小节旋律均为 `B,4 B,4 z4 B,2G,2`，没有发生变化。和弦从 \"Bb6\" 变为 \"Bb\" 并没有影响旋律。"}
+{"id": "ABC-V2-0423", "model": "gemini-3.1-pro-preview", "response": "三次C分别从第1拍后半拍、第2拍后半拍、第4拍前半拍起音。\n休止—发声布局为：休止1拍，发声3/4拍，发声1拍，休止1/4拍，发声3/4拍。\n前两次C均在后半拍起音，形成切分节奏；第三次C在前半拍起音，为正拍节奏。"}
+{"id": "ABC-V2-0424", "model": "gemini-3.1-pro-preview", "response": "D 是 D#，属于和弦的九音；G 是 G#，属于和弦的五音。"}
+{"id": "ABC-V2-0425", "model": "gemini-3.1-pro-preview", "response": "A 小节从休止进入后，采用连续的四分音符和八分音符收尾。"}
+{"id": "ABC-V2-0426", "model": "gemini-3.1-pro-preview", "response": "起音为A,，收音为F,，全句最低音为F,,。\n首尾音高比较：起音高于收音。\n线条分类：下行。"}
+{"id": "ABC-V2-0427", "model": "gemini-3.1-pro-preview", "response": "F D2 F2 D2 F2 D2 E3 F-；从E3开始偏离。"}
+{"id": "ABC-V2-0428", "model": "gemini-3.1-pro-preview", "response": "共同音：B,、F,、A,。\n功能级数变化：从主和弦（I）变为中音和弦（iii）。"}
+{"id": "ABC-V2-0429", "model": "gemini-3.1-pro-preview", "response": "目标两小节在谱段B的第2-3小节。和弦扩展标签（如\"F#maj7/E#\"）不影响判断，因为音符序列完全匹配。"}
+{"id": "ABC-V2-0430", "model": "gemini-3.1-pro-preview", "response": "低音为 E, A, D。它们通过下行纯五度（或上行纯四度）的根音运动，控制和弦的连接，形成强烈的倾向性和解决感。"}
+{"id": "ABC-V2-0431", "model": "gemini-3.1-pro-preview", "response": "和弦顺序、逐次拍数和重复次数如下：\n- Ebmaj7: 4拍 (2次)\n- Cm7: 4拍 (2次)\n- Fm7: 4拍 (1次)\n- Ab/Bb: 2拍 (1次)\n- Bb7sus4: 2拍 (1次)\n- Fm7: 1拍 (1次)\n- Gm7: 3拍 (1次)"}
+{"id": "ABC-V2-0431-A1", "model": "gemini-3.1-pro-preview", "response": "A♭/B♭由B♭、A♭、C、E♭组成，B♭7sus4由B♭、E♭、F、A♭组成。两者的共同音为B♭、E♭、A♭，唯一替换音为C变为F。这种连接通过保留共同音并引入F，平滑地从IV级（A♭）过渡到V级（B♭），增强了向主和弦（E♭）解决的倾向。"}
+{"id": "ABC-V2-0432", "model": "gemini-3.1-pro-preview", "response": "第一小节属于十六分音符穿插的密集型。证据是该小节包含多个十六分音符（如C2CCCB,B,2中的C和B,，以及B,2 z B,B,2G,G,中的B,和G,），节奏紧凑。"}
+{"id": "ABC-V2-0433", "model": "gemini-3.1-pro-preview", "response": "中央小节的 \"Dbmaj7\" 是降VII级大七和弦，作为同主音小调（降E小调）的借用和弦，带来色彩变化，不构成真正转调。"}
+{"id": "ABC-V2-0434", "model": "gemini-3.1-pro-preview", "response": "中间的 G#7 和弦（包含变化音 ^B,）实际落到了 C#m7 和弦。\n\n结合连音旋律来看，G#7 和弦的根音 G, 延续了前一小节 E 和弦的 G,，而其三音 ^B, 则通过连音线延续到下一小节，并最终解决到 C#m7 和弦的根音 C,。这种旋律上的连贯性和和声上的解决关系表明，G#7 并非孤立的离调色彩，而是作为 E 和弦到 C#m7 和弦之间的过渡，起到了连接和推动和声发展的作用。"}
+{"id": "ABC-V2-0435", "model": "gemini-3.1-pro-preview", "response": "末小节旋律中的C音体现了六度色彩扩展。和声闭合感变弱是因为六度音（C）的加入打破了原有的主和弦（Eb）的稳定结构，引入了新的色彩和张力，使得和声不再完全回归到最稳定的主音状态，从而减弱了闭合感。"}
+{"id": "ABC-V2-0436", "model": "gemini-3.1-pro-preview", "response": "休止后的两个B，第一个是B,，第二个是B。它们形成向上跳进的音区动作。科学音高分别为Bb2和Bb3，音程为纯八度。"}
+{"id": "ABC-V2-0437", "model": "gemini-3.1-pro-preview", "response": "该小节后半和弦为F7，解决到下一小节的Bbm7，构成V7/ii - ii的副属和弦解决。末小节为Eb7sus4，是原调Ab大调的属和弦，表明F7只是离调，并未发生转调。"}
+{"id": "ABC-V2-0438", "model": "gemini-3.1-pro-preview", "response": "前半小节休止，后半小节发声。"}
+{"id": "ABC-V2-0439", "model": "gemini-3.1-pro-preview", "response": "第一小节后半部分（`C2B,2 z C z B,`）通过休止符（`z`）将音符（`C` 和 `B,`）隔开，打破了连续的节奏，形成了碎片化的听觉效果。"}
+{"id": "ABC-V2-0440", "model": "gemini-3.1-pro-preview", "response": "F,4 还原为 F♮,，E4 还原为 E♮。\n从 F♮, 到 E♮ 的上行半音数为 11。\n音程名称为大七度。"}
+{"id": "ABC-V2-0441", "model": "gemini-3.1-pro-preview", "response": "首小节的Fm和弦扩展为Fm7后，通过共同音F和Ab连接到下一小节的Dbmaj7和弦。"}
+{"id": "ABC-V2-0441-A1", "model": "gemini-3.1-pro-preview", "response": "首小节后半的七和弦是 Fm7，七音是 Eb。若改用七音作低音，斜线和弦标签应写为 \"Fm7/Eb\"。\n下一小节和弦是 Dbmaj7，根音是 Db。\nFm7/Eb 的低音是 Eb，Dbmaj7 的低音是 Db。\n这种写法将低音连接从 F -> Db 改变为 Eb -> Db，形成级进下行。"}
+{"id": "ABC-V2-0442", "model": "gemini-3.1-pro-preview", "response": "G♯m7♭5 -> C♯7 -> F♯m，正格终止。"}
+{"id": "ABC-V2-0442-A1", "model": "gemini-3.1-pro-preview", "response": "在C♯7小节中，显式临时升音是^E,（E♯）。\n它与七音B,构成减五度音程（E♯-B）。\n理论解决方向：E♯作为导音向上解决到F♯，B作为七音向下解决到A，形成向主和弦F♯m的解决。"}
+{"id": "ABC-V2-0443", "model": "gemini-3.1-pro-preview", "response": "在第2小节末尾至第3小节，和弦由Em7变为Dm7。根音由E变为D，调内功能由iii级变为ii级。跨小节连音（F,4- | F,4）连接了Dm7和弦的三音，强化了新和弦的色彩。"}
+{"id": "ABC-V2-0443-A1", "model": "gemini-3.1-pro-preview", "response": "F,总共持续8个1/16音符，即2拍。它在上一小节第4拍进入，通过连音线跨越小节线，持续到下一小节第1拍。这种切分节奏提前呈示了Dm7和弦的根音，同时由于连音线的作用，下一小节强拍没有重新起音，从而弱化了强拍的重音感。"}
+{"id": "ABC-V2-0444", "model": "gemini-3.1-pro-preview", "response": "F7 小节采用“半休止后进入”的节奏型。\n\n解释：\n在 4/4 拍中，F7 小节的音符序列为 `z8 B,2C2D2C2`。`z8` 表示休止 8 个 1/16 音符，即休止了半个小节（两拍）。随后进入音符 `B,2C2D2C2`。因此，这是半休止后进入的节奏型。"}
+{"id": "ABC-V2-0445", "model": "gemini-3.1-pro-preview", "response": "前一小节的长音 E, 延续到 Em7 和弦中，作为共同音。在 Bm7 和弦中，E, 是 11 音（或 4 音），而在 Em7 和弦中，E, 成为根音（1 音）。级数功能从 Bm7 的 11 音移动到 Em7 的根音。"}
+{"id": "ABC-V2-0446", "model": "gemini-3.1-pro-preview", "response": "末尾和弦为A#大三和弦，在D#小调中承担属和弦（V）功能。谱段中两轮循环均以A#和弦结束，且其后未接续D#m和弦，因此谱段实际未显示其解决。"}
+{"id": "ABC-V2-0447", "model": "gemini-3.1-pro-preview", "response": "第一小节发声与休止时值依次为：十六分休止、四分音符、八分音符、八分音符、十六分休止、十六分音符、十六分休止、八分音符、附点八分音符。四分时值F后没有立即休止，而是紧接八分音符E。断续感来自十六分休止符的穿插。"}
+{"id": "ABC-V2-0448", "model": "gemini-3.1-pro-preview", "response": "这个小节在四分音符与成对八分音符之间交替，具体表现为：首先是一个四分音符（E,4），接着是两对八分音符（E,2F,2 和 G,2B,2），最后又是一个四分音符（E4）。"}
+{"id": "ABC-V2-0449", "model": "gemini-3.1-pro-preview", "response": "静默前后的和弦标记合起来构成g小调的半终止。\n\n进行抽取与级数标注：\n静默前为 \"Am7b5\" (iiø7)，静默后为 \"D7\" (V7)。\n进行为：iiø7 -> V7。\n\n后续持续材料确认落点：\n\"D7\" 之后，音乐进入 \"Gm\" (i) 和弦，并在低音区持续 G 音（G, 和 G,,），这确认了音乐最终落在主和弦上，但静默前后的和弦本身构成了半终止。"}
+{"id": "ABC-V2-0450", "model": "gemini-3.1-pro-preview", "response": "第一小节属于以八分与十六分混合为主的节奏型。\n\n解释：\n第一小节的音符包括 E2、C2、B,B,-、B,B,2、G,、C2，这些音符的时值主要是八分音符（2个1/16）和十六分音符（1个1/16），没有整拍（4个1/16）的长音。因此，它属于以八分与十六分混合为主的节奏型。"}
+{"id": "ABC-V2-0451", "model": "gemini-3.1-pro-preview", "response": "A,, C, C, A,, G,, C, E,, E, D, C, A,, G,,"}
+{"id": "ABC-V2-0452", "model": "gemini-3.1-pro-preview", "response": "所示小节唯一的显式变化音是^C,，它向上半音解决到D,。在持续的Dm和声中，^C,作为导音，承担了强烈的倾向性，引导旋律回到主音D,，增强了和声的稳定感。"}
+{"id": "ABC-V2-0453", "model": "gemini-3.1-pro-preview", "response": "该片段的节奏处理更强调通过连音线延续旋律。\n\n谱面依据：\n谱例中出现了多处连音线（-），如 \"D4- D2\"、\"E2-E3\" 和 \"C2-\"，这些连音线将相同音高的音符连接起来，使其时值相加，从而延续了旋律的进行，而不是重复起音。"}
+{"id": "ABC-V2-0454", "model": "gemini-3.1-pro-preview", "response": "第一、二、四小节的起音（C,,、E,,、C,,）是和弦内音，可作根音或转位低音；第三小节的起音（A,,）是非和弦音。"}
+{"id": "ABC-V2-0455", "model": "gemini-3.1-pro-preview", "response": "抽取事件：Gm7 - C7 - Fmaj7；\n功能级数：ii7 - V7 - Imaj7；\n终止类型：正格终止。"}
+{"id": "ABC-V2-0456", "model": "gemini-3.1-pro-preview", "response": "首音为^D，第二音为B,。^D到B,的音程为减四度。"}
+{"id": "ABC-V2-0457", "model": "gemini-3.1-pro-preview", "response": "调号在第2小节切换，目标调是Db大调。\n和弦功能链：Ebm7 (ii7) -> Ab7 (V7) -> Dbmaj7 (Imaj7) -> Bbm7 (vi7)。\n末小节的Bbm7是Db大调的vi7和弦，属于大调内的自然和弦，并不表示回到原来的小调。"}
+{"id": "ABC-V2-0458", "model": "gemini-3.1-pro-preview", "response": "连续两个斜线和弦是 \"Dmaj7/C#\" 和 \"A/C#\"，它们共享低音 C#。\n\"Dmaj7/C#\" 是 Dmaj7 的第三转位，\"A/C#\" 是 A 的第一转位。\n持续低音 C# 连接了根音从 D 到 A 的变化。"}
+{"id": "ABC-V2-0459", "model": "gemini-3.1-pro-preview", "response": "谱段A的实际起音数为3，音域为D,-E,。谱段B的实际起音数为15，音域为B,-A。"}
+{"id": "ABC-V2-0460", "model": "gemini-3.1-pro-preview", "response": "切分节奏。第一小节中，音符在弱拍或弱半拍进入，打破了正常的强弱规律，形成了切分节奏。"}
+{"id": "ABC-V2-0461", "model": "gemini-3.1-pro-preview", "response": "第二小节的C#7和弦是F#m的属七和弦，它在第三小节解决到了F#m和弦，这是一个离调解决。后五小节的进行（F#m - Amaj7/E - D - A/C# - F#m - Bm7 - E）仍然在A大调的调性范围内，没有确立新的调性中心，因此不足以视为转调。"}
+{"id": "ABC-V2-0462", "model": "gemini-3.1-pro-preview", "response": "最后一次和弦更换是从Bmaj7到D#m，在D#小调中造成VI级到I级的级数变化。跨入新和弦的连音E,在Bmaj7中是根音，在D#m中变为降九音，和弦身份改变。"}
+{"id": "ABC-V2-0463", "model": "gemini-3.1-pro-preview", "response": "K: F#\n局部目标是D#m，最终主音是F#。"}
+{"id": "ABC-V2-0464", "model": "gemini-3.1-pro-preview", "response": "休止前由B♭m走向D♭，休止后出现A♭—B♭m—A♭，这组落点更支持转向D♭大调（B♭m的关系大调）。\n证据只支持局部中心转移。虽然和声进行暗示了D♭大调的倾向，但缺乏明确的终止式（如A♭7-D♭）来确认完整的转调，且B♭m和弦的出现也削弱了D♭大调的稳定性。"}
+{"id": "ABC-V2-0465", "model": "gemini-3.1-pro-preview", "response": "在K:Fm下，Fm和弦标记处两次写作`A,`的旋律音实际是Ab,音。它们是F小三和弦的三音，不构成大小三度并置。"}
+{"id": "ABC-V2-0466", "model": "gemini-3.1-pro-preview", "response": "C2B,2C2B,2 C4 A,2D2-\nA,2: A,\nD2-: D\n-: D"}
+{"id": "ABC-V2-0467", "model": "gemini-3.1-pro-preview", "response": "第二小节在半小节休止后使用八分音符和四分音符收尾。"}
+{"id": "ABC-V2-0468", "model": "gemini-3.1-pro-preview", "response": "和弦序列为Gm7 - C7 - Fm7。在E♭大调中，Gm7是iii7，C7是V7/ii，Fm7是ii7。C7作为副属和弦，通过强烈的倾向性解决到Fm7，实现了对F小调区域的主音化。然而，这三个和弦仅构成了一个局部的离调过程，缺乏F小调的属和弦（如C7）解决到主和弦（Fm）的完整终止式，因此不足以证明发生了完整的转调。"}
+{"id": "ABC-V2-0469", "model": "gemini-3.1-pro-preview", "response": "发声与休止的交替模式为：发声、休止、发声、休止。"}
+{"id": "ABC-V2-0470", "model": "gemini-3.1-pro-preview", "response": "第一组乐句从主和弦 Bb 开始，经过下属功能区 Cm7 和属功能区 F7，在第 3 小节末回归主和弦 Bb。\n第二组乐句同样从主和弦 Bb 开始，经过下属功能区 Cm7 和属功能区 F7，在第 7 小节末回归主和弦 Bb。\n两次终止换点分别在第 3 小节末和第 7 小节末。"}
+{"id": "ABC-V2-0471", "model": "gemini-3.1-pro-preview", "response": "B和弦下的八个短音为B, A, G, F, E, D, C, B,,，A和弦下的四个音为C, E, F, G,。连接后为B, A, G, F, E, D, C, B,, C, E, F, G,。方向符号在第8个发声音后改变，极值为B,,，整体轮廓为下上。"}
+{"id": "ABC-V2-0472", "model": "gemini-3.1-pro-preview", "response": "首个有声小节（第2小节）为Gm和弦，调内功能为主和弦（T），旋律重心在G,,和C、D等音；转入后继和弦（第3小节）Cm7时，调内功能变为下属和弦（S），旋律重心转移至E音。"}
+{"id": "ABC-V2-0473", "model": "gemini-3.1-pro-preview", "response": "第三个完整小节同一低音上的两次和弦标记改变了三音，色彩随后被引向属和弦。\n\n解释：\n第三个完整小节的两次和弦标记为 \"Bb7/F\" 和 \"Bbm7/F\"，低音均为 F。\n\"Bb7\" 的和弦音为 Bb, D, F, Ab，\"Bbm7\" 的和弦音为 Bb, Db, F, Ab。\n两次和弦标记改变了三音，由 D 变为 Db。\n随后，和弦进行到 \"Eb7sus4\"，色彩被引向属和弦。"}
+{"id": "ABC-V2-0473-A1", "model": "gemini-3.1-pro-preview", "response": "最后一小节的三个和弦标签是：\"Eb7sus4\"、\"Bbm7\"、\"Eb7sus4\"。\n在A♭大调中，\"Bbm7\"是ii7，\"Eb7sus4\"是V7sus4。\n\"Bbm7\"到\"Eb7sus4\"构成正常的ii7—V7连接。\n\"Eb7sus4\"到\"Bbm7\"方向相反。\n中间和弦\"Bbm7\"通过作为ii7，为前后的属功能和弦\"Eb7sus4\"提供了准备和扩展。"}
+{"id": "ABC-V2-0474", "model": "gemini-3.1-pro-preview", "response": "从第三个有和弦标记的小节起，连续三和弦进行为 Ebm - Ab - Db - Gb。\n在 Bbm 调中，这可以解释为 iv - VII - III - VI。\n同时，这也可以解释为 Db 大调（Bbm 的平行大调）中的 ii - V - I - IV。\n这种进行（特别是 ii - V - I）强烈暗示了向 Db 大调的转调，但仅凭此进行不足以完全证明已经转调，还需要后续和声或旋律的确认。"}
+{"id": "ABC-V2-0475", "model": "gemini-3.1-pro-preview", "response": "三个 Ab 小节的分解音型轮换根、三、五音的方式为：第一小节 A,C2A,, z E, z A,2C2A,,2E,2B,-，第二小节 B,D2A,,2E,2 A,2C2A,,2E,2A,-，第三小节 A, z C z A,, z E, z A,2C2A,,2E,2。第二小节开头的 B, 应按调号理解为 Bb,。"}
+{"id": "ABC-V2-0476", "model": "gemini-3.1-pro-preview", "response": "这两个小节共享的节奏型是：四个八分音符（由两个十六分音符组成），后接一个八分音符、一个四分音符和一个八分音符（延音）。这种完全一致的节奏型在不同的和弦背景下重复，形成了一种强烈的节奏呼应，增强了音乐的连贯性和结构感。"}
+{"id": "ABC-V2-0477", "model": "gemini-3.1-pro-preview", "response": "Bbm/F 低音为五音，Ebm/Bb 低音为五音，两个转位均通过五音低音延展和声。"}
+{"id": "ABC-V2-0478", "model": "gemini-3.1-pro-preview", "response": "首音为B,，尾音为B,，首尾音高相同。\n全局最高音为G，最低音为B,。\n音高序列为B, G F E D C B,，方向变化为上-下-下-下-下-下，轮廓不闭合。"}
+{"id": "ABC-V2-0479", "model": "gemini-3.1-pro-preview", "response": "第一小节可概括为“休止+短音列”型，具体为：休止符（z6）+短音列（E,2 A,2B,2B,2A,2）。"}
+{"id": "ABC-V2-0480", "model": "gemini-3.1-pro-preview", "response": "最终答案：\n主音为C，调式为C大调。\nEm不是主和弦，因为和弦走向为Em-F-G-C，即iii-IV-V-I，最终稳定在C大调的主和弦C上。Em作为iii级和弦，在此走向中起到了引入下属和弦F的作用，而非作为主和弦提供稳定感。"}
+{"id": "ABC-V2-0481", "model": "gemini-3.1-pro-preview", "response": "提取的进行为：\n1. \"Em7\" - \"A7\" - \"D\" (第2-3小节)\n2. \"Em7\" - \"A7\" - \"D\" (第4-5小节)\n3. \"Em7\" - \"A7\" - \"D\" (第6-7小节)\n\n调号为D大调。\n级数分析：Em7为ii7，A7为V7，D为主和弦I。\n终止类型：ii7 - V7 - I 构成正格终止（Authentic Cadence）。\n该进行在材料中重复了3次。"}
+{"id": "ABC-V2-0482", "model": "gemini-3.1-pro-preview", "response": "末两小节各有两个独立起音。\n倒数第二小节：C8（两拍）、E8（两拍），共四拍。\n倒数第一小节：B,8（两拍）、B2（半拍）、B2（半拍）、c2（半拍）、A2-（半拍，延音），共四拍。"}
+{"id": "ABC-V2-0483", "model": "gemini-3.1-pro-preview", "response": "前两小节没有重复同一节奏。第一小节是四个四分音符（D,4 D4 D4 D4），节奏均匀；第二小节是四分音符、二分音符、四分音符（C4 G,8 C4），节奏有长短变化。这种差异打破了第一小节的均匀流动，使第二小节的流动感变得不规则，增加了音乐的起伏和停顿感。"}
+{"id": "ABC-V2-0484", "model": "gemini-3.1-pro-preview", "response": "K: G#m\nC♯7 是 G♯m 调的 IV7，可标记为 IV7。它在这个片段里没有完成预期解决。"}
+{"id": "ABC-V2-0485", "model": "gemini-3.1-pro-preview", "response": "K: E\nz4 z4 | z16 | \"E\" E,,4 G,,4 E,4 G,,4 | \"G#m\" D,4 G,,4 D,4 G,,4 |"}
+{"id": "ABC-V2-0486", "model": "gemini-3.1-pro-preview", "response": "实际和声：Ebm\n目标调：只由字段声明"}
+{"id": "ABC-V2-0487", "model": "gemini-3.1-pro-preview", "response": "K: Bm\n解释：谱例中出现了F#7和弦，它是B小调的属七和弦，直接确认了B小调。同时，Bm和弦连续占据了两个小节，进一步巩固了B小调的中心地位。因此，全局中心是B小调，K字段应为K: Bm。"}
+{"id": "ABC-V2-0487-A1", "model": "gemini-3.1-pro-preview", "response": "可以。A6的音集为{A, C♯, E, F♯}，等同于F♯m7的音集。改写为F♯m7/A（小七和弦第一转位）。\n在原谱中，A6作为F♯7的解决，功能上较弱，且与后续Bm的连接缺乏强烈的导向性。改写为F♯m7/A后，F♯m7作为Bm的属和弦（v-i），增强了向Bm解决的倾向性，使和声进行更具逻辑性和动力。"}
+{"id": "ABC-V2-0488", "model": "gemini-3.1-pro-preview", "response": "借用和弦为 Bbm/Db，是下属小和弦的第一转位（iv6），起到了下属功能，增加了和声色彩并平滑过渡到主和弦。"}
+{"id": "ABC-V2-0488-A1", "model": "gemini-3.1-pro-preview", "response": "第5至第7小节的主要和弦低音为Bb（Bbmaj7）、Db（Bbm/Db）、C（F）。它们形成下行半音阶轮廓（Bb-Db-C，Db为Bb的等音）。如果中间和弦改用根位（Bb），低音连接将失去半音下行的平滑过渡特点。"}
+{"id": "ABC-V2-0489", "model": "gemini-3.1-pro-preview", "response": "谱段B的第2-3小节。\n\n解释：\n目标要求以E♭长音起势，第二小节在休止后回到C。\n在谱段B中，第2小节（\"Cm\" E4 C2C2 E2 G4 F2-）以E♭长音（E4）起势，第3小节（\"Fm\" F2 z4 C2 F4 E2E2-）在休止（z4）后回到C（C2）。这与目标描述完全一致。"}
+{"id": "ABC-V2-0490", "model": "gemini-3.1-pro-preview", "response": "K: E\n\"E\" E,,,2B,,,2F,,G,,3 \"B\" F,,4 B,,2G,,2- | \"C#m\" G,,4 E,2A,,2- \"A\" A,,2G,,2A,,G,,E,,2 | \"E\" E,,,2B,,,2F,,G,,3 \"B\" F,,2D,,2F,,2E,,2- | \"A\" E,,4 A,,2 E,6 A,,4 |"}
+{"id": "ABC-V2-0491", "model": "gemini-3.1-pro-preview", "response": "骨架：C-B♭-A♭-F-E♭-D♭-C。最低点为D♭。末尾从D♭向上大七度跳进至C，打破了此前的下行趋势。末音C在D♭大调中是导音，在A♭7和弦中是大三度。"}
+{"id": "ABC-V2-0492", "model": "gemini-3.1-pro-preview", "response": "解决：G7/D -> Cm7\n应用属级数及斜线转位：V65/vi"}
+{"id": "ABC-V2-0493", "model": "gemini-3.1-pro-preview", "response": "**最终答案**：\n三段进行为：`\"Bb7\" z4 z E,,D,,2 F,,2G,,2A,,2G,,2- | \"Ebm7\" G,, D,3 z12 | \"Ab7sus4\" z3 B,,E,D,2 G,3 z3 D,E,2 |`。\n局部主音化解释：第一行末小节的 \"Bb7\" 是非调内属七和弦，它作为副属和弦（V7/ii），倾向于解决到下一行首的 \"Ebm7\"（ii级和弦），形成了对 Ebm 的局部主音化。随后，\"Ebm7\" 再次进行到 \"Ab7sus4\"（V级属功能和弦），完成了 ii-V 的进行，回归到原调的属功能。"}
+{"id": "ABC-V2-0494", "model": "gemini-3.1-pro-preview", "response": "下一段首小节落到 Eb 和弦。目标调为 Eb 大调。边界和弦 A7sus4 和 Bb7 并非真正的共同和弦枢纽，因为它们在两个调中没有共同的音级功能，而是通过直接换号和非调内属七和弦的引入来实现转调。"}
+{"id": "ABC-V2-0495", "model": "gemini-3.1-pro-preview", "response": "第三至第四小节：E7 -> Am7，应用属功能为 V/vi。\n第五至第六小节：C7 -> Fmaj7，应用属功能为 V/IV。"}
+{"id": "ABC-V2-0496", "model": "gemini-3.1-pro-preview", "response": "K: B\n大调\n\n解释：\n谱例中和弦标记为 \"F#\" -> \"B\"，这是一个属到主的进行（V -> I）。\n目标主和弦是 \"B\"，表示 B 大调。\n因此，K 字段应为 K: B，目标主和弦体现的是大调。"}
+{"id": "ABC-V2-0497", "model": "gemini-3.1-pro-preview", "response": "全局调性为A大调。末两小节和声落点为Esus4 - Amaj7，构成V - I的属到主正格终止，明确支持A大调。中途的D和弦是A大调的下属和弦（IV），在和声进行中起到连接和过渡的作用。"}
+{"id": "ABC-V2-0498", "model": "gemini-3.1-pro-preview", "response": "目标两小节从第2小节开始。\n首小节的休止分布为：z2...z2...。"}
+{"id": "ABC-V2-0499", "model": "gemini-3.1-pro-preview", "response": "第一小节的第三拍和第四拍的“休止后进入”节奏（z B,3 和 z C3）在第二小节的第三拍和第四拍（z D3 和 z F3）完全重复。\n第一小节的第一拍和第二拍的长休止（z8）在第二小节的第一拍和第二拍改成了新的短音型（z DD2 z DD2）。"}
+{"id": "ABC-V2-0500", "model": "gemini-3.1-pro-preview", "response": "F♯7/C♯解决到Bm，D7解决到G。F♯7/C♯是Bm的属和弦（V/vi），D7是G的属和弦（V/IV）。F♯7/C♯的低音C♯是和弦的五音，因此是第二转位。"}
+{"id": "ABC-V2-0501", "model": "gemini-3.1-pro-preview", "response": "否。第二小节的节奏是 z8 A,2B,2C2B,2，第三小节的节奏是 C4 z12，两者的节奏型不同，因此不形成节奏重复。"}
+{"id": "ABC-V2-0502", "model": "gemini-3.1-pro-preview", "response": "实际进行为 B7 - C#m7。在B大调中，B7是主和弦的属七形式（I7），通常解决到下属和弦（IV），但这里进行到上主七和弦（C#m7，ii7），因此不是标准的属—主解决。第三小节的 \"C#m7/G#\" 表示和弦为C#m7，但低音为G#（即和弦的五音），这是一种转位和弦的标记方法。"}
+{"id": "ABC-V2-0503", "model": "gemini-3.1-pro-preview", "response": "第二小节和第四小节都在小节开头有一个八分音符的音符，随后是长休止符。第二小节的休止符后有音符，而第四小节的休止符后是四分音符。"}
+{"id": "ABC-V2-0504", "model": "gemini-3.1-pro-preview", "response": "两个含六个起音的小节使用了相同的时值骨架：2-4-2-2-2-2-2，夹在中间的小节留白了12个1/16音符。"}
+{"id": "ABC-V2-0505", "model": "gemini-3.1-pro-preview", "response": "否。前三小节的节奏密度分别为 4, 5, 1，不逐小节重复。"}
+{"id": "ABC-V2-0506", "model": "gemini-3.1-pro-preview", "response": "目标单元在谱段B的第2到第3小节。"}
+{"id": "ABC-V2-0507", "model": "gemini-3.1-pro-preview", "response": "谱段B中，目标的C重复型从第2小节开始。\n和弦由F♯改为F♯sus4不会破坏旋律匹配。F♯sus4和弦包含F♯、B、C♯，旋律音C♯（即C）是和弦音，D是经过音，B是和弦音，因此旋律与和弦匹配良好。"}
+{"id": "ABC-V2-0508", "model": "gemini-3.1-pro-preview", "response": "谱段B音域更宽、起音更多。\n\n解释：\n谱段A的音符为A、B、G，音域为A到B（大二度），起音数为3。\n谱段B的音符为D、C,、D,、F,、G,、B,、D、F，音域为C,到F（十一度），起音数为8。\n因此，谱段B的音域更宽，起音更多。"}
+{"id": "ABC-V2-0509", "model": "gemini-3.1-pro-preview", "response": "休止小节处于 Em 调号状态，其后三个有和弦小节处于 G 调号状态。状态从休止小节之后、第一个有和弦小节之前切换。"}
+{"id": "ABC-V2-0509-A1", "model": "gemini-3.1-pro-preview", "response": "实音不会改变。\n因为这段旋律只用到了D、E、B,三个音，这三个音在G大调、a小调（Am）和C大调中都不需要升降号，所以无论K:G、K:Am还是K:C，这三个音的实际音高都一样。\n这段旋律的和弦走向是Am—Am—G，这在G大调（ii-ii-I）、a小调（i-i-VII）或C大调（vi-vi-V）中都是合理的和声进行，且旋律音都属于这些调的自然音阶，因此仅凭这一小段无法唯一判定调性。"}
+{"id": "ABC-V2-0510", "model": "gemini-3.1-pro-preview", "response": "第三小节后半小节为A,8，第四小节后半小节为C2 B,6。"}
+{"id": "ABC-V2-0511", "model": "gemini-3.1-pro-preview", "response": "G♯m7♭5的音集为{G♯, B, D, F♯}。\n作为D大调属和弦（A）的导七和弦，它应解决到A和弦。\n作为相邻和弦音集连接，它与Bm7（{B, D, F♯, A}）和Em7（{E, G, B, D}）共享音B和D，形成平滑过渡。\n谱面中G♯m7♭5后接Em7，并未解决到A和弦，因此谱面未给出前一种解释所需的解决。"}
+{"id": "ABC-V2-0512", "model": "gemini-3.1-pro-preview", "response": "第四小节的进行为 \"Gm7\" - \"C7\"，在 C 大调中解释为 v7 - I7，在局部目标调 F 大调中解释为 ii7 - V7。下一小节落到 \"Fmaj7\"，在 C 大调中为 IVmaj7，在 F 大调中为 Imaj7。"}
+{"id": "ABC-V2-0513", "model": "gemini-3.1-pro-preview", "response": "第四小节的 C#dim7 和弦连接到第五小节的 Cm7 和弦。C#dim7 的根音 C# 向上半音进行到 Cm7 的根音 C，同时其他声部也呈现半音下行或保持的趋势。这种连接方式更符合半音经过和弦的特征，而非典型的属功能解决。"}
+{"id": "ABC-V2-0514", "model": "gemini-3.1-pro-preview", "response": "是的，旋律尾部C—B仍与谱段A一致。谱段B虽然省去了\"Em\"和弦标记，但旋律音符\"C2B,2-\"与谱段A完全相同。"}
+{"id": "ABC-V2-0515", "model": "gemini-3.1-pro-preview", "response": "第4小节的2/4拍通过将前三个4/4小节中连续的十六分音符运动压缩为更短的乐句，打破了原有的节奏惯性。第5小节恢复4/4拍后，起音C2A,A,A,2F,2与休止z4重新展开了乐句，通过休止符的引入，为后续的B,CC2创造了空间，使得节奏更加丰富和有层次。"}
+{"id": "ABC-V2-0516", "model": "gemini-3.1-pro-preview", "response": "张力先升后降。第一小节F#7作为属和弦引入张力，第二、三小节解决至主和弦Bm，张力下降，但十六分音符的节奏密度保持了一定动感。第四小节D6和弦（Bm的平行大调主和弦的转位或替代）带来色彩变化，且节奏变为长音F，张力进一步释放并趋于平静。"}
+{"id": "ABC-V2-0517", "model": "gemini-3.1-pro-preview", "response": "在第二个完整 Dm 小节（\"Dm\" D,D,^C,2 z B,,B,,2 A,,2B,,A,,2 z B,,G,,-）中，无时值数字的单音有 D,、D,、B,,、A,,、B,,、B,,、G,,。由于 L: 1/16，它们各占一个十六分单位。休止符 z 将它们分为三组：第一组是 D,、D,，第二组是 B,,、A,,、B,,，第三组是 B,,、G,,。"}
+{"id": "ABC-V2-0518", "model": "gemini-3.1-pro-preview", "response": "局部进行：`\"G#m\" - \"A\" - \"B7\" - \"Emaj7\"`。\n解释：G#m 为主调 B 大调的关系小和弦（vi 级）。A 和弦为降 VII 级大和弦，作为色彩和弦引入。B7 为 I 级属七和弦，作为副属和弦（V7/IV）倾向于下属和弦。Emaj7 为下属大七和弦（IVmaj7），B7 解决到 Emaj7，形成 V7/IV - IV 的进行。"}
+{"id": "ABC-V2-0519", "model": "gemini-3.1-pro-preview", "response": "换点：`\"G/A\" B,2F,A,- \"D\" A,F,F,2`。\n解释：G/A和弦（G大三和弦，A为低音）在D大调中起属功能作用。A是D大调的属音，G大三和弦包含G、B、D，与A低音结合，形成类似A9sus4或A11的音响效果，具有强烈的倾向性，最终解决到主和弦D。"}
+{"id": "ABC-V2-0520", "model": "gemini-3.1-pro-preview", "response": "A/C# 小节开头的两个 E token 算 1 个独立起音，整小节共有 4 个独立起音。\n\n解释：\n在 \"A/C#\" 小节中，`E8- E2` 表示一个持续 10 个十六分音符长度的 E 音，由于连音线（`-`）的作用，这两个 E token 算作 1 个独立起音。该小节后续的音符为 `A2`、`F2`、`E2`，每个都是独立的起音。因此，整小节共有 1 + 3 = 4 个独立起音。"}
+{"id": "ABC-V2-0521", "model": "gemini-3.1-pro-preview", "response": "临时还原音 =E 在 1/4 拍小节末起音，并在 4/4 拍下延续。"}
+{"id": "ABC-V2-0522", "model": "gemini-3.1-pro-preview", "response": "换号后八小节支持降D大调（Db大调）。中段F类和弦（F、F7/C）作为降D大调的III级和弦，起到了色彩性或经过性的作用，并未改变整体调性。整体并未形成完整终止，因为最后停留在Fm和弦（III级），缺乏向主和弦（Db）的解决。"}
+{"id": "ABC-V2-0523", "model": "gemini-3.1-pro-preview", "response": "第一、二小节不同型。第一小节有2个起音，第二小节有1个起音。"}
+{"id": "ABC-V2-0524", "model": "gemini-3.1-pro-preview", "response": "谱段A覆盖更宽的音域，谱段B平均音区更高但更少起音。\n\n解释：\n谱段A的音域是 D, 到 G，跨度为 17 个半音。\n谱段B的音域是 G 到 B，跨度为 4 个半音。\n谱段A的平均音高是 44.0，起音数为 6。\n谱段B的平均音高是 69.33，起音数为 3。"}
+{"id": "ABC-V2-0525", "model": "gemini-3.1-pro-preview", "response": "\"D\"与\"D6\"；主和弦与附加六音的主和弦。"}
+{"id": "ABC-V2-0526", "model": "gemini-3.1-pro-preview", "response": "和弦事件：Cm, Fm, Bb, Eb, Bb/D, Cm。\nEb和弦低音为Eb，Bb/D和弦低音为D，Cm和弦低音为C，形成Eb-D-C的下行低音线。"}
+{"id": "ABC-V2-0527", "model": "gemini-3.1-pro-preview", "response": "A段低音交替（B,,和C,）有16个独立起音，音域为B,,到C,（小二度）。B段高C长音（c）合并跨小节连音后有1个独立起音，音域为c到c（纯一度）。"}
+{"id": "ABC-V2-0528", "model": "gemini-3.1-pro-preview", "response": "第三小节没有把“休止后附点音”的手势重复使用。第三小节的音符序列是 z A, z A, z A,3 z G,3 z G,3，其中包含休止符和音符，但没有附点音符。"}
+{"id": "ABC-V2-0529", "model": "gemini-3.1-pro-preview", "response": "最后一小节的旋律从第三拍进入，两个音分别占一拍。\n\n解释：\n最后一小节为 `\"D#m\" z8  D,4 E,4 |`。\n拍号为 4/4，基本音符长度为 1/16。\n`z8` 表示休止 8 个 1/16 音符，即 2 拍。\n`D,4` 和 `E,4` 分别表示 4 个 1/16 音符，即各占 1 拍。\n因此，旋律从第三拍进入，两个音分别占一拍。"}
+{"id": "ABC-V2-0530", "model": "gemini-3.1-pro-preview", "response": "C#dim7是正常导音解决。\n\n解释：\nD#dim7解决到Dm7，根音下行半音，不是正常的导音解决（通常应上行半音解决到Em）。\nC#dim7解决到Dm7，根音上行半音，符合导音解决的常规进行。"}
+{"id": "ABC-V2-0531", "model": "gemini-3.1-pro-preview", "response": "第四小节的首个起音最晚，位于第三拍的第一个十六分音符。\n\n解释：\n第一小节首个起音在第一拍的第二个十六分音符；\n第二小节首个起音在第三拍的第二个十六分音符；\n第三小节首个起音在第一拍的第二个十六分音符；\n第四小节首个起音在第三拍的第一个十六分音符。\n因此，第四小节的首个起音最晚。"}
+{"id": "ABC-V2-0532", "model": "gemini-3.1-pro-preview", "response": "B,2 C2 B,2 A,2 B,4 B,2 A,2\nB♭3共独立起音4次，其中第3次时值最长。"}
+{"id": "ABC-V2-0533", "model": "gemini-3.1-pro-preview", "response": "第一小节：一个附点二分音符，两个八分音符。\n第二小节：四个四分音符。\n第三小节：八个八分音符。"}
+{"id": "ABC-V2-0534", "model": "gemini-3.1-pro-preview", "response": "不是，后两个 Cm7 小节的音符和休止符排列不同。"}
+{"id": "ABC-V2-0535", "model": "gemini-3.1-pro-preview", "response": "八小节中共有8个和弦标记。末小节的斜线写法（\"Am/E\"）没有改变主功能，它仍然是Am和弦，但表示这是一个第二转位和弦，因为E是Am和弦的五音。"}
+{"id": "ABC-V2-0536", "model": "gemini-3.1-pro-preview", "response": "和弦级数进行为：I - V - vi - iii - IV - I - ii7。\n两个斜线和弦分别为：F#/A#（V级第一转位）、B/D#（I级第一转位）。\n材料中未出现应用属和弦。"}
+{"id": "ABC-V2-0537", "model": "gemini-3.1-pro-preview", "response": "D是在稍后才进入。\n\n理由：\n谱段A的最后一小节是\"Am7\" C2 z6 z4 z4，总时值为16个1/16音符，即一整个4/4拍小节。\n谱段B的第一小节是\"D7\" z2 D4 D2 D2A,2C2B,2-，开头有z2（两个1/16音符的休止符），因此D是在小节线之后稍后才进入的。"}
+{"id": "ABC-V2-0538", "model": "gemini-3.1-pro-preview", "response": "倒数第二小节的A7和弦（A-C#-E-G）是F大调的III7，作为副属和弦（V7/vi）解决到末小节的Dm和弦（vi）。这种解决是典型的离调进行，局部功能为V7/vi -> vi。后继的Dm和弦可以作为F大调的vi，也可以作为d小调的主和弦，因此支持向d小调转调。"}
+{"id": "ABC-V2-0539", "model": "gemini-3.1-pro-preview", "response": "双逗号B（B,,）是最低音，单逗号A（A,）不是最高音（最高音为G,）。B,,到G,的跨度为小六度，距离八度还差大三度。"}
+{"id": "ABC-V2-0540", "model": "gemini-3.1-pro-preview", "response": "C小节末的D,提前引入了G/B和弦的三音，G/B小节末的C,提前引入了Am7和弦的三音。它们通过连线将弱拍的音符延续到下一小节的强拍，形成了跨小节切分，同时由于这些音符是下一和弦的和弦音，因此也起到了和声预示的作用。"}
+{"id": "ABC-V2-0541", "model": "gemini-3.1-pro-preview", "response": "D♮到E♭，大七度。"}
+{"id": "ABC-V2-0542", "model": "gemini-3.1-pro-preview", "response": "谱段A中的B结束后，和弦虽在同一小节变化，但未出现新旋律起音。因此，谱段A与谱段B之间是乐句边界。"}
+{"id": "ABC-V2-0543", "model": "gemini-3.1-pro-preview", "response": "最后两个有标记小节是 \"D7\" 和 \"Gm\"。\n\"D7\" 是属和弦，\"Gm\" 是主和弦。\n调号是 Gm，属和弦三音是 F#。\n实际解决是 D7 -> Gm。\n功能是属到主，终止类型是完全终止。"}
+{"id": "ABC-V2-0544", "model": "gemini-3.1-pro-preview", "response": "是的，这两个D构成了完整音域。谱例中的最低音是D,，最高音是D，因此这两个D构成了完整音域。"}
+{"id": "ABC-V2-0545", "model": "gemini-3.1-pro-preview", "response": "谱段A的旋律运动更多。谱段A有10个独立起音，音域为A,到A（14个半音）；谱段B只有3个独立起音，音域为D到D（0个半音）。"}
+{"id": "ABC-V2-0546", "model": "gemini-3.1-pro-preview", "response": "属和弦直接进入主和弦的换点在第4小节到第5小节，终止类型为正格终止，属和弦不含七音。"}
+{"id": "ABC-V2-0547", "model": "gemini-3.1-pro-preview", "response": "将第二、三小节的音符时值减半，休止符时值不变，即：\n\"C\" E2 z2 C E E2 E- | \"C\" E z2 E/2-E/2D/2 E/2-E/2D/2 C2 |"}
+{"id": "ABC-V2-0548", "model": "gemini-3.1-pro-preview", "response": "两小节休止之后，Fm6 和 Cmaj7 形成收束。Fm6 带来同主音小调（C小调）的借用色彩，整个落点属于变格方向（iv - I）。"}
+{"id": "ABC-V2-0549", "model": "gemini-3.1-pro-preview", "response": "第一种收束是变格收束，第二种收束是正格收束。\n\n解释：\n前四小节中，第二小节的 \"Bbmaj7/F\" 到 \"F\" 是带F低音的下属和弦回主，属于变格收束。\n第四小节的 \"C\" 到第五小节的 \"F\" 是属三和弦跨入下一小节回主，属于正格收束。"}
+{"id": "ABC-V2-0550", "model": "gemini-3.1-pro-preview", "response": "新调号为Ab大调，与原调G大调相差5个升降号。新调号出现后，首个和弦为Ab大调的主和弦（Ab），且旋律音（C, C, E）也属于该和弦，这表明新调中心已获得初步确认。"}
+{"id": "ABC-V2-0551", "model": "gemini-3.1-pro-preview", "response": "这四个音符token没有形成四次独立起音。\n第一个音符 A,6 和第二个音符 A,2- 之间没有连音线，因此第二个音符是独立起音。\n第二个音符 A,2- 和第三个音符 A,4 之间有连音线，且音高相同，因此第三个音符不是独立起音，而是第二个音符的延续。\n第三个音符 A,4 和第四个音符 B,4 之间没有连音线，因此第四个音符是独立起音。\n综上，这四个音符token形成了三次独立起音。"}
+{"id": "ABC-V2-0552", "model": "gemini-3.1-pro-preview", "response": "第一小节是四个四分音符，第二小节是两个附点四分音符加一个八分音符，节奏变得更长。"}
+{"id": "ABC-V2-0553", "model": "gemini-3.1-pro-preview", "response": "和弦序列为Em7 - A - D。在B小调中，它们的功能是iv7 - VII - III；在关系大调D大调中，它们的功能是ii7 - V - I。材料没有停在属和弦，而是停在C#m7b5和弦。"}
+{"id": "ABC-V2-0554", "model": "gemini-3.1-pro-preview", "response": "开头的下属七（Fm7）与属七（Bb7）之后实际落到了三级和弦（Gm7）。据此判断，这是回避解决（Deceptive Cadence），因为属七和弦没有解决到主和弦（Eb），而是解决到了三级和弦。"}
+{"id": "ABC-V2-0555", "model": "gemini-3.1-pro-preview", "response": "全段音域端点为A,和A，跨度为八度。"}
+{"id": "ABC-V2-0556", "model": "gemini-3.1-pro-preview", "response": "B7之后落到Em7，并在末小节再次回到Em7。由此判断全局主音为E，调式为小调。"}
+{"id": "ABC-V2-0557", "model": "gemini-3.1-pro-preview", "response": "最后两小节的和弦变化为：D7 -> Gsus4 -> D7。\n最后一个和弦是D7，没有回到Gm主和弦。\n材料结束在属和弦D7上，属于半终止（开放状态）。"}
+{"id": "ABC-V2-0557-A1", "model": "gemini-3.1-pro-preview", "response": "末小节先后出现的两个和弦标签是 \"Gsus4\" 和 \"D7\"。\n\n\"Gsus4\" 和弦省略了决定小调色彩的三音（B♭）。\n\n\"Gsus4\" 和弦（G-C-D）与 \"D7\" 和弦（D-F♯-A-C）的共同音是 C 和 D。这两个共同音在和弦连接中保持不变，使得和声进行更加平滑，但由于 \"Gsus4\" 缺乏明确的大小调色彩，且 \"D7\" 是属和弦，这种连接并没有产生强烈的闭合感，反而保持了和声的紧张度，期待进一步解决。"}
+{"id": "ABC-V2-0558", "model": "gemini-3.1-pro-preview", "response": "第一处在第5小节，D和弦（属）进入第6小节G和弦（主），低音从D落至G，形成完全终止，终止感强。\n第二处在第7小节，D和弦（属）进入第8小节Gmaj7/B和弦（主），低音从D落至B，形成不完全终止，终止感较弱。"}
+{"id": "ABC-V2-0559", "model": "gemini-3.1-pro-preview", "response": "这个小节自身不包含重复音型。它在乐句中更像终止或长音功能。"}
+{"id": "ABC-V2-0560", "model": "gemini-3.1-pro-preview", "response": "和弦顺序为：C#m - Emaj7 - G#m - C#m。\n主和弦G#m出现处没有由属和弦形成正格终止，片段最终停在下属功能。"}
+{"id": "ABC-V2-0561", "model": "gemini-3.1-pro-preview", "response": "第2小节和第3小节。\n\n解释：\n谱段A的第1小节（\"Bm7\" B,2C2D2EE- \"E\" E2 z2 E2F2）和第2小节（\"A\" A2E2A2AB- \"C#7\" B2G2F2G2）分别对应谱段B的第2小节和第3小节。"}
+{"id": "ABC-V2-0562", "model": "gemini-3.1-pro-preview", "response": "A,, 共有 3 个独立起音。\n第一个 A,, 持续 10 个 1/16 音符。\n第二个 A,, 持续 2 个 1/16 音符。\n第三个 A,, 持续 4 个 1/16 音符。\n第四个 A,, 持续 6 个 1/16 音符。"}
+{"id": "ABC-V2-0563", "model": "gemini-3.1-pro-preview", "response": "第 1 小节后半小节为 z2 G,2，第 3 小节后半小节为 z2 G,G,G,2B,2-，材料发生了变化。"}
+{"id": "ABC-V2-0564", "model": "gemini-3.1-pro-preview", "response": "F7和弦后接Dm7，未回预期主和弦（Bb）；G7和弦后接Cm7，完成了局部主音化。"}
+{"id": "ABC-V2-0565", "model": "gemini-3.1-pro-preview", "response": "Ebsus4 小节后半的休止与无数字音符各占多久，整小节如何凑满？\n\n在 \"Ebsus4\" 小节中，后半部分包含一个休止符 `z` 和三个无数字音符 `B,`、`E`、`B`。\n由于 `L: 1/16`，无数字音符和休止符的默认时值均为 1/16。\n因此，休止符 `z` 占 1/16，三个无数字音符各占 1/16。\n整小节的音符和休止符时值总和为：`z8` (8/16) + `E,2` (2/16) + `z` (1/16) + `B,` (1/16) + `E2` (2/16) + `B2` (2/16) = 16/16，正好凑满 4/4 拍。"}
+{"id": "ABC-V2-0566", "model": "gemini-3.1-pro-preview", "response": "材料末尾实际回到C小调主和弦的是Fm和Cm。依据前一和弦Fm（下属和弦）的功能，这一回归属于变格方向。"}
+{"id": "ABC-V2-0567", "model": "gemini-3.1-pro-preview", "response": "材料中两处次属解决分别是：\n1. \"F#7\" -> \"Bm7\"，临时主音为B。\n2. \"Am7\" -> \"D7\" -> \"G\"，临时主音为G。\n片段未展示回到D主和弦的终止。"}
+{"id": "ABC-V2-0568", "model": "gemini-3.1-pro-preview", "response": "在第三小节，四分脉冲被打断，因为出现了休止符和附点音符（E,4 z C,3），这打破了第二小节中连续的四分音符（A,4 A,4 A,4 A,4）所建立的稳定节奏。"}
+{"id": "ABC-V2-0569", "model": "gemini-3.1-pro-preview", "response": "材料停在属功能（E7）。根据和弦标签（E7）与临时升G（^G,），这是半终止，未落地主和弦。"}
+{"id": "ABC-V2-0570", "model": "gemini-3.1-pro-preview", "response": "功能方向：T-D；\n结尾属和弦未实际回主。"}
+{"id": "ABC-V2-0571", "model": "gemini-3.1-pro-preview", "response": "E, 算 1 次起音，时值 4；B,, 算 1 次起音，时值 9。"}
+{"id": "ABC-V2-0572", "model": "gemini-3.1-pro-preview", "response": "第二小节起音密度较高，长时值出现在小节末尾；第四小节起音密度较低，长时值出现在小节中间。"}
+{"id": "ABC-V2-0573", "model": "gemini-3.1-pro-preview", "response": "第一小节音域为E,到G,，第二小节音域为F,,到G,。整体音域从F,,到G,，跨越了九度。"}
+{"id": "ABC-V2-0574", "model": "gemini-3.1-pro-preview", "response": "不，它们不相同。第一个 Em 小节在第一拍有一个二拍长音，而第二个 Em 小节在第二拍有一个二拍长音。"}
+{"id": "ABC-V2-0575", "model": "gemini-3.1-pro-preview", "response": "材料从主功能走向属功能。末尾标签不包含挂留，并且没有回到G♯m。"}
+{"id": "ABC-V2-0576", "model": "gemini-3.1-pro-preview", "response": "休止后的实际顺序中，F#7（属）到Bm（主）构成了小调正格终止。随后两个C#根音和弦（C#7和C#m7b5）并未形成新的完整小调回归，因为它们没有解决到主和弦。"}
+{"id": "ABC-V2-0577", "model": "gemini-3.1-pro-preview", "response": "K: E\nz8 | \"A\" E,4- E,3 z E,8 | \"A\" B,,4- B,,3 z A,,4- A,,3G- | \"E\" G3B,- B,4 G4 B,4 |"}
+{"id": "ABC-V2-0578", "model": "gemini-3.1-pro-preview", "response": "这两小节的实际音域是 B,, 到 E,。\n\n解释：\n谱例中出现的最低音是第一小节的 B,,，最高音是第二小节的 E,。因此，这两小节的实际音域是从 B,, 到 E,。"}
+{"id": "ABC-V2-0579", "model": "gemini-3.1-pro-preview", "response": "不构成。\n\n解释：\n谱例中只有一个音符 A,16，没有其他音符与之比较，因此无法构成节奏重复。节奏重复需要至少两个音符或音符组具有相同的节奏模式。"}
+{"id": "ABC-V2-0580", "model": "gemini-3.1-pro-preview", "response": "实际音级为Bb。因为行内调号[K:Bbm]覆盖了header中的K: Ab，Bbm调号包含五个降号（Bb, Eb, Ab, Db, Gb），所以B字母音默认解析为Bb。"}
+{"id": "ABC-V2-0581", "model": "gemini-3.1-pro-preview", "response": "第一小节：4+4+4+4\n第二小节：8+8\n第三小节：8+8\n第四小节：8+4+4"}
+{"id": "ABC-V2-0582", "model": "gemini-3.1-pro-preview", "response": "Db大调。\n\n第一小节的挂留属和弦是Ab7sus4，第二小节的目标和弦是Db和Dbmaj7/Ab，Dbmaj7/Ab是Dbmaj7的第二转位。Ab7sus4到Db的进行是V-I进行，因此主音是Db，调式是大调。"}
+{"id": "ABC-V2-0583", "model": "gemini-3.1-pro-preview", "response": "属七和弦（A7）为原位（低音E,、D,、E,、=C,，未明确转位，但通常视为原位或根音省略），主和弦（Dmaj7）到达后通过低音A,,（Dmaj7/A）延长。"}
+{"id": "ABC-V2-0584", "model": "gemini-3.1-pro-preview", "response": "行内换号把记谱状态转向D大调。换号前共享和弦语汇（Em7, Em, D, A, G, G6, A6）与换号后唯一和弦（Em）比较，新主音D已经在材料内确认。"}
+{"id": "ABC-V2-0585", "model": "gemini-3.1-pro-preview", "response": "旋律骨架：D, B, D C A, F,\n最高音：D\n方向分界：D\n收音与起音比较：收音高于起音\n轮廓：上行-下行"}
+{"id": "ABC-V2-0586", "model": "gemini-3.1-pro-preview", "response": "和弦顺序为 Fmaj7 - E7 - Em7 - Am7 - Dm7。\n唯一的属七和弦是 E7，其后继是 Em7。\n材料中没有出现回到 C 主和弦的正格终止。"}
+{"id": "ABC-V2-0587", "model": "gemini-3.1-pro-preview", "response": "实际音高为B♭。连音使第二小节强拍的B♭提前发声并延续，形成切分效果，弱化了强拍的重音。在Fm7和弦（F-A♭-C-E♭）中，B♭作为11音（或4音），增加了和弦的紧张度与色彩，形成Fm11的听觉效果。"}
+{"id": "ABC-V2-0588", "model": "gemini-3.1-pro-preview", "response": "目标片段在谱段B的第2-3小节。"}
+{"id": "ABC-V2-0589", "model": "gemini-3.1-pro-preview", "response": "跨小节连续三个 E token 构成1个独立起音，总时值是12。"}
+{"id": "ABC-V2-0590", "model": "gemini-3.1-pro-preview", "response": "和声表：\n第一小节：Dmaj7 / Bm7\n第二小节：Em7 / A7\n第三小节：Dmaj7 / Bm7\n\n第三小节落主（Dmaj7）后，后半小节又接 Bm7，把循环打开。\n节奏留白配合：前两小节在和弦转换处（每小节后半）有较多休止符（z4, z2），形成呼吸空间；第三小节填满音符（F,4 A,2D2 C4 B,2E2-），没有休止，推动音乐继续向前，配合了和声循环的打开。"}
+{"id": "ABC-V2-0591", "model": "gemini-3.1-pro-preview", "response": "^A, 将调号默认的 A, 升高半音，实际音高为 A#2；=A, 将调号默认的 A, 还原，实际音高为 A2。"}
+{"id": "ABC-V2-0592", "model": "gemini-3.1-pro-preview", "response": "主和弦再次出现前的和弦是C#，包含自然小调的七级音（C#），因此是自然小调的模态回归。片段最终停在VI级（B）。"}
+{"id": "ABC-V2-0593", "model": "gemini-3.1-pro-preview", "response": "目标：D#m7，C#m7。\n作用：主调终止后，斜线和弦Bmaj7/F#作为主和弦的第二转位，起到延长主和弦、稳定调性的作用。"}
+{"id": "ABC-V2-0594", "model": "gemini-3.1-pro-preview", "response": "合并为 E,6，占 6 拍。\n\n解释：\n首个完整小节末的 E,2- 与下一小节的 E,4 通过连音线连接。\n在 L: 1/16 的设定下，E,2 占 2 个 1/16 音符的时值，E,4 占 4 个 1/16 音符的时值。\n合并后总时值为 2 + 4 = 6 个 1/16 音符，即 E,6。\n在 M: 4/4 的设定下，一拍为 1/4 音符（即 4 个 1/16 音符）。\n因此，E,6 占 6/4 = 1.5 拍。"}
+{"id": "ABC-V2-0595", "model": "gemini-3.1-pro-preview", "response": "小节 1、2 和 3 发生一次和弦切换，小节 4 只保留一个和弦。"}
+{"id": "ABC-V2-0596", "model": "gemini-3.1-pro-preview", "response": "首小节主和弦为Bm，其三音为D；下一小节同根七和弦为B7，其三音为D#。B7和弦的三音D#升高了半音，且B7/D#和弦的低音为D#，实际后继为Em和弦，因此B7是应用属和弦。"}
+{"id": "ABC-V2-0597", "model": "gemini-3.1-pro-preview", "response": "是的，两个 Fm 小节的中段 C 音保持同样节奏。\n\n解释：\n在第一个 Fm 小节中，中段的 C 音节奏为 C2B,2 C2B,2C2E2-，其中 C 音的节奏为 2 个 1/16 音符。\n在第二个 Fm 小节中，中段的 C 音节奏为 C4 C4 C4 z C，其中 C 音的节奏为 4 个 1/16 音符。\n虽然两个小节中 C 音的持续时间不同，但它们都保持了 1/16 音符的节奏单位，因此节奏是相同的。"}
+{"id": "ABC-V2-0598", "model": "gemini-3.1-pro-preview", "response": "第2小节为Gm和弦（G-Bb-D），第3小节为G大三和弦（G-B-D）。三音由降B变为还原B，使和弦性质由小三和弦变为大三和弦。这个变化的大三和弦作为属和弦（V/vi），倾向于解决到下一小节的Cm和弦（vi），产生了局部的离调功能。"}
+{"id": "ABC-V2-0599", "model": "gemini-3.1-pro-preview", "response": "是一个事件。总时值为 4/16，跨越小节线，从 Cm7 小节的第 15 个 1/16 拍位开始，到 F7 小节的第 2 个 1/16 拍位结束。"}
+{"id": "ABC-V2-0600", "model": "gemini-3.1-pro-preview", "response": "两个 F 小节从稀疏到密集发生的变化是：音符数量增加，节奏变紧凑。\n\n解释：\n第一个 F 小节包含一个全音符 F 和三个十六分音符 A, C, C，音符较少，节奏较稀疏。\n第二个 F 小节包含四个十六分音符 C, A,, A,, A, 和两个八分音符 G,, A,，音符数量增加，节奏变得更紧凑。"}
+{"id": "ABC-V2-0601", "model": "gemini-3.1-pro-preview", "response": "C, 是根音，B, 是七音，A, 是小十三音。"}
+{"id": "ABC-V2-0602", "model": "gemini-3.1-pro-preview", "response": "不是。第一小节的节奏是 z2 C,2C,2 C,4 C,2C,2C,2，第三小节的节奏是 z2 C,2C,2C,2 C,2C,2 C,4，两者不一致。"}
+{"id": "ABC-V2-0603", "model": "gemini-3.1-pro-preview", "response": "否。这一小节的音符时值分别为附点八分音符、八分音符、四分音符和四分音符，没有等长重复的节奏模式。"}
+{"id": "ABC-V2-0604", "model": "gemini-3.1-pro-preview", "response": "行内换号后的实际和弦足以建立新调。起点为G7sus4，目标为C大调。\n\n解释：\n谱例中，行内换号为[K:C]，表示调号变为C大调。紧接着的和弦为\"G7sus4\"，这是C大调的属和弦（V级），随后解决到\"C\"（I级），形成了典型的V-I进行，足以建立C大调。因此，起点为G7sus4，目标为C大调。"}
+{"id": "ABC-V2-0605", "model": "gemini-3.1-pro-preview", "response": "第一小节末音 D4- 从第四拍起音，跨过小节线延续到第二小节，且在第二小节强拍（第一拍）没有重新攻击。这形成了跨小节切分。"}
+{"id": "ABC-V2-0606", "model": "gemini-3.1-pro-preview", "response": "第二小节的G7是E♭大调的III7，作为副属和弦（V7/vi）倾向于解决到vi级。第三小节的Cm和弦正是E♭大调的vi级，验证了G7作为副属和弦的解决。"}
+{"id": "ABC-V2-0607", "model": "gemini-3.1-pro-preview", "response": "B的起音位置在小节的第3个十六分音符，合计时值为4个十六分音符。D♯的起音位置在小节的第8个十六分音符，合计时值为5个十六分音符。\nB不构成切分，因为它的起音位置在弱拍，但它的时值没有延续到下一个强拍。D♯构成切分，因为它的起音位置在弱拍，但它的时值延续到了下一个强拍。"}
+{"id": "ABC-V2-0608", "model": "gemini-3.1-pro-preview", "response": "小节1：起音数量级别为高，最长音值为四分音符。\n小节2：起音数量级别为低，最长音值为全音符。\n小节3：起音数量级别为高，最长音值为八分音符。\n全局Q值控制每分钟的节拍数，局部音值控制每个音符的相对长度。\n节奏轮廓名称：密集-稀疏-密集。"}
+{"id": "ABC-V2-0609", "model": "gemini-3.1-pro-preview", "response": "D♭大调。\n\n解释：\n谱例中，D♭大三和弦（\"Db\"）出现在第一小节起点、第二小节属和弦（\"Ab\"）解决处，以及第三小节。结合第二小节出现的关系小调B♭m（\"Bbm\"），可以确定调性为D♭大调。因此，K字段应恢复为 `K: Db`。"}
+{"id": "ABC-V2-0610", "model": "gemini-3.1-pro-preview", "response": "还原E在Dm和弦中是九音，后续运动到F（三音）和C（七音），支持Dm9和弦的判断。"}
+{"id": "ABC-V2-0611", "model": "gemini-3.1-pro-preview", "response": "不能确认严格切分。第一小节（E2EB,EE2B, E2EB,B,B,E2）虽然有密集的十六分音符和八分音符，且存在弱位起音（如第二个E在弱位），但没有音符跨越强拍或次强拍延续，因此不构成严格的切分节奏。"}
+{"id": "ABC-V2-0612", "model": "gemini-3.1-pro-preview", "response": "第一小节的连字符连接了 `A,,3` 和 `A,,4`，第二小节的连字符连接了 `C,3` 和 `C,4` 以及 `E,3` 和 `E,4`。在计算独立起音时，连字符连接的音符应视为一个音符，因此第一小节有 2 个独立起音，第二小节有 2 个独立起音。"}
+{"id": "ABC-V2-0613", "model": "gemini-3.1-pro-preview", "response": "第二个 Dm 小节的五个 token 对应实际音 D2, G2, A2, A3, D3。其中 G2 不属于 D 小三和弦（D, F, A）。"}
+{"id": "ABC-V2-0614", "model": "gemini-3.1-pro-preview", "response": "Gm6和弦（G-Bb-D-E）源自D多利亚调式（D-E-F-G-A-Bb-C），A大三和弦（A-C#-E）源自D和声小调（D-E-F-G-A-Bb-C#）。材料末端形成半终止（IV6 - V）。"}
+{"id": "ABC-V2-0615", "model": "gemini-3.1-pro-preview", "response": "K: Fm\n功能链：iv7 - V - i\nE自然音是F小调的导音，在C大三和弦（属和弦）中作为三音，强化了向主和弦Fm的解决倾向。"}
+{"id": "ABC-V2-0616", "model": "gemini-3.1-pro-preview", "response": "首音落在第一拍后半。这属于后半拍弱起（或称“避强拍”弱起）。谱面中没有跨强拍延音的证据，因为所有音符都在小节内，且没有使用连音线（tie）跨越小节线或强拍位置。"}
+{"id": "ABC-V2-0617", "model": "gemini-3.1-pro-preview", "response": "不是原样重复。\n差异1：第一小节第一拍，谱段A为“D2 z2”，谱段B为“D2F,2”。\n差异2：第二小节第三拍，谱段A为“F,2 z2”，谱段B为“B,2 z2”。"}
+{"id": "ABC-V2-0618", "model": "gemini-3.1-pro-preview", "response": "第一、二小节交界处的同音连音从第一小节末拍的后半拍（C2）起音。它通过连音线（-）延续到第二小节的强拍前半拍（C2），从而覆盖了下一小节的强拍，构成了切分节奏。"}
+{"id": "ABC-V2-0619", "model": "gemini-3.1-pro-preview", "response": "最高音是 A，最低音是 C，音域是 6 个半音。"}
+{"id": "ABC-V2-0620", "model": "gemini-3.1-pro-preview", "response": "Fm7/E♭到Dm7♭5的低音变化是E♭到D的半音下行。Dm7♭5在F小调中是借用和弦，具有多利亚调式色彩。"}
+{"id": "ABC-V2-0620-A1", "model": "gemini-3.1-pro-preview", "response": "Dm7♭5音集为{D, F, A♭, C}，Gm7♭5音集为{G, B♭, D, F}。\n共同音为D, F。\n根音运动为纯四度向上（D到G）。\nDm7♭5不能按字面充当Gm7♭5的v/ii，因为v/ii应为小调属和弦（D小三和弦或D小七和弦），而Dm7♭5是半减七和弦，缺乏纯五度音（A），无法构成标准的小调属和弦。"}
+{"id": "ABC-V2-0621", "model": "gemini-3.1-pro-preview", "response": "起音位置：第 2 小节，第 3 个 1/16 音符。\n总时值：14 个 1/16 音符。\n解释：在首个 Bbm7 小节中，连续的 F, token 为 F,6- F,4- F,4，它们通过延音线连接。起音位置在第 2 小节的第 3 个 1/16 音符，总时值为 6 + 4 + 4 = 14 个 1/16 音符。"}
+{"id": "ABC-V2-0622", "model": "gemini-3.1-pro-preview", "response": "第一小节的Cmaj7到第二小节的C7是同根变色，C7作为副属和弦，后继解决到Fmaj7。第三小节的Fmaj7到第四小节的Fm6是同根变色，Fm6作为下属和弦的变和弦，后继解决到Cmaj7。"}
+{"id": "ABC-V2-0623", "model": "gemini-3.1-pro-preview", "response": "第一次E在第1小节的第3个L单位，第二次E在第1小节的第11个L单位。它们都在弱位。"}
+{"id": "ABC-V2-0624", "model": "gemini-3.1-pro-preview", "response": "第二小节的升记号落在E7和弦的^G,上，它是E7的三音。下一小节（第三小节）到达了Am和弦，其根音为A。^G,作为导音，半音上行解决到了A，因此这是一个应用属和弦（E7作为Am的属和弦），而不是单纯的半音装饰。"}
+{"id": "ABC-V2-0625", "model": "gemini-3.1-pro-preview", "response": "因为首和弦 Bm7 的三音是 D，而调号 Em 包含 F#，D 是自然音，没有升高为 D#，所以没有形成导音到主音的强烈倾向，听感比和声小调中的强属解决柔和。"}
+{"id": "ABC-V2-0626", "model": "gemini-3.1-pro-preview", "response": "休止本身不足以构成切分。还缺少音符在弱拍或弱位发声并延续到强拍或强位的关键证据。"}
+{"id": "ABC-V2-0627", "model": "gemini-3.1-pro-preview", "response": "第一小节的节奏为 z4 C2D2 D4 C2A,2，其中 D4 占据了第三拍的前半部分，没有跨越强拍的连音。因此，它属于正拍型。"}
+{"id": "ABC-V2-0628", "model": "gemini-3.1-pro-preview", "response": "A段末尾的D跨小节延续不构成新起音。合并后，A段有5个起音，音域为B,,,-D,；B段有12个起音，音域为A,-C。A段起音数少于B段，A段音域低于B段。"}
+{"id": "ABC-V2-0629", "model": "gemini-3.1-pro-preview", "response": "F,, 属于 B 和弦，A,, 属于 F# 和弦，C, 属于 F# 和弦。"}
+{"id": "ABC-V2-0630", "model": "gemini-3.1-pro-preview", "response": "谱段内三组跨 token 连线各形成1个事件，总时值分别是15/16、11/16、20/16。"}
+{"id": "ABC-V2-0631", "model": "gemini-3.1-pro-preview", "response": "共同音：B,,。\nGbmaj7是F小调的降II级大七和弦（那不勒斯和弦的七和弦形式）。它与Bbm（IV级小三和弦）共享根音B,,（即降D音，在F小调中为降VI级音）。这种共同音关系使得和声进行平滑，Gbmaj7的七音（F）和三音（Bb）可以自然地解决或保持到Bbm的相应音上，从而实现和弦的收缩。"}
+{"id": "ABC-V2-0632", "model": "gemini-3.1-pro-preview", "response": "挂留和弦A#sus4中的挂留音E（四音）在下一小节D#m和弦中下行解决到D#（主和弦的根音），这种四音到三音（或根音）的解决是属和弦到主和弦的典型进行，因此确认了其属功能。"}
+{"id": "ABC-V2-0633", "model": "gemini-3.1-pro-preview", "response": "`[M:4/4]`将每小节1个四分音符变为4个四分音符，四分音符拍速（Q: 1/4=165）不变。换拍后，\"G#7\"（属）解决到\"C#m\"（主），形成明确的应用属解决。"}
+{"id": "ABC-V2-0634", "model": "gemini-3.1-pro-preview", "response": "这七个小节按和声成对组织为：Cm（第1-2小节）、Fm（第3-4小节）、Bb（第5-6小节），最后第7小节落在Ebmaj7上。末小节的落点更像转接，因为它没有形成完整的和声对，且Ebmaj7和弦通常具有过渡性质。"}
+{"id": "ABC-V2-0635", "model": "gemini-3.1-pro-preview", "response": "开头两小节休止后，从第三小节起，和声按五度循环（Am7-D-Gmaj7-Cmaj7-F#m7b5）推进，旋律在各和弦上展开。最后两小节停留在F#m7b5和弦上，旋律音高上升至a，形成强烈的属准备感，期待解决到主和弦，因此结尾明显未闭合。"}
+{"id": "ABC-V2-0636", "model": "gemini-3.1-pro-preview", "response": "谱段A的最后一个音符是`D2`（实际音高D4），其后有14个1/16音符的休止（`z6 z4 z4`），填满了该小节。谱段B在下一个小节的正拍立即起音（`C4`）。由于A末尾有长休止，且B在新小节正拍起音，因此边界强度强。"}
+{"id": "ABC-V2-0637", "model": "gemini-3.1-pro-preview", "response": "第一小节末由Gm变为G大三和弦，作为副属和弦（V/iv）指向下属调Cm。第二小节首和弦Cm7（iv7）直接解决了这一副属和弦，确认了其离调功能。"}
+{"id": "ABC-V2-0638", "model": "gemini-3.1-pro-preview", "response": "A\n\n解释：\n谱例中的和弦进行为 Bm7 - E7 - Amaj7，这是一个典型的 ii - V - I 进行。\nBm7 是 A 大调的 ii 级和弦，E7 是 V 级和弦，Amaj7 是 I 级和弦。\n最后的停留和弦是 Amaj7，进一步确认了主音是 A。\n因此，该谱段的调性是 A 大调，K 字段应为 A。"}
+{"id": "ABC-V2-0639", "model": "gemini-3.1-pro-preview", "response": "B相对A向上移调了纯八度。各音时值与小节结构均未改变。\n\n解释：\n谱段A的音符为C,、B,,、G,，谱段B的音符为C、B,、G。根据ABC记谱法，C比C,高一个八度，B,比B,,高一个八度，G比G,高一个八度。因此，B相对A向上移调了纯八度。\n两个谱段的音符时值（4、8）和小节结构（每小节的音符数量和排列）完全相同。"}
+{"id": "ABC-V2-0640", "model": "gemini-3.1-pro-preview", "response": "后面三小节是前面四小节的重复，但缺少了第四小节，使得第二次陈述保持悬而未决。"}
+{"id": "ABC-V2-0641", "model": "gemini-3.1-pro-preview", "response": "极短起音（C）位于第2拍的最后1/16拍（即第2拍的第4个1/16音符位置）。\n它更像提前弱起，因为：\n1. 它紧接在长休止符（z4 z3）之后，且时值极短（1/16拍）。\n2. 它直接引向第3拍的正拍强音（C2），在节奏上起到了预备和引导的作用，而非独立的正拍起音。"}
+{"id": "ABC-V2-0642", "model": "gemini-3.1-pro-preview", "response": "第二小节的G7是III级属和弦，作为副属和弦解决到Cm；末小节前半的Bbm6是小调下属和弦，作为借用和弦增加色彩，后接Eb。"}
+{"id": "ABC-V2-0643", "model": "gemini-3.1-pro-preview", "response": "音符序列为B, F, E, D, B,, D, A。\n全局最高音为B，全局最低音为B,。\n运动方向改变了3次。\n轮廓为：down, down, down, down, up, up。"}
+{"id": "ABC-V2-0644", "model": "gemini-3.1-pro-preview", "response": "该起音跨越了第3拍和第4拍的强拍位置。因为起音在第2拍后半，通过连音线延续，使得后续的强拍（第3拍和第4拍）没有新的发声，重音被转移到了弱拍上，形成了明确的切分节奏。"}
+{"id": "ABC-V2-0645", "model": "gemini-3.1-pro-preview", "response": "前两小节的Bb7sus4和弦通过将挂留音Eb解决到D，变为Bb7和弦。随后根音推进到Eb，形成Eb7sus4和弦。末小节的Eb7sus4和弦在摘录内没有继续解决。"}
+{"id": "ABC-V2-0646", "model": "gemini-3.1-pro-preview", "response": "最清楚的内部转折出现在第5小节（\"Bm\"和弦处），因为旋律从前两小节的C-G-F、F-D-C动机转变为B,-F-G，和声也从Am7-D进行到Bm，形成新的乐句起点。尾部（第8小节）像下一轮准备是因为它在长休止后出现了连续的八分音符动机（A,2G,2A,2G,2-），且最后一个音符带有延音线，预示着乐句将继续发展。"}
+{"id": "ABC-V2-0647", "model": "gemini-3.1-pro-preview", "response": "音高：B2\n和弦成员：五音\n起止拍位：第1拍至第2拍\n是否切分：否"}
+{"id": "ABC-V2-0648", "model": "gemini-3.1-pro-preview", "response": "第二枚长音从第一拍后半拍起音，跨过第二拍，形成“弱-强-弱”的切分节奏。"}
+{"id": "ABC-V2-0649", "model": "gemini-3.1-pro-preview", "response": "A段音符密度高（24个音符），音域较窄（F,到C，跨度为纯五度）；B段音符密度低（6个音符），音域较宽（C,到F，跨度为纯十一度）。这种反差体现了A段的密集叙述性和B段的舒展跳跃性。"}
+{"id": "ABC-V2-0650", "model": "gemini-3.1-pro-preview", "response": "还原E在Cm7中作为经过音，在C7中成为和弦音（三音）。它在C7和弦开始时（即A4之后）成为新和弦音。"}
+{"id": "ABC-V2-0651", "model": "gemini-3.1-pro-preview", "response": "休止入口后的六个有声小节可按2+2+2的对称关系分组，回到末两小节构成闭合。"}
+{"id": "ABC-V2-0652", "model": "gemini-3.1-pro-preview", "response": "应视为调式借用。第二小节的 Am 和弦是 E 大调的 iv 级，借用自同主音小调（E 小调）。下一小节的落点是 E 和弦（I 级），形成了 iv - I 的变格终止，印证了这是调式借用而非副属和弦。"}
+{"id": "ABC-V2-0653", "model": "gemini-3.1-pro-preview", "response": "\"C#m7\" B,,4 z8 z2 E,2- | \"C#m7\" E,2 z6 G,4 E,4 | 处的 C#m7 和弦是主和弦，形成了一个相对稳定的和声到达点，适合作为内部边界。边界后的三小节以 G#7 和弦结束，这是一个属和弦，具有强烈的解决倾向，因此要求后续。"}
+{"id": "ABC-V2-0654", "model": "gemini-3.1-pro-preview", "response": "这个小节在末拍后半出现短音，且没有跨小节延音线，因此它是弱起。"}
+{"id": "ABC-V2-0655", "model": "gemini-3.1-pro-preview", "response": "第5小节最像内部断点。断点前后靠持续的F#m和弦背景保持统一。"}
+{"id": "ABC-V2-0656", "model": "gemini-3.1-pro-preview", "response": "和声块划分为：Bb（2小节）- Gm（2小节）- Eb（2小节）- Bb（1小节）。\n闭合证据：\n1. 第七小节回到主和弦Bb。\n2. 伴奏织体在第七小节发生变化，从连续的十六分音符变为带有休止符的切分节奏，暗示段落结束。\n3. 第七小节末尾的F,音符带有延音线，预示着乐句的延伸或结束。"}
+{"id": "ABC-V2-0657", "model": "gemini-3.1-pro-preview", "response": "行内调号改变为D大调（[K:D]）后，E音和F音的默认升降号变为E自然音和F升音（F#）。它不会自动改写显式和弦标签，和弦标签仍为\"D\"。"}
+{"id": "ABC-V2-0658", "model": "gemini-3.1-pro-preview", "response": "和声从主和弦（Bbm）开始，经过Bbm7，然后进行到下属方向的Gb和Ebm，最后回到主和弦（Bbm），形成了一个离开主区又返回的短句。"}
+{"id": "ABC-V2-0659", "model": "gemini-3.1-pro-preview", "response": "中间两小节的旋律逐音相同。\n音高—时值序列均为：A,6 G,2 A,2 B,2 A,2 G,2。\n和弦更换（从 \"Am\" 变为 \"F\"）没有改变旋律。"}
+{"id": "ABC-V2-0660", "model": "gemini-3.1-pro-preview", "response": "音域为大十度。最低音为C,，最高音为C。运动方向为上行。"}
+{"id": "ABC-V2-0661", "model": "gemini-3.1-pro-preview", "response": "第一个完整小节末尾的升C通过延音线延续到下一小节的C#dim7和弦中，作为该和弦的根音。随后，该升C半音上行解决到Dm7和弦的根音D。结合实际落点D，该C#dim7和弦是作为Dm7的副导和弦（vii°7/ii）使用的。"}
+{"id": "ABC-V2-0662", "model": "gemini-3.1-pro-preview", "response": "前三个有声小节不含调外和弦。首小节的扩展音（A,）与低音组织（E,）产生大六和弦色彩。"}
+{"id": "ABC-V2-0663", "model": "gemini-3.1-pro-preview", "response": "从强拍开始，不形成切分。\n\n解释：\nFmaj7小节的后半部分由四个十六分音符（G,,2A,,2C,2A,,2）组成，它们从第三拍（强拍）开始，依次落在第三拍和第四拍的强弱位置上，没有跨越拍子或改变重音，因此不形成切分。"}
+{"id": "ABC-V2-0664", "model": "gemini-3.1-pro-preview", "response": "谱段A更像快速同音吟诵，谱段B更像长值和弦音陈述。\n\n解释：\n谱段A中包含大量连续的十六分音符（如F,F,F,F,），音符密集且多为同音重复，符合快速同音吟诵的特征。\n谱段B中音符时值较长（如C4、B,4），节奏缓慢，更符合长值和弦音陈述的特征。"}
+{"id": "ABC-V2-0665", "model": "gemini-3.1-pro-preview", "response": "插入了2/4拍的全休止小节；后一个和弦进入时已经恢复了4/4拍。"}
+{"id": "ABC-V2-0666", "model": "gemini-3.1-pro-preview", "response": "两次附点音分别从拍内第4个1/16拍和第8个1/16拍起音。它们通过在弱拍位置起音，打破了常规的强弱规律，形成了离拍强调。"}
+{"id": "ABC-V2-0667", "model": "gemini-3.1-pro-preview", "response": "第二小节包含最长的连续上行链。该链为 D,F,G,A,B,C，从第二小节的第二个音符开始。"}
+{"id": "ABC-V2-0668", "model": "gemini-3.1-pro-preview", "response": "末小节忽略休止后共有9次发音。\n音高次序为：B,, B,, B,, C, D, C, B,, A,,。"}
+{"id": "ABC-V2-0669", "model": "gemini-3.1-pro-preview", "response": "C♯m7♭5是B小调的自然和弦（iiø7），F♯7是B小调的属和弦（V7）。F♯7解决到了Bm7。"}
+{"id": "ABC-V2-0670", "model": "gemini-3.1-pro-preview", "response": "和弦进行：Bbm7 - Eb7sus4 - Ab。\n不需要借用或离调解释，这是 Ab 大调的 ii7 - V7sus4 - I 进行。\nEb7sus4 的挂留改变了和弦的三音（G 变为 Ab），但没有改变其作为属和弦的根音（Eb）和七音（Db），因此它仍然保留了属和弦的倾向性，最终解决到主和弦 Ab。"}
+{"id": "ABC-V2-0671", "model": "gemini-3.1-pro-preview", "response": "目标的高E♭—C线条从下一小节的第1个十六分音符进入。\n\n解释：\n在谱段B中，首小节（\"Gbmaj7\"）是另一条高音材料。下一小节（\"Ab6\"）的音符序列为 `e4 c4 A4 F2A2`，其中 `e4`（高E♭）是该小节的第一个音符，因此目标线条从该小节的第1个十六分音符处进入。"}
+{"id": "ABC-V2-0672", "model": "gemini-3.1-pro-preview", "response": "在谱段B的四小节中，谱段A的低B重复与后续E重复位于中间。\n具体位置：\n低B重复（B,2B,2 B,4 B,2B,2 F4）位于谱段B的第二小节。\n后续E重复（E4 z4 E2E2D2E2）位于谱段B的第三小节。"}
+{"id": "ABC-V2-0673", "model": "gemini-3.1-pro-preview", "response": "C#m小节首音G,在小节的第2个十六分音符位置进入。它是一个轻微离拍入口，因为它是小节内的第一个音符，且在休止符后进入，没有跨越强拍。"}
+{"id": "ABC-V2-0674", "model": "gemini-3.1-pro-preview", "response": "没有音符从弱位持续跨越下一强拍。因此，没有切分。"}
+{"id": "ABC-V2-0675", "model": "gemini-3.1-pro-preview", "response": "后两小节采用同一组音（C, G,, B,）。节奏组织上，倒数第二小节包含休止符，节奏较为零散；最后一小节前六个音符连续，节奏更为紧凑。"}
+{"id": "ABC-V2-0676", "model": "gemini-3.1-pro-preview", "response": "长音从第一拍起音，在第二拍结束。仅凭长时值不能称为切分，因为它没有跨越强拍或次强拍。"}
+{"id": "ABC-V2-0677", "model": "gemini-3.1-pro-preview", "response": "第二小节的七和弦是D#7，包含双升音^^F,（即G音）。在B大调中，D#7是III级和弦的属七和弦（V7/VI），它作为副属和弦，强烈倾向于解决到第六级和弦G#m。^^F,作为导音，强化了向G#m根音G#的解决趋势，因此虽然超出自然和声，但具有明确的离调功能。"}
+{"id": "ABC-V2-0678", "model": "gemini-3.1-pro-preview", "response": "最高音是 e，最低音是 G，整体范围是 G-e。"}
+{"id": "ABC-V2-0679", "model": "gemini-3.1-pro-preview", "response": "目标和弦为F#m。该属七和弦为C#7，是A大调的III7，其临时升高音为E#。"}
+{"id": "ABC-V2-0679-A1", "model": "gemini-3.1-pro-preview", "response": "第二小节的A和弦与旋律合在一起形成音集[0,1,4,8]。它与前后C♯7相比，低音与旋律可作半音交换，这一中间和弦推迟了应用属的解决时机。"}
+{"id": "ABC-V2-0680", "model": "gemini-3.1-pro-preview", "response": "G7为V/ii，指向下属区域；Ebm为iv，指向下属区域。"}
+{"id": "ABC-V2-0681", "model": "gemini-3.1-pro-preview", "response": "第三小节的“Em7b5 - A7”通向第四小节的“Dm7”，形成局部 ii-V-i 功能链（在 D 小调中）。调外音出现在“A7”和弦中，其包含的 C# 音是 F 大调的调外音，作为 D 小调的导音。"}
+{"id": "ABC-V2-0682", "model": "gemini-3.1-pro-preview", "response": "不需要。该和弦为VII6，低音为导音。"}
+{"id": "ABC-V2-0683", "model": "gemini-3.1-pro-preview", "response": "末小节第二次短休止后的起音位于第二拍后半拍（第8个十六分音符位置）。它通过切分节奏打断了此前较整齐的分组，没有跨强拍连音。"}
+{"id": "ABC-V2-0684", "model": "gemini-3.1-pro-preview", "response": "谱段的三个主干和弦是Bb7、Eb7、Ab。在A♭大调中，它们分别是II7、V7、I，构成II-V-I进行。"}
+{"id": "ABC-V2-0684-A1", "model": "gemini-3.1-pro-preview", "response": "A♭maj7/G将大七度音G放在低音。它接在A♭主和弦之后，通过引入不协和的七音作为低音，打破了主和弦的稳定性，使收束变得不稳定，产生悬念或期待感。"}
+{"id": "ABC-V2-0685", "model": "gemini-3.1-pro-preview", "response": "第一小节的 B,,2 ^C,4 =C,2- 实际是 D#m7 的和弦音，^C, 应拼写为 Db,，=C, 应拼写为 C,。统一后的进行是 D#m7 - Ab7 - Dbmaj7。"}
+{"id": "ABC-V2-0686", "model": "gemini-3.1-pro-preview", "response": "后三小节的最低实音是 G,,,，最高实音是 F,。\n整个谱段的音域是 G,,, - F,。"}
+{"id": "ABC-V2-0687", "model": "gemini-3.1-pro-preview", "response": "末小节的临时还原号将第一个B音还原为B,，但由于没有其他临时记号，第二个B音仍受调号影响，为Bb,。该小节四个音的实际音名与八度为：G, D =B, Bb,。"}
+{"id": "ABC-V2-0688", "model": "gemini-3.1-pro-preview", "response": "在谱段B中，旋律从F♯起音前有一个四分休止符（z4），在1/16音符为单位的情况下，这代表等待一个四分音符的时值。"}
+{"id": "ABC-V2-0689", "model": "gemini-3.1-pro-preview", "response": "首小节的七和弦是 Eb7，在 B♭ 自然小调中，Eb 和弦通常是小三和弦（Eb-Gb-Bb）。Eb7 和弦（Eb-G-Bb-Db）引入了还原 G（=G），使其成为属七和弦。斜线低音 Bb 是 Eb7 和弦的五音，因此对应第二转位。"}
+{"id": "ABC-V2-0690", "model": "gemini-3.1-pro-preview", "response": "目标在搜索范围内的精确命中范围是：第1小节到第2小节。\n\n解释：\n谱段A（目标）包含两小节，音符序列为：A2D2 D4 A2D2D2B2- | B2B2B2A2 A2A2A2A2。\n谱段B（搜索范围）的第1小节到第2小节的音符序列与谱段A完全一致。谱段B的第3小节到第4小节虽然与谱段A有相似之处，但并不完全相同。因此，精确命中范围是第1小节到第2小节。"}
+{"id": "ABC-V2-0691", "model": "gemini-3.1-pro-preview", "response": "旋律的最低音是B,，最高音是A。音域是小七度。"}
+{"id": "ABC-V2-0692", "model": "gemini-3.1-pro-preview", "response": "D♯m标记下的单音`B4`构成1/4拍号的小节，后面的G♯m长音从4/4拍号开始。\n\n解释：\n谱例中，`B4`前有行内拍号`[M:1/4]`，因此它构成1/4拍号的小节。紧接着的G♯m长音前有行内拍号`[M:4/4]`，因此它从4/4拍号开始。"}
+{"id": "ABC-V2-0693", "model": "gemini-3.1-pro-preview", "response": "骨干路径：C-B,-F-D-E。\n主要方向：上行。"}
+{"id": "ABC-V2-0694", "model": "gemini-3.1-pro-preview", "response": "后两小节的节奏完全保留，第1、2个音被替换（B,,->D,，D,,->F,,），其余音保留。这种改动属于局部变奏。"}
+{"id": "ABC-V2-0695", "model": "gemini-3.1-pro-preview", "response": "下行大六度。\n\n解释：\n调号为D大调（K: D），包含F#和C#。\n第一个音是A（A4），第二个音是C#（C2，受调号影响）。\n从A下行到C#，跨度为大六度。"}
+{"id": "ABC-V2-0696", "model": "gemini-3.1-pro-preview", "response": "F♯小和弦（v）在B大调中是自然小调借用和弦，后接B大和弦（I），支持B大调中心。"}
+{"id": "ABC-V2-0697", "model": "gemini-3.1-pro-preview", "response": "谱段A：\n独立起音数：4\n音域：E - G\n\n谱段B：\n独立起音数：10\n音域：B,, - B,"}
+{"id": "ABC-V2-0698", "model": "gemini-3.1-pro-preview", "response": "这四小节被连音和休止符划分为一个发声单位。实际收束音为F,，收束位置在第3小节的第1拍。"}
+{"id": "ABC-V2-0699", "model": "gemini-3.1-pro-preview", "response": "端点为D3和C4。总音域为小七度。"}
+{"id": "ABC-V2-0700", "model": "gemini-3.1-pro-preview", "response": "压缩音高路径：A,, B,, C, G,, A,, B,,\n最低点：第 3 小节的 G,,"}
+{"id": "ABC-V2-0701", "model": "gemini-3.1-pro-preview", "response": "A段音符密度为7个音符/2小节，音域为D到F♯；B段音符密度为3个音符/2小节，音域为D到f。A段密度更高，B段音域更广。"}
+{"id": "ABC-V2-0702", "model": "gemini-3.1-pro-preview", "response": "该长音（C,,6）从第1拍的第3个十六分音符位置起音（即第1拍的后半拍），持续6个十六分音符的时值。它覆盖了第1拍的后半拍和整个第2拍，因此持续覆盖了第2拍的强点。这构成了一个切分音。"}
+{"id": "ABC-V2-0703", "model": "gemini-3.1-pro-preview", "response": "行内换号将调性从降E大调（Eb）改变为E大调（E）。\n\n谱段中确认新中心（E大调）的和声落点包括：\n1.  **\"E\" 和弦 (E大调主和弦)**：在第二小节出现，明确建立了E大调的主音中心。\n2.  **\"B\" 和弦 (E大调属和弦)**：在第一小节出现，作为属和弦，强烈倾向于解决到主和弦（E）。\n3.  **\"Emaj7\" 和弦 (E大调主七和弦)**：在第七小节出现，进一步巩固了E大调的主音地位。\n4.  **\"A\" 和弦 (E大调下属和弦)**：在第六小节出现，与属和弦和主和弦共同构成了E大调的基本和声骨架。"}
+{"id": "ABC-V2-0704", "model": "gemini-3.1-pro-preview", "response": "F,2 F, F, F,2 C, E,- E, D,2 D,2 D,2\nF: 4次\nE: 2次\nD: 3次\n否，相邻两枚E由延音线连接，形成一次起音。"}
+{"id": "ABC-V2-0705", "model": "gemini-3.1-pro-preview", "response": "单音小节拍号为1/4，三音长句小节拍号为4/4。\n\n解释：\n谱例中，单音小节为 `[M:1/4] \"Ab\" E,4`，其拍号明确标记为 `[M:1/4]`。\n紧接着的三音长句小节为 `[M:4/4] \"Ab\" E,6 F,6 G,4`，其拍号明确标记为 `[M:4/4]`。"}
+{"id": "ABC-V2-0706", "model": "gemini-3.1-pro-preview", "response": "谱段B的起音密度更高，主要时值更短，相对谱段A增强了旋律的推进感。"}
+{"id": "ABC-V2-0707", "model": "gemini-3.1-pro-preview", "response": "最高实音为 F,，最低实音为 A,,。\n末小节从最高音 F, 回到最低音 A,,，经历的音程框架为小六度。"}
+{"id": "ABC-V2-0708", "model": "gemini-3.1-pro-preview", "response": "谱段B不是整小节静默。它在小节开头奏出“F,”音（时值6/16），随后是长达10/16的休止（z6 z4）。这种“发声后长休止”的方式，通过一个孤立的音符建立了一次明确的旋律动作，与谱段A中完全没有音符的整小节静默（z16）截然不同。"}
+{"id": "ABC-V2-0709", "model": "gemini-3.1-pro-preview", "response": "第三小节的Gm7b5（iiø7）进行到第四小节的C7（V7），形成指向F的属准备；第四小节的C7（V7/V）进行到第五小节的F7（V7），形成指向Bbm的属准备。\n第五小节的F7虽然根音是F，但它是一个属七和弦，具有强烈的倾向性，指向主和弦Bbm，因此不能说在F小调上稳定收束。"}
+{"id": "ABC-V2-0710", "model": "gemini-3.1-pro-preview", "response": "弱起进入。\n\n谱段A的B♭后有14个1/16音符的休止，谱段B的新句在2个1/16音符的休止后进入，因此是弱起进入。"}
+{"id": "ABC-V2-0711", "model": "gemini-3.1-pro-preview", "response": "存在。\n和声节奏：每小节一个和弦（Bbmaj7 - Gm7 - Cm7 - F7），属于慢和声节奏。\n表层节奏：旋律主要由十六分音符构成，属于密集表层节奏。\n末尾停在F7（属七和弦）会产生强烈的解决倾向，指向主和弦Bbmaj7，因此循环呈现待续的性格。"}
+{"id": "ABC-V2-0712", "model": "gemini-3.1-pro-preview", "response": "是的，谱段B重新组织了谱段A休止后的上行E—F—G。\n\n在谱段A中，休止后的上行音符是E—F—G，而在谱段B中，这些音符被重新组织为E—F—G。"}
+{"id": "ABC-V2-0713", "model": "gemini-3.1-pro-preview", "response": "第三小节后半的斜线和弦是 F#maj7/E#。\nF#maj7 和弦的构成音是 F#、A#、C#、E#。\n由于低音是 E#，这是 F#maj7 和弦的第三转位。\n低音 E# 级进下行连接到下一小节 D#m 和弦的根音 D#（虽然谱面上 D#m 小节的低音是 A,,，但从和弦标记来看，E# 到 D# 是典型的级进下行连接）。"}
+{"id": "ABC-V2-0714", "model": "gemini-3.1-pro-preview", "response": "目标两小节在搜索范围的第1到第2小节。第二小节和弦标签减少不影响定位，因为音符序列完全一致。"}
+{"id": "ABC-V2-0715", "model": "gemini-3.1-pro-preview", "response": "第二、三小节共享“F,4 F,3E,”这一音高与节奏单元。第四小节将该单元的音高下移至E,和A,,，节奏保持不变，改写为“E,4 E,3A,,”。"}
+{"id": "ABC-V2-0716", "model": "gemini-3.1-pro-preview", "response": "前三小节在B♭小调中分别是iv7、v、i级。第二小节到第三小节不像和声小调的强属—主终止，因为Fm和弦（v级）包含A♭音，是自然小调的属和弦，缺乏导音向主音的强烈倾向。若要加强属功能，应将A♭音改为A♮音，使Fm变为F大三和弦（V级），形成强烈的属—主终止。"}
+{"id": "ABC-V2-0717", "model": "gemini-3.1-pro-preview", "response": "在 F♯ 和弦末尾插入的两音短小节拍号为 2/4。连音进入 B 和弦时，拍号变为 4/4。"}
+{"id": "ABC-V2-0718", "model": "gemini-3.1-pro-preview", "response": "第2小节的E音通过连音线延长至第3小节，在第3小节的第4个十六分音符位置停止发声。第3小节的D音通过连音线延长，在第3小节的第12个十六分音符位置停止发声。第4小节的C音通过连音线延长至第5小节，在第5小节的第4个十六分音符位置停止发声。"}
+{"id": "ABC-V2-0719", "model": "gemini-3.1-pro-preview", "response": "D和弦结尾处的短小节采用2/4拍号，下一小节转入E和弦时，拍号恢复为4/4。\n\n核对：\nD和弦短小节：z4 A,4，总时值为8个1/16音符，即2/4拍。\nE和弦小节：E4 C8 z4，总时值为16个1/16音符，即4/4拍。"}
+{"id": "ABC-V2-0720", "model": "gemini-3.1-pro-preview", "response": "谱段B更细碎。\n谱段A以长时值音符为主，如A,12、D8、F8，节奏宽广。\n谱段B包含大量短时值音符，如F,2、E,2、B,2等，且频繁穿插休止符（如z2），节奏更为密集细碎。"}
+{"id": "ABC-V2-0721", "model": "gemini-3.1-pro-preview", "response": "中间小节的 \"D#7\" 和弦（D#-F##-A#-C#）是目标和弦 \"G#m\"（vi级）的副属和弦（V7/vi）。\n谱内的双升音 ^^F（F##）是该和弦的三音，作为导音强烈倾向于解决到下一小节 \"G#m\" 的根音 G#。\n下一小节的目标级数是 vi 级。"}
+{"id": "ABC-V2-0722", "model": "gemini-3.1-pro-preview", "response": "后两小节的实际音高分别为：E, F, A, B, 和 C E, B, E。\n第一小节的轮廓为上升，音域为纯五度（E, 到 B,）。\n第二小节的轮廓为下降-上升-上升，音域为大十度（C 到 E）。"}
+{"id": "ABC-V2-0723", "model": "gemini-3.1-pro-preview", "response": "第三小节不能按E大调的调内iii解释，因为该小节开头出现了显式的升号音^B,（升B），这在E大调中是变化音。结合下一小节的\"C#m\"和弦，第三小节的\"G#7\"和弦实际上是作为C#m的属和弦（V/vi），起到了离调的作用，引导和声进行到C#m。"}
+{"id": "ABC-V2-0724", "model": "gemini-3.1-pro-preview", "response": "还原F在Bm7中是减五度（经过音），在E7中是降九度（和弦音）。后续音序（D-C-B,）支持将其解释为倚音。"}
+{"id": "ABC-V2-0725", "model": "gemini-3.1-pro-preview", "response": "E4到B,2，下行纯四度。"}
+{"id": "ABC-V2-0726", "model": "gemini-3.1-pro-preview", "response": "首小节四个音F,、E,、C、A,分别是A♭7的十三音、降十三音、三音、根音。旋律线从十三音下行至降十三音，再跳进至三音和根音，通过半音下行和跳进释放了十三音的张力，最终稳定在和弦的根音上。"}
+{"id": "ABC-V2-0727", "model": "gemini-3.1-pro-preview", "response": "拍组容量改变。\n开头四个1/4小节每小节仅包含一个四分音符时值，后续4/4小节每小节包含四个四分音符时值，拍号改变导致每小节的拍组容量增加。\n这种重新分组将原本分散在多个小节中的连续短音（如十六分音符）整合到同一个小节内，使得这些短音在视觉和听觉上形成更紧密的联系，增强了连续短音的律动感和连贯性。"}
+{"id": "ABC-V2-0728", "model": "gemini-3.1-pro-preview", "response": "休止区之后最先出现的两个有声小节包含的实际音高为：B, G, A, B, F, G,。\n其中包含调号外音：F,。"}
+{"id": "ABC-V2-0729", "model": "gemini-3.1-pro-preview", "response": "谱段B更突出连续八分脉冲（如D2D2D2D2和G2G2G2G2），而谱段A更依赖长音和延音（如F,6、C,6和F,2-）。"}
+{"id": "ABC-V2-0730", "model": "gemini-3.1-pro-preview", "response": "第三小节前半的两个旋律音是B,和_A,，相对当时的挂留属七和弦F7sus4，B,是和弦的十一音，_A,是和弦的降三音。后一个音_A,预示了同小节后半的和声性质，即Fm7和弦的降三音。"}
+{"id": "ABC-V2-0731", "model": "gemini-3.1-pro-preview", "response": "首小节显式还原音为=A,，在当前和弦F中作为大三度音，在后继目标Bbm中作为导音，这一和弦具有属功能。"}
+{"id": "ABC-V2-0732", "model": "gemini-3.1-pro-preview", "response": "E2 D E E2 D E E2 D E E4\n反复单元：(E2 D E)\n句尾未完成一整组。"}
+{"id": "ABC-V2-0732-A1", "model": "gemini-3.1-pro-preview", "response": "前三个E—D—E单元的时值结构完全相同，均为“八分音符—十六分音符—十六分音符”（E2DE）。句尾改成长E（E4，四分音符）后，节奏密度降低，推进感减弱，形成明显的停顿和收束感。"}
+{"id": "ABC-V2-0733", "model": "gemini-3.1-pro-preview", "response": "跨小节连音连接了四分音符和八分音符。连线后的短句由F#2和D#2构成。"}
+{"id": "ABC-V2-0734", "model": "gemini-3.1-pro-preview", "response": "A,2 (A2)\nA,2 (A2)\nD,2 (D2)\nG,4 (G4)\nF,2 (F2)\nD,2 (D2)\nC,2 (C2)"}
+{"id": "ABC-V2-0735", "model": "gemini-3.1-pro-preview", "response": "谱段A包含4个整小节休止，没有起音，完全处于休止状态。谱段B没有整小节休止，起音数量为18个，时值组合包括四分音符、八分音符和十六分音符，节奏活跃。因此，从谱段A到谱段B，节奏角色从完全休止转换为活跃的旋律或伴奏。"}
+{"id": "ABC-V2-0736", "model": "gemini-3.1-pro-preview", "response": "谱段A的脉冲更均匀。谱段B使用了附点八分音符（F,3）、八分音符（F,2）以及八分休止符（z2）和二分休止符（z4）来打破谱段A中连续的十六分音符和八分音符的均匀脉冲。"}
+{"id": "ABC-V2-0737", "model": "gemini-3.1-pro-preview", "response": "谱段B更容易感到稳定正拍，原因如下：\n1. 四分音符脉冲：谱段B中，A,,4、A,4、D4、^C4、C4、A,4等音符时值均为四分音符（1/16 * 4 = 1/4），且多落在强拍或次强拍上，强化了四分音符的脉冲感。而谱段A中，四分音符较少，且多被切分或跨拍连音打破。\n2. 附点短音：谱段A中存在F,3、D,3等附点短音，这些音符打破了均匀的节奏感，增加了节奏的复杂性和不稳定性。谱段B中则没有附点短音。\n3. 跨拍连音：谱段A中存在B,6- B,4- B,4- B,3等跨拍连音，模糊了小节线和拍子的界限，削弱了正拍感。谱段B中虽然也有A,4- A,4和F,2- F,2等连音，但它们多在小节内或跨越弱拍，对正拍感的破坏较小。"}
+{"id": "ABC-V2-0738", "model": "gemini-3.1-pro-preview", "response": "谱段B通过增加长音和休止符“拉宽”了节奏。谱段A主要由连续的十六分音符（如`F,2E,2F,2`）组成，起音密集，几乎没有长音或休止。而谱段B中出现了四分音符（如`A,4`、`F,4`、`E,4`、`C,4`）和二分音符（如`C,8`），以及较长的休止符（如`z8`、`z2`），连续起音减少，使得整体节奏感变得宽广和舒缓。"}
+{"id": "ABC-V2-0739", "model": "gemini-3.1-pro-preview", "response": "第三小节末的音是E。在G#7和弦中，E是增五度（或小六度），作为扩展张力存在。进入第四小节的C#m和弦后，E成为该和弦的小三度音，是和弦的骨干音。"}
+{"id": "ABC-V2-0740", "model": "gemini-3.1-pro-preview", "response": "`^B,,`是G#和弦的三音，作为导音倾向于解决到C#m和弦的根音C#。下一小节和弦标记为\"C#m\"，验证了其导向功能；但旋律声部在下一小节开头是`E,`，并未直接解决到`C,`（C#），而是跳进到了C#m和弦的三音。"}
+{"id": "ABC-V2-0741", "model": "gemini-3.1-pro-preview", "response": "首小节的升号对后续同八度的A持续生效，形成♯9。和弦随后承担属功能。"}
+{"id": "ABC-V2-0742", "model": "gemini-3.1-pro-preview", "response": "谱段B把节奏材料压缩得更简洁。谱段A有6个独立起音，留白28个单位；谱段B有1个独立起音，留白8个单位。谱段B的写法形成了一种突兀的进入感。"}
+{"id": "ABC-V2-0743", "model": "gemini-3.1-pro-preview", "response": "第4小节末尾的升E（^E,2-）通过连音线跨越小节线，延续到第5小节（^E,6），总时值为四分音符。从A3开始的音高序列为：A,2 B,2 C4 A,4 ^E,2- | ^E,6 A,8 E2-。随后的E连音（E2- | E6）是高八度的E，与升E（^E,）不同。"}
+{"id": "ABC-V2-0744", "model": "gemini-3.1-pro-preview", "response": "替换：谱段A的D被替换为谱段B的E。\n关系：大二度。"}
+{"id": "ABC-V2-0745", "model": "gemini-3.1-pro-preview", "response": "```abc\nX:1\nL:1/16\nM:4/4\nK:D\n\"G\" D2B,2 z2 D2- \"A\" D2B,2D2E2 | \"D\" F4 \"Dmaj7/C#\" z2 B,2- \"Bm\" B,2D2E2F2 | \"Em\" G4 F4 \"A\" D2 E4 D2- | \"D\" D2 z8 F2E2D2 |\n```"}
+{"id": "ABC-V2-0746", "model": "gemini-3.1-pro-preview", "response": "谱段A的音符密度为0.3125，音域为D4到E4。谱段B的音符密度为0.5625，音域为F,4到G4。谱段B的音符密度更高，音域更广。"}
+{"id": "ABC-V2-0747", "model": "gemini-3.1-pro-preview", "response": "谱段A通过多次起音（如C,,4 G,,4 E,8等）形成节奏重心，这些起音在小节内产生节奏的律动和变化。谱段B则通过单一长音（A,,16）形成节奏重心，由于没有其他音符的干扰，长音在整个小节内保持稳定，因此显得更静止。"}
+{"id": "ABC-V2-0748", "model": "gemini-3.1-pro-preview", "response": "三个片段：G,2F,2E,2、A,2B,2、E2-。\n音高路径：G, F, E, A, B, E。\n休止前后不改变音高运动的总体分段。\n极值：E,（最低点），E（最高点）。\n轮廓分类：下-上。"}
+{"id": "ABC-V2-0749", "model": "gemini-3.1-pro-preview", "response": "在D♯小调中，A和C都带有升号（A♯和C♯）。因此，A,到C,的音程是A♯,到C♯,，这是一个小三度，而不是普通的大三度。实际下行音程是小三度。"}
+{"id": "ABC-V2-0750", "model": "gemini-3.1-pro-preview", "response": "第四小节和弦为F#m7b5（F#-A-C-E）。\n旋律音A是和弦三音，C是和弦五音，均为结构音。\n低B不在和弦内，是非和弦音。"}
+{"id": "ABC-V2-0751", "model": "gemini-3.1-pro-preview", "response": "谱段A的低音线（如D,2 F,4 D,2F,2A,2-）多在强拍或次强拍发声，时值较长且连贯，形成稳定的伴奏型。而谱段B的低音线（如B,, z3 D, F,6 F,3F,2-）大量使用休止符（z3, z），且音符多出现在弱拍或弱位（如D, F,6），并伴有附点时值（F,3F,2-），导致节奏断续，缺乏稳定的律动感，更像断续的语句。"}
+{"id": "ABC-V2-0752", "model": "gemini-3.1-pro-preview", "response": "两个Fm7小节的前半完全相同，均为四个F,2。后半在起音数量上，第一个小节有四个F,2，第二个小节有两个F,和两个B,；在发声连续性上，第一个小节是连续的，第二个小节有休止符（z）；在音高上，第一个小节保持F,，第二个小节从F,变为B,。"}
+{"id": "ABC-V2-0753", "model": "gemini-3.1-pro-preview", "response": "从开头的不完整小节开始，四个连续区域的首次发声位置与独立起音数分别为：\n1. 首次发声位置：无，独立起音数：0\n2. 首次发声位置：无，独立起音数：0\n3. 首次发声位置：第9个十六分音符，独立起音数：2\n4. 首次发声位置：第1个十六分音符，独立起音数：6\n\n这个入场过程可概括为：从完全静默（前两个区域）开始，在第三个区域的后半部分出现少量起音（2个），最后在第四个区域从一开始就出现密集的起音（6个），呈现出由静默逐渐过渡到活跃的入场过程。"}
+{"id": "ABC-V2-0754", "model": "gemini-3.1-pro-preview", "response": "谱段A完全由休止符构成，发声密度为零，呈现出极端的静默状态。谱段B则包含音符和休止符的交替，发声密度显著增加，休止符被用来分隔乐句或强调特定音符。这种差异支持将谱段A概括为“静默/休止”，而谱段B则具有明确的音乐内容和结构，可能承担“陈述/发展”的功能。"}
+{"id": "ABC-V2-0755", "model": "gemini-3.1-pro-preview", "response": "最低音是 E,,，最高音是 B,。\n轮廓不能视作单向进行，因为音高序列（B,, D, B, D, A, B, F, G, B,, G, F, B,, D, C, E,, G,, B,, D, B,,）中既有上升（如 B,, 到 D,）也有下降（如 D, 到 B,），方向交替变化。"}
+{"id": "ABC-V2-0756", "model": "gemini-3.1-pro-preview", "response": "末小节交替写升E与还原E，是因为在F#7和弦中，升E（^E）作为导音（F#的七音），而还原E（=E）作为和弦的根音（F#）。这种交替使用是为了在和声上强调F#7和弦的特征，同时在旋律上产生一种特殊的色彩和张力。"}
+{"id": "ABC-V2-0757", "model": "gemini-3.1-pro-preview", "response": "从谱段A到谱段B，节奏密度显著增加，从完全的休止变为包含四分音符、八分音符和十六分音符的旋律线条。乐句连续性也随之增强，谱段B中出现了跨小节的连音线（如F2F2- | F2），使得乐句更加连贯。这种变化打破了谱段A的静止状态，推动了音乐的发展，为后续的旋律展开奠定了基础。"}
+{"id": "ABC-V2-0758", "model": "gemini-3.1-pro-preview", "response": "谱段A的低音（如G,,2B,,2G,,2 B,,4 F,2G,,2E,2）以密集的八分音符（2个1/16）起音间距为主，形成持续的脉冲推动。\n谱段B的低音（如A,2 A,4 A,4 A,2 A,4）起音间距拉长至四分音符（4个1/16）或更长，并引入长音（如D8）和大量休止（如z6, z8），打破了A段的密集脉冲。\n概括而言，A段通过密集的短音符形成持续的节奏推动，而B段通过拉长起音间距、增加长音和休止，使节奏变得松弛，推动力减弱。"}
+{"id": "ABC-V2-0759", "model": "gemini-3.1-pro-preview", "response": "谱段B更常把主要音放在正拍，谱段A更依赖休止后的迟后进入。\n谱段A中，音符多在休止符后出现，如“z4 z C,3 E,4 z D, z E,”，这种迟后进入打破了节拍的稳定性，产生了一种切分或不稳定的律动感。\n谱段B中，音符多在正拍出现，如“C2 D4 C2 D4 C4”，这种正拍起音增强了节拍的稳定性，产生了一种平稳、规律的律动感。"}
+{"id": "ABC-V2-0760", "model": "gemini-3.1-pro-preview", "response": "谱段A与B的第一小节保持一致。第二小节的重复G与A被重新安排为：谱段A中为G2G2 G2F2F2E2，谱段B中为G2G2 A2G2 F2E2。"}
+{"id": "ABC-V2-0761", "model": "gemini-3.1-pro-preview", "response": "连音为A,,。在K:B中，A,,的实际音高是A♯,,。在C♯m7中，A♯,,是和弦的大六度音；在F♯7中，A♯,,是和弦的大三度音。"}
+{"id": "ABC-V2-0762", "model": "gemini-3.1-pro-preview", "response": "四分休止符、四分音符、二分休止符。\n\n解释：\n谱例中 `z4` 表示四分休止符（4个1/16音符），`D,4` 表示四分音符（4个1/16音符），`z8` 表示二分休止符（8个1/16音符）。"}
+{"id": "ABC-V2-0763", "model": "gemini-3.1-pro-preview", "response": "1/8, 3/8, 1/2-"}
+{"id": "ABC-V2-0764", "model": "gemini-3.1-pro-preview", "response": "第二小节末的显式还原音是 =B,，在当时的 C 大三和弦上是大七度扩展音。它跨小节实际走向 C，换和弦后该落音成为 Fm 和弦的第五音。"}
+{"id": "ABC-V2-0765", "model": "gemini-3.1-pro-preview", "response": "第四小节和弦为E大三和弦（E-G♯-B）。\n五个旋律音为E,,,、G,,、D,、A,,、B,,。\n属于和弦骨干的音：E,,,（根音）、G,,（三音）、B,,（五音）。\n结合G♯小调调号（F♯, C♯, G♯, D♯, A♯），D,实际为D♯，A,,实际为A♯。\nD♯是E和弦的大七度音，形成大七和弦色彩（Emaj7）；A♯是E和弦的增四度音，形成增十一和弦色彩（Emaj7#11）。"}
+{"id": "ABC-V2-0766", "model": "gemini-3.1-pro-preview", "response": "主音由E变为G。\n和弦级数：I - IV - I - ii - V - ii - V"}
+{"id": "ABC-V2-0767", "model": "gemini-3.1-pro-preview", "response": "K: E\n解释：\n和弦进行为 B7 - Emaj7，即 V7 - Imaj7。\n主和弦为 Emaj7，因此主音为 E。\n和弦性质为大七和弦，因此调式为大调。\n综合主音和调式，调性为 E 大调。\nE 大调的调号包含 4 个升号（F#, C#, G#, D#），对应的标准 K 字段为 K: E。"}
+{"id": "ABC-V2-0768", "model": "gemini-3.1-pro-preview", "response": "第三小节末音G为A/C#和弦添加了小七度音，使其变为A7/C#（属七和弦的第一转位），增加了和弦的紧张度。在第四小节，这个G音下行级进解决到了Bm和弦的三音F#。整体上，这构成了一个从属和弦（A7/C#）到下属方向和弦（Bm，作为D大调的vi级）的阻碍解决走向。"}
+{"id": "ABC-V2-0769", "model": "gemini-3.1-pro-preview", "response": "附点八分音符、十六分音符、十六分音符、附点八分音符。\n\n解释：\nL: 1/16 规定基本时值为十六分音符。\nG,6：6个十六分音符，即附点八分音符。\nF,2：2个十六分音符，即八分音符。\nF,2：2个十六分音符，即八分音符。\nD,6：6个十六分音符，即附点八分音符。\n题目描述“中间夹两枚短音”，但谱例中中间是两个八分音符，前后是附点八分音符。根据谱例实际时值，顺序为：附点八分音符、八分音符、八分音符、附点八分音符。"}
+{"id": "ABC-V2-0770", "model": "gemini-3.1-pro-preview", "response": "第三小节三个长音的实际音高为降B2、A2、G2，和弦身份分别为Cm7的七音、大六音、五音。中间的还原A（A2）体现了C多利亚调式（或C旋律小调上行）的色彩。"}
+{"id": "ABC-V2-0771", "model": "gemini-3.1-pro-preview", "response": "斜杠和弦将低音支点从根音转移到和弦的其他音。\n在谱例中：\n- \"Em7/B\" 将 Em7 和弦的低音从根音 E 转移到五音 B，形成第二转位。\n- \"Am7/E\" 将 Am7 和弦的低音从根音 A 转移到五音 E，形成第二转位。"}
+{"id": "ABC-V2-0771-A1", "model": "gemini-3.1-pro-preview", "response": "Em7/B和Am7/E虽然五音在低音，但它们是七和弦的第二转位（四三和弦），而终止四六和弦特指三和弦的第二转位。此外，谱例中Em7/B后接Em7，Am7/E后接Am7，并未进行到属和弦，不符合终止四六和弦解决到属和弦的典型进行。"}
+{"id": "ABC-V2-0772", "model": "gemini-3.1-pro-preview", "response": "行内改为2/4的短小节由三个八分音符组成。它的起音组织与前后两个4/4小节不同，它在强拍上休止，而前后两个4/4小节在强拍上发声。"}
+{"id": "ABC-V2-0773", "model": "gemini-3.1-pro-preview", "response": "和声功能顺序为：主（E）- 下属（A）- 属（B）- 主（E）- 属（B/D♯）- 下属（C♯m7）- 下属（F♯m7）- 属（Bsus4）。\nB/D♯作为经过和弦，其低音D♯平滑连接了E和弦的根音E与C♯m7和弦的根音C♯，形成下行级进低音线。\n末尾Bsus4保持开放是因为它是一个挂留和弦，未解决到主和弦，产生悬念和期待感。"}
+{"id": "ABC-V2-0774", "model": "gemini-3.1-pro-preview", "response": "第二小节的连音 D, 跨过了和弦更替。\n在 \"A6\" 和弦中，D, 是和弦的十一音（或四音）；在 \"Dmaj7/A\" 和弦中，D, 是和弦的根音。\n\"Dmaj7/A\" 是 Dmaj7 和弦的第二转位。"}
+{"id": "ABC-V2-0775", "model": "gemini-3.1-pro-preview", "response": "`^^F`实际音高为G，是D♯7和弦的三音。在下一小节中，该音（G）作为导音，半音下行解决到G♯m和弦的根音G♯，体现了属和弦到主和弦的强烈倾向性。"}
+{"id": "ABC-V2-0776", "model": "gemini-3.1-pro-preview", "response": "还原E将C和弦由小三和弦变为大三和弦（C7），作为属和弦（V/vi）强烈倾向于下一小节的Fm（vi），形成副属和弦到目标和弦的解决。"}
+{"id": "ABC-V2-0777", "model": "gemini-3.1-pro-preview", "response": "首小节的事件依次为：二分休止符、四分音符、四分音符。\n二分休止符占2拍，两个四分音符各占1拍，2 + 1 + 1 = 4拍，填满4/4拍。"}
+{"id": "ABC-V2-0778", "model": "gemini-3.1-pro-preview", "response": "在B7和弦中，G自然音是和弦的降13音（或增5音），在Em和弦中，它是和弦的三音。这一和声解决在E小调中是V7到i的解决。"}
+{"id": "ABC-V2-0779", "model": "gemini-3.1-pro-preview", "response": "属功能在第2小节落实到主和弦。第1小节的Ab7和弦在第2小节解决到Db和弦，旋律音A,是Db和弦的根音，形成了局部闭合。"}
+{"id": "ABC-V2-0780", "model": "gemini-3.1-pro-preview", "response": "音高未改变。\n在第三小节的F7和弦中，D是和弦的十三音（或大六度音，作为附加音或旋律音）；在第四小节的Bbm7和弦中，D是和弦的三音。\n第三小节的F7和弦是D♭大调的III级属七和弦（V7/VI），功能为副属和弦，倾向于解决到VI级和弦（Bbm）。"}
+{"id": "ABC-V2-0781", "model": "gemini-3.1-pro-preview", "response": "A,4 A,4 z8"}
+{"id": "ABC-V2-0782", "model": "gemini-3.1-pro-preview", "response": "整小节休止之后的下一小节是：\n\"Dm\" z8 A, z G,2G,F,3\n\n该小节包含六个发声/休止事件，其节奏依次为：\n1. z8：二分休止符\n2. A,：十六分音符\n3. z：十六分休止符\n4. G,2：八分音符\n5. G,：十六分音符\n6. F,3：附点八分音符"}
+{"id": "ABC-V2-0783", "model": "gemini-3.1-pro-preview", "response": "第三小节首音^G,在G7和弦上是根音G的升半音，可解释为和弦的增根音（或降九音的等音，但此处记作^G,）。后续音序为D和E,，并未形成实际的半音邻音解决，而是跳进到五音D，再跳进到六音E,。"}
+{"id": "ABC-V2-0784", "model": "gemini-3.1-pro-preview", "response": "第一小节的节奏为：z4 A,2F2 E2D2A,2C2。\n该音群包含6枚八分音符。"}
+{"id": "ABC-V2-0785", "model": "gemini-3.1-pro-preview", "response": "目标片段在四小节搜索范围中从第2小节开始。\n\n解释：\n目标片段的第一小节是“E2F2A2F2 E2F2A2F2”，第二小节是“c6 B2 F4 F2d2-”。在谱段B中，第2小节是“E2F2A2F2 E2F2A2F2”，第3小节是“c6 B2 F4 F2d2-”，与目标片段完全匹配。因此，目标片段从谱段B的第2小节开始。"}
+{"id": "ABC-V2-0786", "model": "gemini-3.1-pro-preview", "response": "末四小节低音从E,下行至A,,（E,-D,-C,-B,,-A,,），形成A小调的属到主（V-i）的低音线条，强化了A小调的调性中心。同时，和声从G大三和弦（VII）回归到Am小三和弦（i），这种VII-i的进行在小调中常见，具有导向主和弦的作用。\n\n这一结尾不是传统的V-i正格终止，因为和声进行是VII-i（G-Am），而不是V-i（E-Am）。虽然低音线条暗示了V-i的进行，但和声配置并未采用传统的属和弦，而是使用了自然小调的VII级和弦，这赋予了结尾一种更柔和、更具民谣或早期音乐风格的色彩，而非古典音乐中强烈的正格终止感。"}
+{"id": "ABC-V2-0787", "model": "gemini-3.1-pro-preview", "response": "z3 E"}
+{"id": "ABC-V2-0788", "model": "gemini-3.1-pro-preview", "response": "第二小节内两个七和弦标记下的最低实音分别是 G,,, 和 E,,。\nG,,, 是 G#m7 和弦的根音，支持原位听感。\nE,, 是 C#m7 和弦的三音，支持第一转位听感。"}
+{"id": "ABC-V2-0789", "model": "gemini-3.1-pro-preview", "response": "跨小节连音为C。在第二小节\"E7\"和弦中，C是和弦的降十三音（或增五音），具有强烈的倾向性；在第三小节\"Am\"和弦中，C是和弦的三音，属于稳定音。因此，虽然音高不变，但和声背景的改变使其从不协和音变为协和音，产生了解决感。"}
+{"id": "ABC-V2-0790", "model": "gemini-3.1-pro-preview", "response": "发声4，休止4，发声6，发声2，连音，发声4，休止12，休止16，休止16。"}
+{"id": "ABC-V2-0791", "model": "gemini-3.1-pro-preview", "response": "换号标记为 `[K:Bb]`，目标调为 Bb 大调。\n其后八小节中的四处属功能实际落点依次为：\n1.  **F** (第 1 小节)：Bb 大调的属和弦 (V)。\n2.  **D7** (第 3 小节)：Gm 的属七和弦 (V7/vi)，这是第一个调内副属化。\n3.  **Bb7/F** 和 **Bb7** (第 5 小节)：Eb 的属七和弦 (V7/IV)，这是第二个调内副属化。\n4.  **F7** (第 7 小节)：Bb 大调的属七和弦 (V7)。\n\n这四处属功能落点共同确认了 Bb 大调。F 和 F7 直接指向主和弦 Bb，而 D7 和 Bb7 分别作为副属和弦，强化了 Bb 大调内的关系小调 (Gm) 和下属调 (Eb)，进一步巩固了 Bb 大调的调性中心。"}
+{"id": "ABC-V2-0792", "model": "gemini-3.1-pro-preview", "response": "改为`B,4`后，F♯和弦小节末的旋律变为B,4 B,4，失去了原有的B,4 C♯4上行导音倾向。这削弱了F♯到Bm的属到主解决感，使旋律连接变得平淡，和声色彩的紧张度与解决的期待感降低。"}
+{"id": "ABC-V2-0793", "model": "gemini-3.1-pro-preview", "response": "谱段B比谱段A高纯八度。\n\n解释：\n谱段A的音符为B, F, F, F, B,, F, G, G, G, F, G,。\n谱段B的音符为B F F F B, F G G G F G。\n对比可知，谱段B的每个音符都比谱段A高一个八度（例如B,变为B，F,变为F），因此移调关系为高纯八度。"}
+{"id": "ABC-V2-0794", "model": "gemini-3.1-pro-preview", "response": "在三个完整小节中，显式升记号音是 ^C，出现了两次。\n第一次在第2小节，紧接的音是 D。当时和弦是 Gm，^C 是和弦外音，D 是和弦内音。^C 是 D 的下助音。\n第二次在第4小节，紧接的音是 D。当时和弦是 Gm，^C 是和弦外音，D 是和弦内音。^C 是 D 的下助音。"}
+{"id": "ABC-V2-0795", "model": "gemini-3.1-pro-preview", "response": "谱段A与谱段B中的D—E摆动及后续低B起音完全相同。但由于谱段A句尾B,带有延音线（B,2-），而谱段B句尾B,没有延音线（B,2），因此若把句尾连音纳入比较，不能称为严格原样重复。"}
+{"id": "ABC-V2-0796", "model": "gemini-3.1-pro-preview", "response": "K:E调号使G变为G#，C变为C#。B,,表示B音降低两个八度。六音骨架为A, G,# E, C,# B,, G,#。起音A,，倒数第二音B,,，收音G,#。将它们移至同一音区比较：A, > G,# > B,。起音最高，收音次之，倒数第二音最低。音高变化为：A,降至G,#，降至E,，降至C,#，降至B,,，升至G,#。整体轮廓为下行-上行。"}
+{"id": "ABC-V2-0797", "model": "gemini-3.1-pro-preview", "response": "是。路径为A, -> B, -> C -> D -> E -> G -> A -> c，音高依次升高，符合严格上行。"}
+{"id": "ABC-V2-0798", "model": "gemini-3.1-pro-preview", "response": "E2，第1拍，持续4拍。\n\n解释：\nK: A 调号包含 F#, C#, G#。\n音符 E,16：\n- 音高：E, 对应科学音高 E2（不受调号影响）。\n- 起音拍位：小节开头，即第1拍。\n- 持续时值：L: 1/16，16个1/16音符等于1个全音符。在 M: 4/4 中，全音符持续4拍。"}
+{"id": "ABC-V2-0799", "model": "gemini-3.1-pro-preview", "response": "换号前和弦为C，换号后为F，C是F的属和弦，因此调性移动方向为下属方向，目标调为F大调。\n标记后的和弦在新调中功能如下：\nF：主和弦（I）\nAm：中音和弦（iii）\nBb：下属和弦（IV）"}
+{"id": "ABC-V2-0799-A1", "model": "gemini-3.1-pro-preview", "response": "换号前最后一个和弦为C大三和弦，在E大调中为降VI级和弦。其旋律音B半音上行至^B（即C），强化了C和弦的色彩。换号后首个和弦为F大三和弦，C和弦在F大调中作为属和弦（V级），直接解决到主和弦F。后续和弦Am、Bb均为F大调的自然音和弦，巩固了新调。因此，这里采用了共同和弦转调，C和弦作为中介和弦，在原调中为降VI级，在新调中为V级，实现了从E大调到F大调的平滑过渡。"}
+{"id": "ABC-V2-0800", "model": "gemini-3.1-pro-preview", "response": "还原音为=C，属于Am6和弦。\n记号原因：D大调调号含C#，此处需还原为C自然音以构成Am6和弦（A-C-E-F#）。\n连音总时值：跨小节连接两个四分音符（C4-C4），总时值为二分音符（8个1/16音符）。"}
+{"id": "ABC-V2-0801", "model": "gemini-3.1-pro-preview", "response": "前一小节末尾被还原并连入下一小节的音是 =D,。\n在连线左侧（\"Emaj7\" 和弦中），=D, 是和弦外音（Emaj7 的和弦音为 E, G#, B, D#，=D, 不在其中）。\n在连线右侧（\"Fdim7\" 和弦中），=D, 是结构音（Fdim7 的和弦音为 F, Ab, Cb, Ebb，在 E 大调中等音记作 F, G#, B, D，=D, 即为和弦的减七度音）。\n必须写还原号是因为调号（E 大调）中包含 D#，而该音是 D 的还原音。"}
+{"id": "ABC-V2-0802", "model": "gemini-3.1-pro-preview", "response": "第三小节的连音B,是Bbmaj7的根音，第四小节的连音^F,是D7的三音。两处连音均未发生和声重释，因为它们在各自的和弦中都保持了原有的和声身份。"}
+{"id": "ABC-V2-0803", "model": "gemini-3.1-pro-preview", "response": "谱段A从F#m调转为A调，谱段B从A调转回F#m调。\n谱段A换号处及之后出现A大调主和弦（\"A\"）和下属和弦（\"D\"），确立了A大调。\n谱段B换号处及之后出现F#小调主和弦（\"F#m\"）、属和弦（\"E\"）和下中音和弦（\"D\"），确立了F#小调。\nF#小调和A大调调号相同，互为关系大小调，因此构成关系大小调之间的往返。"}
+{"id": "ABC-V2-0804", "model": "gemini-3.1-pro-preview", "response": "第一小节的^E,是C#7和弦的三音，第二小节的G,是F#m7和弦的九音。旋律在第二小节第一拍解决到G,，而和声在第二小节第一拍解决到F#m7，旋律与和声解决同步。"}
+{"id": "ABC-V2-0805", "model": "gemini-3.1-pro-preview", "response": "谱段中的两个斜杠和弦分别是：\n1. \"Fmaj7/C\"：F大七和弦的第二转位（低音为C）。\n2. \"F/C\"：F大三和弦的第二转位（低音为C）。\n\n末端属到主（\"C\" 到 \"F/C\"）不是以根位完成的，因为主和弦 \"F/C\" 是第二转位。"}
+{"id": "ABC-V2-0806", "model": "gemini-3.1-pro-preview", "response": "第5个发声音符；实际音高F#2；起音拍位2.5；时值1拍。"}
+{"id": "ABC-V2-0807", "model": "gemini-3.1-pro-preview", "response": "七音路径为D4 -> F,2 -> D,2 -> F,2 -> B,2 -> D2 -> F2。\n最高音为F2，最低音为D,2。\n收音F2高于起音D4，整体轮廓为上升。"}
+{"id": "ABC-V2-0808", "model": "gemini-3.1-pro-preview", "response": "在F和弦下，G♮（大九度）解决到F（根音）；在Gbmaj7/F和弦下，G♮（降九度）解决到F（大七度）。实际音名为G♮和F。"}
+{"id": "ABC-V2-0809", "model": "gemini-3.1-pro-preview", "response": "首小节第7个发声音符是 A,,，其科学音高为 A2，在第3拍的后半拍（即第3.5拍）开始，持续 1/8 拍。"}
+{"id": "ABC-V2-0810", "model": "gemini-3.1-pro-preview", "response": "B覆盖12个1/16音符（3拍），G#m7覆盖24个1/16音符（6拍）。D的跨小节连音不改变和弦长度，G#m7仍覆盖两个完整小节。"}
+{"id": "ABC-V2-0811", "model": "gemini-3.1-pro-preview", "response": "发声音token：D2, A,2, A,2, A,, F3, D2, D, C-\n附点起音：第5个起音 (F3)"}
+{"id": "ABC-V2-0812", "model": "gemini-3.1-pro-preview", "response": "F#7超出D大调的音是E#（即F），Gm超出D大调的音是Bb。F#7作为副属和弦，倾向于解决到Bm；Gm作为下属和弦的变和弦，增加了和声色彩，倾向于解决到A。"}
+{"id": "ABC-V2-0813", "model": "gemini-3.1-pro-preview", "response": "G是七音，升F是经过音，还原F是十三音。升F不属于Dm7/A和弦，因此不能把三音都当作和弦成员。"}
+{"id": "ABC-V2-0814", "model": "gemini-3.1-pro-preview", "response": "第一处连音跨越Bb和D7，在Bb中是五音，在D7中是三音；第二处连音跨越D7和Eb，在D7中是根音，在Eb中是五音。中间的D7和弦没有实现预期解决，因为其后接的是Eb和弦，而不是预期的G和弦。"}
+{"id": "ABC-V2-0815", "model": "gemini-3.1-pro-preview", "response": "第二小节的六个旋律音（=B, _B, A, =E, _E, D,）与D♭m6和弦（D♭, F♭, A♭, B♭）的关系如下：\n\n*   **结构音：** _B, (B♭) 是和弦的六音，A, (A♭) 是和弦的五音。\n*   **色彩音（经过音/半音阶）：** =B, (B♮) 是向B♭的半音经过音；=E, (E♮) 和 _E, (E♭) 是向D, (D♭，和弦根音) 的半音经过音。\n\n**组织方式：** 旋律呈现出明显的半音阶下行趋势。=B, 经过 _B, 到达 A,，形成一组半音下行；接着 =E, 经过 _E, 到达 D,，形成另一组半音下行。这种半音阶进行在D♭m6和弦的背景下，增加了和声的色彩和紧张度，最终解决到和弦的结构音上。"}
+{"id": "ABC-V2-0816", "model": "gemini-3.1-pro-preview", "response": "第二小节的拍号是 1/4，第三小节的拍号是 4/4。进入第三小节时没有重新起音，因为第二小节的 F 音通过连音线（-）连接到了第三小节的 F 音。"}
+{"id": "ABC-V2-0817", "model": "gemini-3.1-pro-preview", "response": "谱段A的起音数为4，音域为B,,到A,。谱段B的起音数为3，音域为F到G。谱段A的起音数多于谱段B，谱段A的音域大于谱段B。"}
+{"id": "ABC-V2-0818", "model": "gemini-3.1-pro-preview", "response": "F、A♭与C自然在D♭大七和弦中分别是三音、五音与大七音，在E♭小六和弦中分别是九音、十一音与大十三音。C自然在D♭大七和弦中是大七音，在E♭小六和弦中是大十三音，具有辨识作用。"}
+{"id": "ABC-V2-0819", "model": "gemini-3.1-pro-preview", "response": "跨线三音音型为E,-D,-E,,，中间音D,相对Bm和弦（B-D-F#）是和弦音，不承担装饰功能。"}
+{"id": "ABC-V2-0820", "model": "gemini-3.1-pro-preview", "response": "实际科学音高：C#4\n起音拍位：第2拍\n长度：1/8音符（2个1/16音符）\n\n解释：\n在F#m小节中，开头休止了4个1/16音符（即1拍），因此第一个发声音符C2出现在第2拍。\n调号为F#m，包含F#、C#、G#，因此C的实际音高为C#。\n音符C2的长度为2个1/16音符，即1/8音符。\n在ABC记谱法中，大写字母C表示C4八度，因此实际科学音高为C#4。"}
+{"id": "ABC-V2-0821", "model": "gemini-3.1-pro-preview", "response": "升E是C#7和弦的三音，作为导音倾向于解决到F#m和弦的根音F#。C#7在此处作为F#m的属和弦（V/vi），升E强化了向F#m解决的倾向性，构成了典型的V-i进行。"}
+{"id": "ABC-V2-0822", "model": "gemini-3.1-pro-preview", "response": "不是重复音。第一枚B带逗号，表示低八度，第二枚B不带逗号，表示中音区。实际音程为纯八度。"}
+{"id": "ABC-V2-0822-A1", "model": "gemini-3.1-pro-preview", "response": "前两个音是Gb大三和弦的三音，后两个音是Ab大三和弦的根音和五音。两组旋律分别突出了和弦的三音和根音、五音。"}
+{"id": "ABC-V2-0823", "model": "gemini-3.1-pro-preview", "response": "ABC token: F,2\n实际科学音高: F2\n起音拍位: 1.5\n长度: 0.5拍"}
+{"id": "ABC-V2-0824", "model": "gemini-3.1-pro-preview", "response": "第三小节由2/4拍控制，第四小节由4/4拍控制。跨小节连音不会改变拍号的作用范围，拍号仅对当前小节有效。"}
+{"id": "ABC-V2-0825", "model": "gemini-3.1-pro-preview", "response": "谱段B完成了向上八度移调。在ABC记谱法中，音符名称后的逗号表示降低一个八度。谱段B中的音符去掉了谱段A中对应音符的一个逗号，因此整体音高升高了一个八度。"}
+{"id": "ABC-V2-0826", "model": "gemini-3.1-pro-preview", "response": "F,4为F2，^B,,2为B♯0，下行减五度。B♯作为G♯7的三音，暗示其作为V/vi的导音功能，倾向于解决到C♯。谱例中B♯后接E,（E1），未解决到C♯，因此材料未证明该功能完成解决。"}
+{"id": "ABC-V2-0827", "model": "gemini-3.1-pro-preview", "response": "Amaj7和弦的分解音为A,, E, C G,，实际音名为A2 E3 C5 G3，最低音为A2，是根音，因此是根位排列。Dmaj7和弦的分解音为D, F, C A,，实际音名为D3 F3 C5 A3，最低音为D3，是根音，因此也是根位排列。"}
+{"id": "ABC-V2-0828", "model": "gemini-3.1-pro-preview", "response": "E和弦中的升G是C大调的调外音，它将原本的Em和弦变成了E大三和弦。这个E和弦作为Am和弦的属和弦（V/vi），通过升G（导音）强烈倾向于解决到下一小节的Am和弦（vi），形成副属和弦到目标和弦的解决。"}
+{"id": "ABC-V2-0829", "model": "gemini-3.1-pro-preview", "response": "目标的长休止音型从第2小节进入。\n\n解释：\n谱段A中，第1小节包含长休止音型（\"G\" B2 z8 B2G2A2-）。\n在谱段B中，第1小节是新的E音材料（\"C\" E4 E2 z2 E2F2c2B2-），第2小节（\"G\" B2 z8 B2G2A2-）与谱段A的第1小节相同，即目标的长休止音型。"}
+{"id": "ABC-V2-0830", "model": "gemini-3.1-pro-preview", "response": "因为ABC记谱法中，拍号（M字段）具有全局或持续有效性。一旦在谱中设定了新的拍号（如 `[M:4/4]`），该拍号将一直生效，直到遇到下一个拍号改变。因此，即使下一小节没有显式重复 `M:4/4`，它依然按照四拍（4/4）来理解，而不是回到之前的 `M:2/4`。"}
+{"id": "ABC-V2-0831", "model": "gemini-3.1-pro-preview", "response": "是的，它们构成最低与最高音。音域为B,,到B,。"}
+{"id": "ABC-V2-0832", "model": "gemini-3.1-pro-preview", "response": "C和弦在D大调中是降VII级和弦（bVII），通常作为下属功能组的变和弦或调式交替和弦使用。它与Bm/D（VI级第一转位）和Asus4（V级挂四和弦）的连接，由于Asus4没有解决到主和弦（D），因此不构成已完成终止，而是半终止或阻碍终止的变体。"}
+{"id": "ABC-V2-0833", "model": "gemini-3.1-pro-preview", "response": "第二小节需要 8 个默认长度单位，第三小节需要 16 个默认长度单位。\n\n解释：\nL: 1/16 表示默认长度单位为十六分音符。\n第二小节的拍号为 2/4，即每小节有 2 个四分音符，相当于 8 个十六分音符。\n第三小节的拍号为 4/4，即每小节有 4 个四分音符，相当于 16 个十六分音符。"}
+{"id": "ABC-V2-0834", "model": "gemini-3.1-pro-preview", "response": "三处斜杠标记分别把Db、Gb、Db指定为低音。它们分别属于第一转位、第一转位、第一转位。单线音符没有都实际呈现该低音。"}
+{"id": "ABC-V2-0835", "model": "gemini-3.1-pro-preview", "response": "第一小节：C♯、D、E、C♯。A和弦补出了三音、十一音、五音、三音。\n第二小节：G♯、E、C♯。C♯m和弦补出了五音、三音、根音。\n第三小节：D、C♯、D、C♯、D、C♯。D和弦补出了根音、大七音、根音、大七音、根音、大七音。\n第四小节：D、E、E、D。E和弦补出了小七音、根音、根音、小七音。"}
+{"id": "ABC-V2-0836", "model": "gemini-3.1-pro-preview", "response": "第二小节的连音在和弦标记两侧身份变化：\n在 \"Eb/G\" 和弦中，B, 是和弦的根音（Eb）的五音，C 是和弦的六音（或十三音，取决于和弦的具体配置，但在此处更倾向于作为经过音或倚音）。\n在 \"Cm7/G\" 和弦中，C 变为和弦的根音，A, 变为和弦的七音。\n\n固定低音下的和声感改变：\n低音保持在 G（由 \"Eb/G\" 和 \"Cm7/G\" 的斜杠和弦标记指示），但上方和声从 Eb 大调和弦（Eb-G-Bb）转变为 Cm7 和弦（C-Eb-G-Bb）。这种变化在保持低音稳定的同时，改变了和弦的色彩和功能，从大调的明亮感转向小调七和弦的略带忧郁和紧张感，增加了和声的深度和流动性。"}
+{"id": "ABC-V2-0836-A1", "model": "gemini-3.1-pro-preview", "response": "第一小节末进入的斜线和弦 \"Eb/G\" 从第4拍开始，跨线后共持续2拍（第一小节1拍，第二小节1拍）；第二小节后半换入的下一个斜线和弦 \"Cm7/G\" 持续1拍。"}
+{"id": "ABC-V2-0837", "model": "gemini-3.1-pro-preview", "response": "静默后正拍进入。谱段A在C音后休止了整个小节的剩余部分，谱段B在下一小节的正拍直接以B♭音开始，没有跨小节的休止。"}
+{"id": "ABC-V2-0838", "model": "gemini-3.1-pro-preview", "response": "实际音高：C#2\n起音位置：第1拍\n持续拍数：2拍\n随后留白：2拍\n\n解释：\n调号为 C#m，C 音需升半音。\n音符 C, 带有后缀 8，在 L:1/16 下持续 8/16 = 1/2 个全音符，即 2 拍。\n起音在小节开头（第1拍）。\n随后有 z8，持续 2 拍。"}
+{"id": "ABC-V2-0839", "model": "gemini-3.1-pro-preview", "response": "| 小节 | 休止比例 | 主要音值/起音密度 | 和弦 |\n|---|---|---|---|\n| 1 | 100% | 0 | 无 |\n| 2 | 100% | 0 | 无 |\n| 3 | 0% | 十六分音符 | Db |\n| 4 | 0% | 十六分音符 | Ab/C |\n\n**表层能量曲线概括与命名：**\n**“静默后的爆发”**\n前两小节完全休止，能量为零。第三、四小节突然出现密集的十六分音符，在82的BPM下，起音密度极高，能量瞬间爆发并保持高位。"}
+{"id": "ABC-V2-0840", "model": "gemini-3.1-pro-preview", "response": "token: `F,,2`\n实际音高: F2\n起音拍位: 2.5\n长度: 0.5拍"}
+{"id": "ABC-V2-0841", "model": "gemini-3.1-pro-preview", "response": "第三个音是B♭，第四个音是D。它们构成大三度。"}
+{"id": "ABC-V2-0842", "model": "gemini-3.1-pro-preview", "response": "跨过末个和弦标记的升记号音在两侧身份相同，均为升C。连字符和弦\"D-maj7\"表示D小大七和弦，后续音程为增一度。"}
+{"id": "ABC-V2-0843", "model": "gemini-3.1-pro-preview", "response": "C4 C2 B,2 C2 B,2 C D2 D-\n连成一个延音。"}
+{"id": "ABC-V2-0844", "model": "gemini-3.1-pro-preview", "response": "谱段A中，和弦根音在第3小节第13个十六分音符处由D变为C。改变前Dm7和弦持续了44个十六分音符，改变后C和弦持续了20个十六分音符。\n谱段B中，和弦根音在第3小节第13个十六分音符处由C变为D。改变前C6和C和弦共持续了44个十六分音符，改变后Dm和弦持续了20个十六分音符。\n这种时长分配将功能重心从谱段A的下属功能（Dm7）转移到了谱段B的主功能（C6和C），改变了开头的和声色彩和稳定性。"}
+{"id": "ABC-V2-0845", "model": "gemini-3.1-pro-preview", "response": "该小节完整填满4/4。\n实际音高：C3\n起音拍位：第3拍\n持续时间：2拍"}
+{"id": "ABC-V2-0846", "model": "gemini-3.1-pro-preview", "response": "这两个G正好相差一个八度，但它们不是音域端点。谱例中的最低音是G,,，最高音是F,，G,不是最高音。"}
+{"id": "ABC-V2-0847", "model": "gemini-3.1-pro-preview", "response": "该音符的token为`D4`，实际音高为D4，起拍为第1小节第2.5拍。\n\n此前连续的`D2`（八分音符）形成密集的短音节奏，而`D4`（四分音符）的出现打破了这种短促感，将节奏重心稳定在第2.5拍，形成了一个明显的停顿和强调，为后续的旋律下行（`C2B,2`）做铺垫。"}
+{"id": "ABC-V2-0848", "model": "gemini-3.1-pro-preview", "response": "第四小节开头不重新起音。第三小节受 1/4 拍号控制，第四小节受 3/4 拍号控制。\n\n解释：\n第三小节的音符是 `C,4-`，第四小节的第一个音符是 `C,4`。这两个音符音高相同，且第三小节末尾有连音线 `-`，因此第四小节开头的 `C,4` 不重新起音，而是延续第三小节的音。\n第三小节前有 `[M:1/4]`，因此受 1/4 拍号控制。第四小节前有 `[M:3/4]`，因此受 3/4 拍号控制。"}
+{"id": "ABC-V2-0849", "model": "gemini-3.1-pro-preview", "response": "旋律在B中并未删去七音，反而将七音（d）作为了旋律的起始音。两段四小节的根音框架没有改变，均为G-C-E-A。"}
+{"id": "ABC-V2-0850", "model": "gemini-3.1-pro-preview", "response": "最高音在第4位，最低音在第1位，方向在第4处改变。开场轮廓为上升-下降。"}
+{"id": "ABC-V2-0851", "model": "gemini-3.1-pro-preview", "response": "后四小节新增了和弦根音B和A♯，在F♯大调中分别是IV级和III级。末小节最后的旋律音G（G♯）作为A♯m和弦的七音，将其扩展为A♯m7和弦。"}
+{"id": "ABC-V2-0852", "model": "gemini-3.1-pro-preview", "response": "谱段A第一小节后半为`D2C2B,C2E2`，谱段B第一小节后半为`C2B,2B,C2E2`。谱段B将谱段A的`D2C2`改写为`C2B,2`，因此两段不能称为精确重复。"}
+{"id": "ABC-V2-0853", "model": "gemini-3.1-pro-preview", "response": "`D,` 在 `K:Db` 中实际是 D♭ 音。在 B♭m 和弦中，D♭ 是小三度音。由于和弦本身是小三和弦，旋律音也是小三度，两者一致，没有出现“大小三度并存”的蓝调第三音。"}
+{"id": "ABC-V2-0854", "model": "gemini-3.1-pro-preview", "response": "第一段和弦标记为：E7sus4 | Bm7 | E7 | Amaj7。\n第二段和弦标记为：Bm7 E7 | Bm7 | E7 | Amaj7。\n第一段第一小节只有一个和弦（E7sus4），和声节奏为全音符；第二段第一小节有两个和弦（Bm7和E7），和声节奏为二分音符。\n两段都在第四小节首次落到A调主功能（Amaj7）。\n在到达主和弦前，第一段将ii与V组织成一次准备（Bm7 - E7）；第二段将ii与V组织成两次准备（Bm7 - E7, Bm7 - E7）。"}
+{"id": "ABC-V2-0855", "model": "gemini-3.1-pro-preview", "response": "目标在搜索范围前两小节。\n局部命中位置：\n谱段A的第1小节与谱段B的第1小节匹配。\n谱段A的第2小节与谱段B的第2小节匹配。\n连续旋律验证：\n旋律1：\"Cm7\" B4 E2E2 E2B2G2B2- | \"F\" B2 A4 A2 A2G2F2G2 |\n旋律2：\"F\" B2 A4 A2 A2G2F2G2 | \"Bbmaj7\" D2D2D2D2 D2 F4 G2- |"}
+{"id": "ABC-V2-0856", "model": "gemini-3.1-pro-preview", "response": "第一段第二小节和弦为G#7，三音为B#，在E大调中作为C#m的副属和弦（V7/vi）；第二段第二小节和弦为G#m7，三音为B，在E大调中作为自然三和弦（iii7）。两者下一小节均落在C#m。"}
+{"id": "ABC-V2-0857", "model": "gemini-3.1-pro-preview", "response": "后三小节的起音密度逐渐减小。倒数第三小节有9个音头，倒数第二小节有4个音头，最后一小节有3个音头。"}
+{"id": "ABC-V2-0858", "model": "gemini-3.1-pro-preview", "response": "节奏相同。第一次延续为 `F,2 D,6 z8`，第二次延续为 `F,2E,2C,2 E,4 D,2C,2D,2-`。"}
+{"id": "ABC-V2-0859", "model": "gemini-3.1-pro-preview", "response": "是。谱段B将谱段A的旋律整体向上移调了纯五度。例如，谱段A的第一个音E,对应谱段B的第一个音B,。"}
+{"id": "ABC-V2-0860", "model": "gemini-3.1-pro-preview", "response": "第9个。\n\n谱段B的开头是 `z8`，表示休止了8个L单位（1/16音符）。因此，新句从第9个L单位（即 `E,2`）开始。"}
+{"id": "ABC-V2-0861", "model": "gemini-3.1-pro-preview", "response": "末三小节的连音与长音各占16拍。它们形成同样的整小节持续。"}
+{"id": "ABC-V2-0862", "model": "gemini-3.1-pro-preview", "response": "是变奏。\n谱段A的起势节奏为 D,2B,,A,,G,,2，后续 E 密集音群为 E,E,E,E,E,D,D,D,。\n谱段B的起势节奏变为 D,2B,,2B,,A,,2 G,,2，后续 E 密集音群变为 E,E,E,E,D,。\n起音组织上，谱段A的起势后接 C,D,2D,D,C,B,,2，谱段B则变为 D,D,D,D,D,。"}
+{"id": "ABC-V2-0863", "model": "gemini-3.1-pro-preview", "response": "实际音高：F#2\n起音拍位：3.5\n时值：1.0拍"}
+{"id": "ABC-V2-0864", "model": "gemini-3.1-pro-preview", "response": "换号前和弦为C，在目标调F大调中为属和弦（V级）。换号后和弦为F，在目标调中为主和弦（I级）。新中心已通过V-I进行得到确认。"}
+{"id": "ABC-V2-0865", "model": "gemini-3.1-pro-preview", "response": "换号后的和弦支持 Eb 调中心。末端属七的实际后继属于阻碍走向。"}
+{"id": "ABC-V2-0866", "model": "gemini-3.1-pro-preview", "response": "端点：D, 到 E。\n音域：大九度。"}
+{"id": "ABC-V2-0867", "model": "gemini-3.1-pro-preview", "response": "后三小节的发音组织从切分式碎片到长音发生变化，每小节音头数分别为：4, 3, 2。"}
+{"id": "ABC-V2-0868", "model": "gemini-3.1-pro-preview", "response": "共同的应用属解决：G#7 -> C#m7，分别在第2-3小节和第7-8小节。\n主调属—主：前四小节在第4小节（B7 -> E7，但E7不是主和弦，未确认E大调）；后四小节在第5-6小节（B -> Emaj7）。\n结论：后四小节先确认E大调。"}
+{"id": "ABC-V2-0869", "model": "gemini-3.1-pro-preview", "response": "谱段A第3小节的旋律音D（D♯）是Emaj7的大七音，支持Emaj7和弦；第4小节的旋律音D（D♯）是G♯和弦的五音，支持G♯和弦。\n谱段B第3小节的旋律音G（G♯）是E和弦的三音，支持E和弦；第4小节的旋律音F（F♯）是G♯7和弦的七音，支持G♯7和弦。\n谱段A中，Emaj7和弦色彩更丰富，G♯和弦作为大三和弦，属倾向较弱；谱段B中，E和弦色彩较单一，G♯7和弦作为大小七和弦，属倾向更强。"}
+{"id": "ABC-V2-0870", "model": "gemini-3.1-pro-preview", "response": "应视为带细微变奏的重复。\n\n1.  **旋律与节奏的精确性**：谱段B在音高和节奏上与谱段A完全一致，均由相同的音符和休止符构成。\n2.  **连线的差异**：谱段B的末音F2带有延续连线（F2-），而谱段A的末音F2没有。这表明谱段B在演奏时，该音符的持续时间或与其他音符的连接方式与谱段A有所不同。\n3.  **结论**：虽然旋律和节奏相同，但连线的增加改变了音乐的表达细节，因此应视为带细微变奏的重复。"}
+{"id": "ABC-V2-0871", "model": "gemini-3.1-pro-preview", "response": "不构成。和弦标签的添加或省略不改变旋律音符本身，因此不属于旋律变奏。"}
+{"id": "ABC-V2-0872", "model": "gemini-3.1-pro-preview", "response": "F,,音符通过连音线连接了第1小节的16个十六分音符和第2小节的12个十六分音符，总时长为28个十六分音符。G,,音符通过连音线连接了第2小节的2个十六分音符、第3小节的16个十六分音符和第4小节的10个十六分音符，总时长为28个十六分音符。F,,音符跨越了1个小节线，G,,音符跨越了2个小节线。"}
+{"id": "ABC-V2-0873", "model": "gemini-3.1-pro-preview", "response": "材料中跨越小节的E有：\n1. 第4小节的E,4-跨越到第5小节的E,16，总时值为20/16。\n2. 第6小节的=E,4-跨越到第7小节的=E,16，总时值为20/16。"}
+{"id": "ABC-V2-0874", "model": "gemini-3.1-pro-preview", "response": "实际音高为D4和B3，音程为小三度。"}
+{"id": "ABC-V2-0875", "model": "gemini-3.1-pro-preview", "response": "后四小节更渐进。前四小节直接从主和弦（A）跳到离调属和弦（C♯7），而后四小节在主和弦后先引入了自然音阶内的中音和弦（C♯m），再将其半音化为C♯7，形成 A—C♯m—C♯7—F♯m 的进行，这种半音化过程使和声连接更平滑。\n\n前一种路径不能被称为“不标准”。直接使用副属和弦（如 I—V7/vi）在古典和流行音乐中都非常常见，它能提供更强烈的色彩对比和戏剧性效果，是标准的和声手法。"}
+{"id": "ABC-V2-0876", "model": "gemini-3.1-pro-preview", "response": "第一段第一小节为Bbmaj7，第二段第一小节为Bb7，后缀由maj7变为7，使和弦变为属七和弦，指向E♭的功能。\n第二段落到E♭后在半小节处改写斜线低音为Ebmaj7/Bb，这一转位使低音由E♭变为B♭，与下一小节的Dm7的低音D形成平稳的级进连接。"}
+{"id": "ABC-V2-0877", "model": "gemini-3.1-pro-preview", "response": "拍位：第3.5拍、第4拍、第4.5拍\n音高：E2\n时值：每次1/8拍（即1/16音符）\n\n解释：\n在 \"C\" 和弦小节中，音符序列为 `E,4 z6 E,2E,2E,2`。\n- `E,4` 占 4 个 1/16 音符（即 1 拍），从第 1 拍开始。\n- `z6` 占 6 个 1/16 音符（即 1.5 拍），从第 2 拍开始，持续到第 3.5 拍。\n- 连续三次同音起音 `E,2E,2E,2` 分别占 2 个 1/16 音符（即 0.5 拍），分别从第 3.5 拍、第 4 拍、第 4.5 拍开始。\n- `E,` 在 C 大调中表示 E2 音高。\n- 每个 `E,2` 的时值为 2 个 1/16 音符，即 1/8 拍。"}
+{"id": "ABC-V2-0879", "model": "gemini-3.1-pro-preview", "response": "谱段B的第一小节将谱段A第一小节的A2压缩，并换音为D2。据此判断，谱段B是谱段A的变奏。"}
+{"id": "ABC-V2-0880", "model": "gemini-3.1-pro-preview", "response": "前四小节第一小节使用G7，后四小节第一小节使用Gm7。\n按K:G还原后四小节首音B,，它与Gm7的三音Bb冲突。\n两组共同的E7—Am7是副属和弦到目标和弦的进行。"}
+{"id": "ABC-V2-0881", "model": "gemini-3.1-pro-preview", "response": "起音的ABC token是`D2`，实际音高是D3，占1/8拍。在Bm和弦中，它是三音。"}
+{"id": "ABC-V2-0882", "model": "gemini-3.1-pro-preview", "response": "和弦顺序：D - A - C#7 - F#m - Dm。\n调内和弦：D (IV), A (I), F#m (vi)。\n调外和弦：C#7 (III7), Dm (iv)。\nC#7 作为副属和弦，预期解决到 F#m，实际后继为 F#m，符合预期。\nDm 作为借用和弦，未在谱例中解决。\n和声机制：使用了副属和弦 (C#7) 和借用和弦 (Dm) 来增加色彩变化。"}
+{"id": "ABC-V2-0883", "model": "gemini-3.1-pro-preview", "response": "休止后的独立起音次数为 7 次。\n每次起音的 token 依次为：C2, C2, C2, C2, C2, C2, C2。"}
+{"id": "ABC-V2-0884", "model": "gemini-3.1-pro-preview", "response": "该C音在连线左侧是前一小节的旋律音，右侧是C和弦的根音。\n第一段含和弦七音（\"G7\"），第二段先经过斜线转位（\"G/D\"）。"}
+{"id": "ABC-V2-0885", "model": "gemini-3.1-pro-preview", "response": "首小节和弦标记前占1拍，后占3拍。包括它在内的四个小节都完整填满4拍。"}
+{"id": "ABC-V2-0886", "model": "gemini-3.1-pro-preview", "response": "两个小节共享的节奏骨架是 `z8 G,2F,E,`。\n尾部差异在于：\n- 第一个以半小节休止开头的小节（\"Cm\" 和弦）尾部是 `F,4`。\n- 第二个以半小节休止开头的小节（\"Gm7\" 和弦）尾部是 `F,2G,2`。"}
+{"id": "ABC-V2-0887", "model": "gemini-3.1-pro-preview", "response": "第一段第三小节为Fm7，第二段为F7。F7包含还原A，作为Bbm的导音，构成了V7/vi - vi的副属和弦进行，因此具有更强的应用属功能。两段小节末的D2-跨入下一小节的实际音高均为Db4。"}
+{"id": "ABC-V2-0888", "model": "gemini-3.1-pro-preview", "response": "这两个换号点形成了从d小调到F大调，再回到d小调的调性往返。\n\n同一个B♭和弦在两种状态中都能成立，是因为B♭和弦（B♭-D-F）在d小调中是VI级和弦，在F大调中是IV级和弦。这两个调是关系大小调，共享相同的调号（一个降号），因此B♭和弦在两个调中都是自然音和弦，可以作为共同和弦用于转调。"}
+{"id": "ABC-V2-0889", "model": "gemini-3.1-pro-preview", "response": "开头D的连音链持续25个十六分单位。连音结束后各完整小节的音头数变化为：3, 3, 3, 4, 1, 3。"}
+{"id": "ABC-V2-0890", "model": "gemini-3.1-pro-preview", "response": "没有改写。谱段A和谱段B的音符序列完全相同，都是 `z12 z2 E2 | F4 c3B- B2cd3E2 |`，进入方式没有变化。"}
+{"id": "ABC-V2-0891", "model": "gemini-3.1-pro-preview", "response": "两段的C重复型与结尾低B♭长音逐符号相同。\n低B♭的token数为3，独立起音数为1，总长度为14。"}
+{"id": "ABC-V2-0892", "model": "gemini-3.1-pro-preview", "response": "应继续按 2/4 拍解释。\n\n**状态持续规则说明：**\n在 ABC 记谱法中，`M:` 字段（拍号）属于全局或行内状态设置。一旦在谱面中（如末小节的 `[M:2/4]`）设置了新的拍号，该拍号将一直生效，直到遇到下一个 `M:` 字段为止。因此，如果没有新的 `M:` 字段出现，后续的音乐将继续按照 2/4 拍进行解释。"}
+{"id": "ABC-V2-0893", "model": "gemini-3.1-pro-preview", "response": "前四小节在第一小节直接使用D7和弦，未出现挂留；后四小节在第五小节先使用D7sus4和弦，随后解除挂留回到D7和弦。后四小节在第六、七小节使用D和弦，延长了D属功能。"}
+{"id": "ABC-V2-0894", "model": "gemini-3.1-pro-preview", "response": "经过拍数：3.5拍\n科学音高：F2\n拍位：第4拍的后半拍\n\n解释：\n谱例中L: 1/16，M: 4/4。\n第一个F,2占2个1/16音符（0.5拍），z4占4个1/16音符（1拍），第二个F,2占2个1/16音符（0.5拍），第三个F,2占2个1/16音符（0.5拍），z2占2个1/16音符（0.5拍），第四个F,2占2个1/16音符（0.5拍）。\n第二次F字母音是第二个F,2，前面经过了F,2和z4，共0.5 + 1 = 1.5拍。\n第三次F字母音是第三个F,2，前面经过了F,2、z4和F,2，共0.5 + 1 + 0.5 = 2拍。\n第四次F字母音是第四个F,2，前面经过了F,2、z4、F,2、F,2和z2，共0.5 + 1 + 0.5 + 0.5 + 0.5 = 3.5拍。\n题目问的是“第二次F字母音”，但根据谱例，第二次F字母音是第二个F,2，前面经过了1.5拍。\n如果题目问的是“第四次F字母音”，则是第四个F,2，前面经过了3.5拍。\n根据题目描述“第二次F字母音起音时，前面已经经过多少拍？写出它的实际科学音高和准确拍位”，结合谱例，第二次F字母音是第二个F,2，前面经过了1.5拍，拍位是第2拍的后半拍。\n但如果题目问的是“第四次F字母音”，则是第四个F,2，前面经过了3.5拍，拍位是第4拍的后半拍。\n考虑到题目可能存在笔误，将“第四次”写成了“第二次”，这里按照“第四次”来回答。\n第四个F,2的科学音高是F2，前面经过了3.5拍，拍位是第4拍的后半拍。"}
+{"id": "ABC-V2-0895", "model": "gemini-3.1-pro-preview", "response": "第三小节第一个发声音符的token是`E,`，实际音高是E2，在小节内的位置是3/16，时值是1/16。"}
+{"id": "ABC-V2-0896", "model": "gemini-3.1-pro-preview", "response": "休止前：A2G2，休止后：C2 F2E2F2G2-。\n实际音高顺序：A4 G4 C4 F4 E4 F4 G4。"}
+{"id": "ABC-V2-0897", "model": "gemini-3.1-pro-preview", "response": "末小节的旋律音是 F,，其上方的七和弦是 F7。F, 是 F7 和弦的根音。"}
+{"id": "ABC-V2-0898", "model": "gemini-3.1-pro-preview", "response": "行内换号把关系调状态转向平行大调。换号前后的共享和弦是G#m。所给窗口没有用属—主或新主和弦确认目标中心。"}
+{"id": "ABC-V2-0899", "model": "gemini-3.1-pro-preview", "response": "谱段A和弦骨架：| Gm7 | Gm7 | Cm7 | Cm7 |\n谱段B和弦骨架：| Gm | Gm | Cm7 | Cm7 Gm/D |\n\n比较：\n1. 七和弦使用：谱段A在主和弦上使用了七和弦（Gm7），而谱段B使用了三和弦（Gm）。两者在下属和弦上都使用了七和弦（Cm7）。\n2. 末小节和声回归：谱段A停留在Cm7，没有回归主和弦；谱段B在末小节通过Gm/D回归到主和弦的第二转位。\n3. 显式升C：谱段B中的^C（升C）是Cm7和弦根音C的半音上行经过音，导向随后的D音（Gm/D的低音）。"}
+{"id": "ABC-V2-0900", "model": "gemini-3.1-pro-preview", "response": "前四小节和声骨架为 Bmaj7 - C♯m7 - F♯7 - Bmaj7 - G♯m7，F♯7 位于第三小节，作为属七和弦解决到 Bmaj7，形成完整的 I-II-V-I 进行。后四小节和声骨架为 E - F♯ - C♯m7 - F♯，F♯ 位于第六和第八小节，作为大三和弦出现，且未解决到 B 主和弦，而是停留在属和弦上，形成半终止。"}
+{"id": "ABC-V2-0901", "model": "gemini-3.1-pro-preview", "response": "目标在谱段B的第2到第3小节。\n首小节（第2小节）的F—D交替型（F2D2F2D2 FG2D3D2）和次小节（第3小节）的F—A材料（FF2A3A2 A2F2D2C2）与谱段A完全一致。"}
+{"id": "ABC-V2-0902", "model": "gemini-3.1-pro-preview", "response": "整小节长音有：第4小节的F，第6小节的F，第8小节的D。\n跨小节F的总持续拍数为6拍。"}
+{"id": "ABC-V2-0903", "model": "gemini-3.1-pro-preview", "response": "谱段A首次主和弦为Emaj7，前一和弦为B7。后续和声节奏为Emaj7与Emaj7/B交替，形成根位与第二转位的交替。\n谱段B首次主和弦为Emaj7，前一和弦无（谱段开头即为主和弦）。后续和声节奏同样为Emaj7与Emaj7/B交替，形成根位与第二转位的交替。\n两者后续和声节奏相同，均表现为根位与第二转位主和弦的交替。"}
+{"id": "ABC-V2-0904", "model": "gemini-3.1-pro-preview", "response": "第二小节的音符为 B,,、D,、C,。在 G#m 调中，实际音高为 B,,、D#,、C#,。该小节和弦为 G#m（G#-B-D#）。C#, 不属于 G#m 和弦。因此，并非所有音符都属于该小节的小三和弦。"}
+{"id": "ABC-V2-0905", "model": "gemini-3.1-pro-preview", "response": "F2 F2 F2 G2 A2 D4 B,2-\n在A2和D4之间。"}
+{"id": "ABC-V2-0906", "model": "gemini-3.1-pro-preview", "response": "第4小节。\n第1-3小节和声均为F#m，旋律以长音和休止为主，起音稀疏（第1小节1个，第2小节4个，第3小节2个），情绪相对平稳。\n第4小节和声仍为F#m（末尾变为F#m7，主和弦性质未变），但旋律变为连续的十六分音符（16个起音），表层密度急剧增加，造成明显的情绪活动升级。"}
+{"id": "ABC-V2-0907", "model": "gemini-3.1-pro-preview", "response": "第一小节：2+2+2+2\n第二小节：2+1+1+1+1+2\n第三小节：2+2+1+1+1+1\n第四小节：2+1+1+2+2"}
+{"id": "ABC-V2-0908", "model": "gemini-3.1-pro-preview", "response": "这个小节在 2/4 拍下，E,,8 的时值是 8 个 1/16 音符，即 2 拍，正好填满一个小节，因此时值完整。末尾的连音线要求下一小节的第一个音符与这个 E,, 音符相连，不中断地演奏。"}
+{"id": "ABC-V2-0909", "model": "gemini-3.1-pro-preview", "response": "第一条连音连接G7和弦的=B,,，延长同一和弦；第二条连音连接G7和弦的E,和Cm7和弦的E,，跨越和弦更换；第三条连音连接Cm7和弦的^F,,和Ebm和弦的^F,,，跨越和弦更换。"}
+{"id": "ABC-V2-0910", "model": "gemini-3.1-pro-preview", "response": "全局主音为D♯，调式为小调。\n\n解释：\n前两小节的G♯m7虽然占据较长时值，但第三、四小节出现了A♯7到D♯m的进行。A♯7是D♯m的属七和弦，形成了强烈的属到主的解决（V7 - i），确立了D♯m为中心。因此，全局主音为D♯，调式为小调。"}
+{"id": "ABC-V2-0911", "model": "gemini-3.1-pro-preview", "response": "A7首次进入在第5小节的第4拍。随后两个A7小节的发音位置变化为：第6小节在第1拍发音，第7小节在第3拍发音。"}
+{"id": "ABC-V2-0912", "model": "gemini-3.1-pro-preview", "response": "在第一小节中，C,4- C,2 连音将音符 C, 持续到第三拍的拍点之外，产生切分效果。在第四小节中，F,6 G,2- G,2 连音将音符 G, 持续到第二拍的拍点之外，同样产生切分效果。"}
+{"id": "ABC-V2-0913", "model": "gemini-3.1-pro-preview", "response": "不会。和弦标注（如\"Cm\"、\"Cm7/Bb\"、\"Gm\"）仅指示和声，不改变拍号。该小节的拍号由小节开头的 `[M:3/4]` 字段控制，将该小节的拍号设定为 3/4 拍。"}
+{"id": "ABC-V2-0914", "model": "gemini-3.1-pro-preview", "response": "谱段A中属功能和弦（E、G7）的实际后继分别为Dm7和E7（谱段B开头），均未解决到主和弦；谱段B中属功能和弦（E7）的实际后继为Am，形成正格解决。\n谱段B落到Am后，低音配置依次为根音（Am）、二音（Am/B）、三音（Am/C）、五音（Am/E），通过低音的级进上行（A-B-C）和跳进（C-E），在保持主和弦功能的同时增加了低音线条的流动性，从而延长了A小调的重心。"}
+{"id": "ABC-V2-0915", "model": "gemini-3.1-pro-preview", "response": "最低音为 G, (G2)，最高音为 c (C4)。\n总音域为 G2 到 C4，跨度为 17 个半音。\n纯八度为 12 个半音，因此总音域相对纯八度多出 5 个半音。"}
+{"id": "ABC-V2-0916", "model": "gemini-3.1-pro-preview", "response": "Fm小节的音符为C、B,、A,。\n按Fm调号解析：\nC为C音，属于Fm三和弦（五音）。\nB,为B♭音，是非和弦音。\nA,为A♭音，属于Fm三和弦（三音）。"}
+{"id": "ABC-V2-0917", "model": "gemini-3.1-pro-preview", "response": "谱段B的第2小节和第3小节。\n\n解释：\n在谱段B中，第2小节（\"Ebm\" A2 G4 G4 G2F2E2）包含了A♭—G的重复线（A2 G4 G4，在Bbm调号下A为A♭）。\n第3小节（\"Ab\" z2 C2C2D2 E4 G4）包含了休止后的C—D线（z2 C2C2D2）。\n这两个小节是连续的，符合题目要求。"}
+{"id": "ABC-V2-0918", "model": "gemini-3.1-pro-preview", "response": "换号后的八小节更支持C大调中心。\n\n解释：\n1. 开头的C和弦延长（\"C\" E4... \"C/G\"... \"C\" E2...）确立了C大调的主和弦地位，奠定了调性基础。\n2. 中段的E7—Am（\"E7\" ^G8... \"Am\" B2A2...）是C大调中的III7—vi进行，属于副属和弦到关系小调主和弦的常见进行，虽然短暂强调了A小调，但并未改变整体的C大调框架。\n3. 末尾的Gm7—C（\"Gm7\" G2... \"C\" C2...）是C大调中的v7—I进行，虽然Gm7是借用和弦，但最终解决回C大调主和弦，进一步巩固了C大调中心。"}
+{"id": "ABC-V2-0919", "model": "gemini-3.1-pro-preview", "response": "E, 的科学音高是 E2，G, 的科学音高是 G2。跨越这次起音转换的音程是小三度。"}
+{"id": "ABC-V2-0920", "model": "gemini-3.1-pro-preview", "response": "换号前和弦为E大三和弦，在新调A大调中重释为属和弦（V），随后解决到A大三和弦（I），完成主音确认。末尾属七和弦（C#7）未解决。"}
+{"id": "ABC-V2-0921", "model": "gemini-3.1-pro-preview", "response": "谱段B将谱段A的音符降低了一个八度。"}
+{"id": "ABC-V2-0922", "model": "gemini-3.1-pro-preview", "response": "六个有声小节的主体节奏共同框架为四分音符（或等值的十六分音符组合，如 `C4 E,4 B,4`）。\n第3小节（`C2E2-`）和第5小节（`A,2B,2`）在末拍加入了八分音符细分。"}
+{"id": "ABC-V2-0923", "model": "gemini-3.1-pro-preview", "response": "G G G2 F2 E2 F2 E2 C2；G和G2。"}
+{"id": "ABC-V2-0924", "model": "gemini-3.1-pro-preview", "response": "因为在ABC记谱法中，拍号（M字段）一旦设定，就会一直有效，直到遇到新的拍号设定。第二小节恢复了主拍号4/4，之后没有新的拍号设定，所以第三、四小节继续沿用4/4拍号。"}
+{"id": "ABC-V2-0925", "model": "gemini-3.1-pro-preview", "response": "K: Cm\n末尾的G7/D是属和弦的转位，用于连接或半终止，不改变主音C和调式小调的判断。"}
+{"id": "ABC-V2-0926", "model": "gemini-3.1-pro-preview", "response": "第2小节从Ab6变为Ab7，增加了属七和弦的倾向性，使进入Db7的声部倾向更强。到达Db7后，由于和弦性质为属七和弦，张力并未真正释放，而是继续保持。"}
+{"id": "ABC-V2-0927", "model": "gemini-3.1-pro-preview", "response": "B段三个B书写token中，第一个是新起音，后两个只是延续。\nA段有多个新起音，B段只有一个新起音。"}
+{"id": "ABC-V2-0928", "model": "gemini-3.1-pro-preview", "response": "连续三个D♭小节（主和弦）提供了强烈的和声稳定性和闭合感。随后的A♭（属和弦）—D♭sus4/G♭/D♭—G♭/D♭（下属和弦的变体）—B♭m（下中和弦）进行，引入了和声张力，打破了之前的稳定性，且未回到主和弦，缺乏闭合感。"}
+{"id": "ABC-V2-0929", "model": "gemini-3.1-pro-preview", "response": "实际音高为D#，是C#m7和弦的九音，属于色彩性非和弦音。"}
+{"id": "ABC-V2-0930", "model": "gemini-3.1-pro-preview", "response": "D7小节在二分音符和短休止之后的第一个发声音符是D,，其实际科学音高为D2，起音拍位为第2.75拍，时值为1/8拍。"}
+{"id": "ABC-V2-0931", "model": "gemini-3.1-pro-preview", "response": "张力峰值落在第三小节的 C#7 和弦，在第四小节的 F#m 和弦获得最明确释放。\n\n解释：\nC#7 是 F#m 的属七和弦，包含导音 E#，具有强烈的倾向性，是这四小节中张力最大的和弦。第四小节回到主和弦 F#m，属到主的进行（V7 - i）完成了张力的释放。"}
+{"id": "ABC-V2-0932", "model": "gemini-3.1-pro-preview", "response": "`^B,`是B♯，随后的`B,`是B♯，下一小节的D是D♯。\n\n解释：\nK:E调号包含F♯, C♯, G♯, D♯。\n`^B,`有临时升号，为B♯。\n随后的`B,`在同一小节内，受前一个临时升号影响，也是B♯。\n下一小节的D受调号影响，为D♯。"}
+{"id": "ABC-V2-0933", "model": "gemini-3.1-pro-preview", "response": "开头不完全小节时值为1/4，其后三个完整小节时值均为1。末两小节间D连音的两侧时值分别为1/8和1/4。"}
+{"id": "ABC-V2-0934", "model": "gemini-3.1-pro-preview", "response": "和弦骨架：G7 | C | C | F | C | F | C | G |\n开头属和弦（G7）通过延音和休止形成悬念，随后解决到主和弦（C），释放张力；结尾属和弦（G）则通过长音保持未解决状态，形成持续的张力，期待后续发展。"}
+{"id": "ABC-V2-0935", "model": "gemini-3.1-pro-preview", "response": "前四小节在Am7上建立初始张力，随后在Bm7b5-E7上形成半终止，产生第一次释放；后四小节在Gm6-C7上再次建立张力，最终在Fmaj7-E7-Am7上形成完全终止，产生第二次释放。这种结构通过两次和声进行，形成了两个相连的张力—释放波形。"}
+{"id": "ABC-V2-0936", "model": "gemini-3.1-pro-preview", "response": "原ABC token: B,,\n科学音高: Bb2\n和弦音级: 三音"}
+{"id": "ABC-V2-0937", "model": "gemini-3.1-pro-preview", "response": "在B♭小调中，第六级音是G♭。`=G,`显式使用还原号将其升高半音变为G♮。这使得该音与E♭和弦（E♭-G-B♭）的大三度音G相吻合，从而适应了和声的变化。"}
+{"id": "ABC-V2-0938", "model": "gemini-3.1-pro-preview", "response": "材料中行末或和弦边界附近的连字符连接的同音有：\n- 第一小节末尾的 B, 连接到第二小节开头的 B,\n- 第一小节末尾的 A, 连接到第二小节开头的 A,\n- 第二小节末尾的 E, 连接到第三小节开头的 E,\n- 第四小节末尾的 E, 连接到第五小节开头的 E,\n\n这些连字符不能跨不同音解释，因为它们连接的是相同的音符，表示音符的延续。"}
+{"id": "ABC-V2-0939", "model": "gemini-3.1-pro-preview", "response": "新句实际开始于谱段B的第3个十六分音符（D,2）。"}
+{"id": "ABC-V2-0940", "model": "gemini-3.1-pro-preview", "response": "E♭maj7 标记下的旋律可分为两类材料：\n1.  **和弦内音与延伸音的跳进：** 旋律中出现了 D（大七度）、B♭（五度）、G（三度）等和弦内音及延伸音的跳进，例如 \"D4 B,4 B,4 G,2B,2\"。\n2.  **级进经过音：** 旋律中也包含了级进的经过音，例如 \"D2E2 z F3\" 中的 E（小九度）和 F（大九度），它们连接了和弦内音或延伸音。"}
+{"id": "ABC-V2-0941", "model": "gemini-3.1-pro-preview", "response": "和弦骨架为Cm7-F7-Bbmaj7-Ebmaj7（第一阶段）和Am7b5-D7（第二阶段）。第一阶段是连续的五度下行，张力逐渐释放；第二阶段Am7b5持续两小节，随后D7引入临时升音^F,，形成强烈的属功能倾向，张力再次积聚并停留在未解决的高点。"}
+{"id": "ABC-V2-0942", "model": "gemini-3.1-pro-preview", "response": "音高为升F2，时值为3/16。升号不影响下一小节，因为它是临时升号，只在当前小节有效。"}
+{"id": "ABC-V2-0942-A1", "model": "gemini-3.1-pro-preview", "response": "末小节发声音为E♭, D, C, B♭, G♭, B♭, C。\nA♭7和弦基本成员：E♭ (五音), C (三音), G♭ (七音，异名同音)。\n扩展/经过色彩：D (十一音/经过音), B♭ (九音)。\n`^F,,3` (F♯) 是 G♭ 的等音拼写，作为 A♭7 的七音。"}
+{"id": "ABC-V2-0943", "model": "gemini-3.1-pro-preview", "response": "第三小节：z8 (8) + F2 (2) + E4 (4) + C2- (2) = 16/16\n第四小节：C8 (8) + E2 (2) + D2 (2) + C2 (2) + A,2- (2) = 16/16\n第五小节：A,8 (8) + z8 (8) = 16/16\n第六小节：z8 (8) + G,2 (2) + A,2 (2) + C4 (4) = 16/16\n第一条连音：C2- (2) + C8 (8) = 10/16\n第二条连音：A,2- (2) + A,8 (8) = 10/16"}
+{"id": "ABC-V2-0944", "model": "gemini-3.1-pro-preview", "response": "`^^C,`是重升C，`^C,`是升C，`C,`是还原C。调号中的升降号与临时记号不叠加，临时记号直接覆盖调号。"}
+{"id": "ABC-V2-0945", "model": "gemini-3.1-pro-preview", "response": "第三小节最后一个发声音符的token是`A,,4`，实际科学音高是A2，起音拍位是3.0，常用时值是四分音符。"}
+{"id": "ABC-V2-0946", "model": "gemini-3.1-pro-preview", "response": "最直接改变明暗色彩的同根和弦转换是 \"Dmaj7\" 到 \"Dm6\"（大调色彩转小调色彩）。后续两小节没有停滞在该色彩，而是继续沿功能和声移动，通过 \"C#m\" - \"F#m\" - \"Bm7\" - \"E7\" 形成下行五度循环进行。"}
+{"id": "ABC-V2-0947", "model": "gemini-3.1-pro-preview", "response": "C, 实际音高为 C，不属于 Dm6 和弦。\nB,, 实际音高为 B，属于 Dm6 和弦，是和弦的六音。"}
+{"id": "ABC-V2-0948", "model": "gemini-3.1-pro-preview", "response": "一次起音。拍号从1/4变为4/4，连音线将前一小节的四分音符与后一小节的全音符连接，总持续长度为5个四分音符。"}
+{"id": "ABC-V2-0949", "model": "gemini-3.1-pro-preview", "response": "`Gm7/D`通过斜杠后跟音名`D`指定和弦低音为D。`F,`中的逗号表示比中央C低一个八度的F音，`B,,`中的两个逗号表示比中央C低两个八度的B音。"}
+{"id": "ABC-V2-0950", "model": "gemini-3.1-pro-preview", "response": "谱段B的新句在小节的第7个十六分音符位置进入。前一个小节线构成强边界，因为谱段A的A♯结束后有14个十六分音符的休止，形成了明显的音乐停顿和乐句划分。"}
+{"id": "ABC-V2-0951", "model": "gemini-3.1-pro-preview", "response": "非调内小三和弦为Dbm，前后最近的有标记和弦为Cm和Ab。\n该小节中=E对应E♮，_E对应E♭。=E作为Dbm和弦的三音，与调号中的E♭形成半音冲突，产生张力；随后_E恢复调内音高，释放了这种半音张力。"}
+{"id": "ABC-V2-0952", "model": "gemini-3.1-pro-preview", "response": "B♭m。\nK: Bbm\nE♭m为下属和弦，F为属和弦，B♭m为主和弦。"}
+{"id": "ABC-V2-0953", "model": "gemini-3.1-pro-preview", "response": "在Cm小节中，先后出现了G,和A,两个音级。\n按A♭大调调号解析，G,是G，A,是A♭。\nCm和弦的构成音是C、E♭、G。\n因此，G属于Cm和弦（五音），而A♭不属于Cm和弦，它是Cm和弦的附加小六度音（或可视为经过音/倚音，具体视旋律语境而定，但与和弦的关系是小六度）。"}
+{"id": "ABC-V2-0954", "model": "gemini-3.1-pro-preview", "response": "内联拍号 `[M:2/4]` 从第 3 小节生效，`[M:4/4]` 从第 4 小节生效。\n三个相邻小节（第 2、3、4 小节）分别应核算为 16、8、16 个十六分单位。"}
+{"id": "ABC-V2-0955", "model": "gemini-3.1-pro-preview", "response": "音高序列：G, D, E, G, A, c, d, e\n全局最高音：e\n全局最低音：D\n方向变化：下, 上, 上, 上, 上, 上, 上\n轮廓类别：下-上"}
+{"id": "ABC-V2-0956", "model": "gemini-3.1-pro-preview", "response": "谱段A的内部重复单元为：\n单元1：\"D\" F,4 A,4 D4 D4 | \"G\" z4 D4 F2G3A3 |\n单元2：\"D\" F,4 A,4 D4 D4 | \"G\" z4 D4 F2G3A3 |\n\n谱段B的内部重复单元为：\n单元1：\"D\" z4 F,2A,2 G,F,2E,2D,3 | \"G\" B,,4 D,E,2E, \"Gmaj7\" F,A,3 F,4 |\n单元2：\"D\" z4 F,2A,2 G,F,2E,2D,3 | \"G\" B,,4 D,E,2E, \"Gmaj7\" F,A,3 \"D\" D,4 |\n\n谱段B在第二次出现时增添了收束事件。在谱段B的单元2中，结尾处增加了和弦 \"D\" D,4，这标志着一个收束事件，而单元1的结尾是 \"Gmaj7\" F,A,3 F,4，没有收束。谱段A的两个单元完全相同，没有增添收束事件。"}
+{"id": "ABC-V2-0957", "model": "gemini-3.1-pro-preview", "response": "和弦事件依次为：Am7, D7, Bm7, Bm7b5, E7。\n在第三小节中，和弦由Bm7变为Bm7b5，减五度音的引入增加了和弦的紧张度，将进行导向最强张力。\n最终解决到Am7和弦。"}
+{"id": "ABC-V2-0958", "model": "gemini-3.1-pro-preview", "response": "不会。行内拍号字段（如 `[M:3/4]`）会改变后续所有小节的拍号，直到遇到下一个拍号字段为止，不会在小节线后自动恢复。"}
+{"id": "ABC-V2-0959", "model": "gemini-3.1-pro-preview", "response": "B段的音域（G）比A段的音域（F, - B）窄。"}
+{"id": "ABC-V2-0960", "model": "gemini-3.1-pro-preview", "response": "最低音是 D2，最高音是 B2，音域是大六度。"}
+{"id": "ABC-V2-0961", "model": "gemini-3.1-pro-preview", "response": "和弦事件：Am7, D, Am7, D7, D7, G。\nD7进入G。\nK: G major"}
+{"id": "ABC-V2-0962", "model": "gemini-3.1-pro-preview", "response": "和弦标签：Bb/F, Bb, D7, Gm。\n首个斜线和弦 Bb/F 是第二转位。\n第三小节 D7 引入了调外音 ^F，作为属和弦增强了张力。\n第四小节 Gm 实际完成了解决，D7 解决到了 Gm。"}
+{"id": "ABC-V2-0963", "model": "gemini-3.1-pro-preview", "response": "**最终答案：**\n两个组合为：\n1. Dm (紧张) -> A (解决)\n2. C#7 (紧张) -> F#m (解决)\n\n**解释：**\n1. **Dm -> A**：在A大调中，Dm是下属小和弦（iv），A是主和弦（I）。这是一个变格终止（Plagal Cadence），虽然有解决感，但由于Dm不是属和弦，缺乏导音到主音的强烈倾向，因此紧张度较低，解决感相对较弱。\n2. **C#7 -> F#m**：在A大调中，C#7是关系小调（F#m）的属七和弦（V7/vi），F#m是下中和弦（vi）。这是一个离调的完全终止（Perfect Authentic Cadence）。C#7包含强烈的导音（E#）倾向于F#m的主音（F#），以及不协和的七音（B）倾向于三音（A），因此紧张度极高，解决感非常强烈。\n\n**结论：** C#7 -> F#m 的紧张-解决强度显著高于 Dm -> A。"}
+{"id": "ABC-V2-0964", "model": "gemini-3.1-pro-preview", "response": "第四小节末尾。\n\n解释：\n前四小节和弦为 F#m7 - B，后四小节和弦为 B - E。第四小节末尾和弦从 B 延续到第五小节，但旋律在第四小节末尾有休止，且第五小节开始新的旋律动机，因此第四小节末尾是合理的内部边界。"}
+{"id": "ABC-V2-0965", "model": "gemini-3.1-pro-preview", "response": "谱段A前两小节全休止，第三小节才出现Cm和弦与长音C,，延后了四小节单位的起点。谱段B第一小节即出现Fm和弦与音符，明确建立了四小节单位的起点。"}
+{"id": "ABC-V2-0966", "model": "gemini-3.1-pro-preview", "response": "首个F#m旋律小节（即谱例中的第二个小节）只围绕F,,,和A,两个音反复。按F#m调号解析，F,,,是F#，A,是A。它们都属于F#m三和弦（F#-A-C#）。F#是根音，A是小三度音。"}
+{"id": "ABC-V2-0967", "model": "gemini-3.1-pro-preview", "response": "Fm小节的六次旋律起音包含的实际音级有：A, B, C, F, G。\n和弦音：A, C, F\n非和弦音：B, G"}
+{"id": "ABC-V2-0968", "model": "gemini-3.1-pro-preview", "response": "F和弦小节的旋律长音是C和E。在Am调中，C和E都是自然音。F大三和弦由F、A、C构成。因此，C属于F大三和弦，是和弦的五音；而E不属于F大三和弦，它是F大七和弦的七音，为和弦增加了大七度的色彩。"}
+{"id": "ABC-V2-0969", "model": "gemini-3.1-pro-preview", "response": "主要分界应落在第四小节末尾（\"C#m\" E2B,2B,2B,2 z B, A,4 C2-）。\n\n前四小节从主和弦（A）出发，经过C#m，最终停留在C#7和弦上，形成半终止，和声重心偏向属方向，旋律在C#7处有明显的停顿（C2 z8）。后四小节从下属和弦（D）开始，最终回到主和弦（A），形成完全终止，和声重心回归主音，旋律在A和弦处也有明显的停顿（E4 A,2B,2-）。"}
+{"id": "ABC-V2-0970", "model": "gemini-3.1-pro-preview", "response": "谱段A的E延长后休止到小节末。进入谱段B时立即出现新旋律。边界在谱段A的休止符之后，谱段B的第一个音符D之前。"}
+{"id": "ABC-V2-0971", "model": "gemini-3.1-pro-preview", "response": "第一组：D,3D- DCA,，新起音为D2，延续音为D3。\n第二组：D,- D,4- D,4-，新起音为D2，延续音为D2。"}
+{"id": "ABC-V2-0972", "model": "gemini-3.1-pro-preview", "response": "低音级进：C - B - A - G - F - E。\n转位事件：\"Cmaj7/B\"（第三转位）、\"Cmaj7/G\"（第二转位）、\"C/E\"（第一转位）。\n能否证明属终止：不能。这八小节展示了下行低音线条，但未包含属和弦（如G或G7）解决到主和弦（C）的进行，无法证明随后会出现属终止。"}
+{"id": "ABC-V2-0973", "model": "gemini-3.1-pro-preview", "response": "E大调。\n\n解释：\n谱例开头和结尾均落在E大调的主和弦（E）上。和弦序列主要围绕E大调进行，包括主和弦（E）、下属和弦（A）和二级和弦（F#m7）。虽然存在C#m持续段，但并未获得属功能（G#或G#7）的支持，因此不足以确立C#小调。综合考虑，全局调性为E大调。"}
+{"id": "ABC-V2-0974", "model": "gemini-3.1-pro-preview", "response": "经过的和弦依次是：Gm, Ab, Bb, Eb。\n张力在Bb和弦达到最高，实际在Eb和弦释放。"}
+{"id": "ABC-V2-0975", "model": "gemini-3.1-pro-preview", "response": "G 是 C 的纯五度，A 是 C 的大六度，B 是 C 的大七度。B 的出现给 C6 增添了大七和弦的色彩。谱面没有写出“G—A—B 连续上行”。"}
+{"id": "ABC-V2-0976", "model": "gemini-3.1-pro-preview", "response": "前四小节和声为Am-Dm，后四小节为Am-E，形成主-下属、主-属的呼应，支持了两个四小节单位的结构。第2、4、6小节后半的下降音型（E,2D,2C,2B,,2）作为连接动机，填补了长音后的休止，将前一小节的音乐动力平滑过渡到下一小节，增强了乐句的连贯性。"}
+{"id": "ABC-V2-0977", "model": "gemini-3.1-pro-preview", "response": "新句相对小节线延后2个L单位。\n\n解释：\n谱段A的`A,4 z12`正好填满一个4/4拍小节（16个1/16音符）。\n谱段B以`z2`开头，表示新句在小节开始后休止了2个L单位（即2个1/16音符），因此新句相对小节线延后2个L单位。"}
+{"id": "ABC-V2-0978", "model": "gemini-3.1-pro-preview", "response": "token: `A,3`\n实际音高: A2\n起音拍位: 3.5\n末音位于拍内: 0.75"}
+{"id": "ABC-V2-0979", "model": "gemini-3.1-pro-preview", "response": "实际和弦路线：F7 -> Dm7 -> Gm7 -> Cm7 -> C7。\n在B♭大调中，F7（属七）常规解决到B♭（主和弦）。这里F7进行到Dm7（iii7），回避了主和弦解决，形成阻碍进行。随后经过Gm7和Cm7，最终停在C7（II7，重属和弦），留下强烈的属方向张力，未得到解决。"}
+{"id": "ABC-V2-0980", "model": "gemini-3.1-pro-preview", "response": "最可信的调中心是C大调。\n\n最直接的解决是首小节的G和弦（属和弦）解决到第二小节的Cmaj7和弦（主和弦），形成了典型的V-I进行，确立了C大调的调中心。\n\n后续的Am7是C大调的vi级和弦，Dm7是ii级和弦，F是IV级和弦。这些和弦都是C大调的自然音阶和弦，它们构成了C大调中常见的和声进行（如vi-ii-IV），因此与C大调的调中心保持一致。"}
+{"id": "ABC-V2-0981", "model": "gemini-3.1-pro-preview", "response": "谱段A的D重复型从谱段B的第二小节开始，并持续到第三小节。"}
+{"id": "ABC-V2-0982", "model": "gemini-3.1-pro-preview", "response": "和弦序列：A - D - D - A。\n开头（A）和结尾（A）均为属和弦，处于悬置状态；中央两小节（D）为主和弦，形成闭合。"}
+{"id": "ABC-V2-0984", "model": "gemini-3.1-pro-preview", "response": "和弦事件：\n1. B (第4小节)\n2. E6 (第5小节)\n3. F# (第5小节)\n4. D#m (第6小节)\n5. G#m7 (第6小节)\n6. C#m7 (第7小节)\n7. F# (第7小节)\n8. B (第8小节)\n\n功能分析：\n在B大调中，和弦进行从主和弦B（I）开始。随后进入E6（IV6）和F#（V），形成下属到属的张力扩展。接着，D#m（iii）和G#m7（vi7）作为中介和弦，进一步丰富了和声色彩并维持了张力。C#m7（ii7）作为下属功能和弦，引导至属和弦F#（V），形成强烈的解决期待。最后，进行在主和弦B（I）上闭合，完成了张力的释放和乐句的结束。"}
+{"id": "ABC-V2-0985", "model": "gemini-3.1-pro-preview", "response": "两段共享的和声顺序为 D#m - F# - F# - A#m。休止分布不同，谱段A在小节开头有休止，谱段B在小节中间有休止，说明它们属于新段落。"}
+{"id": "ABC-V2-0986", "model": "gemini-3.1-pro-preview", "response": "在第4小节（\"Fmaj7/E\"）处分成前后两个和声单位。前一侧（\"Gm7\" - \"C7\"）闭合更明确，因为它形成了一个完整的II-V进行，而第二侧（\"Fmaj7/E\" - \"Dm7\" - \"Gm7\"）则是一个不完整的进行，缺乏明确的终止感。"}
+{"id": "ABC-V2-0987", "model": "gemini-3.1-pro-preview", "response": "大六度。\n\n解释：\n在A♭大调中，E为E♮（还原E），G为G♮（还原G）。\n第一个音是E♮，第二个音是低八度的G♮。\n从E♮下行到G♮，包含的半音数为9个（E-D#-D-C#-C-B-A#-A-G），这是一个大六度音程。"}
+{"id": "ABC-V2-0988", "model": "gemini-3.1-pro-preview", "response": "稍后进入。\n\n谱段B的开头是 `z2`，表示休止了两个十六分音符（即一个八分音符）的时间，因此C重复型是从正拍稍后进入的。"}
+{"id": "ABC-V2-0989", "model": "gemini-3.1-pro-preview", "response": "Am持续4小节，Em持续2小节，F持续1小节。材料末端停留在F和弦，未形成A小调的强终止，也未完成向C大调的转移，而是保持开放。"}
+{"id": "ABC-V2-0990", "model": "gemini-3.1-pro-preview", "response": "第一单元和弦：Gm - Cm - F - Bb - Bbmaj7/A。\n第二单元和弦：Gm - Cm - D - Gm。\n第一单元末尾的 Bbmaj7/A 是第三转位（七音 A 在低音）。\n第二单元的 D 是大三和弦（属和弦）。\n第一单元以 Bbmaj7/A 结束，这是一个不稳定的转位和弦，且不是主和弦，收束感弱；第二单元以 D - Gm 结束，是标准的属到主的完全终止，收束感强。"}
+{"id": "ABC-V2-0991", "model": "gemini-3.1-pro-preview", "response": "首小节的旋律起音是 E,4，实际科学音高为 E2，起音拍位为 3.0，时值为 1.0。"}
+{"id": "ABC-V2-0992", "model": "gemini-3.1-pro-preview", "response": "拍速：高（Q: 1/4=180）。\n表层密度：低（L: 1/16，但音符时值多为4、6、8个1/16音符，即四分、附点四分、二分音符，音符稀疏）。\n调性稳定度：高（K: D，和弦为D、A/C#，音符A,,、B,,、D,、F,、E,均在D大调内，无变化音）。\n表层密度最能说明“快”不等于“忙”，因为尽管拍速高达180，但音符时值长，实际演奏的音符密度很低，听感并不“忙碌”。"}
+{"id": "ABC-V2-0993", "model": "gemini-3.1-pro-preview", "response": "否。谱段B的高G♯在小节线后没有立即重启，而是由G,（低八度的G♯）开始。"}
+{"id": "ABC-V2-0994", "model": "gemini-3.1-pro-preview", "response": "C7和弦作为Fm7的副属和弦（V/vi），实际解决至Fm7；末端停留在下属和弦Db，未进行至主和弦，形成半终止或开放式结尾。"}
+{"id": "ABC-V2-0995", "model": "gemini-3.1-pro-preview", "response": "前四小节的回归点在第四小节的 \"Abmaj7\" 和弦。第五小节接续后，谱段保持开放，因为第五小节的 \"Eb7\" 和弦是属和弦，没有解决到主和弦。"}
+{"id": "ABC-V2-0996", "model": "gemini-3.1-pro-preview", "response": "和弦事件：Bm/C#、F#7、C#m7、F#7、C#m7、F#7。\nF#7在B小调中预期解决到主和弦Bm。但谱例中，F#7每次都进行到C#m7，形成阻碍解决。\n材料结束于F#7，这是一个属和弦，具有强烈的解决倾向，但由于没有后续和弦，张力悬而未决。"}
+{"id": "ABC-V2-0997", "model": "gemini-3.1-pro-preview", "response": "音高：B,（B2）\n起音拍位：第1拍\n持续拍数：2拍\n后续休止：2拍\n\n解释：\n调号为C大调，无升降号。\n拍号为4/4，每小节4拍。\nL: 1/16，基本音符长度为1/16音符。\n音符B,8：B,表示B2，长度为8个1/16音符，即2拍。起音在第1拍。\n休止符z8：长度为8个1/16音符，即2拍。"}
+{"id": "ABC-V2-0998", "model": "gemini-3.1-pro-preview", "response": "后一窗口在第5小节将属和弦G变为G7，增加了不协和度，强化了属功能；在第7小节将Em/B变为E7，同样增加了不协和度，强化了属功能，并使其落点Am和弦更加明确。"}
+{"id": "ABC-V2-0998-A1", "model": "gemini-3.1-pro-preview", "response": "Gm7（G-Bb-D-F）到G7（G-B-D-F），保留了根音G、五音D和七音F，三音由Bb半音上行至B。B作为C大调的导音，强烈倾向于解决到主音C，从而增强了回到C和弦的张力。"}
+{"id": "ABC-V2-0999", "model": "gemini-3.1-pro-preview", "response": "C♯m7/E（小七和弦，第三转位）作为经过和弦，其低音E平稳下行至C♯7（属七和弦，原位）的根音C♯。C♯7的引入将和弦性质由小转大，增强了属功能，其导音E♯（隐含在C♯7中）强烈倾向于主和弦F♯m的根音F♯。最终，C♯7解决到F♯m（小三和弦，原位），完成了从不稳定到稳定的回归，增强了调性归属感。"}
+{"id": "ABC-V2-1000", "model": "gemini-3.1-pro-preview", "response": "八小节最合理的内部边界在第4小节末尾。\n\n**和声成组比较：**\n*   **前四小节：** 和声进行为 Ebsus4 - Eb - Ab - Cm - Cm。和声变化相对较快，且在第4小节停留在 Cm 和弦上，形成一个半终止或不稳定的停顿。\n*   **后四小节：** 和声进行为 Fm - Fm - Eb - Db - Eb。和声变化节奏与前四小节不同，且在第8小节停留在 Eb 和弦上，形成一个半终止。\n\n**休止布局比较：**\n*   **前四小节：** 第1小节有长休止，第2、3小节有短休止，第4小节有较长休止（z6），这在乐句末尾很常见，标志着一个乐句的结束。\n*   **后四小节：** 第5小节无休止，第6小节有长休止（z8），第7、8小节无休止。休止分布与前四小节明显不同。\n\n综合和声进行和休止布局，第4小节末尾的 Cm 和弦和长休止（z6）构成了一个明显的乐句边界，将八小节分为前后两个四小节的乐句。"}
