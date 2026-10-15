@@ -4,3 +4,7 @@ __pycache__/
 .env
 .env.*
 PUBLIC_RELEASE/audio/assets/full/
+data/public/audio/assets/full/
+release-review/
+release-review-v2/
+__preview__/

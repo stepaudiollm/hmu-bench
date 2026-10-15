@@ -1,0 +1,222 @@
+{
+  "schema_version": "hmu-bench-audio-aggregate-v1",
+  "paper": "https://arxiv.org/abs/2610.15773v1",
+  "paper_table": 3,
+  "question_pairs": 460,
+  "track_count": 92,
+  "configuration_question_pairs": 92,
+  "subgroup_language_policy": "Each subgroup aggregates both languages (184 responses per model)",
+  "fcr_definition": "Percentage of responses with score 4",
+  "models": [
+    {
+      "id": "qwen35_omni_plus",
+      "label": "Qwen 3.5 Omni",
+      "overall": {
+        "zh": 1.33,
+        "en": 1.333
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 2.522,
+          "fcr_percent": 48.37
+        },
+        "global_hard": {
+          "score": 1.212,
+          "fcr_percent": 9.24
+        },
+        "local_easy": {
+          "score": 1.815,
+          "fcr_percent": 23.37
+        },
+        "local_medium": {
+          "score": 0.848,
+          "fcr_percent": 5.98
+        },
+        "local_hard": {
+          "score": 0.261,
+          "fcr_percent": 0.0
+        }
+      }
+    },
+    {
+      "id": "gemini31_pro",
+      "label": "Gemini 3.1 Pro",
+      "overall": {
+        "zh": 1.176,
+        "en": 1.122
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 2.25,
+          "fcr_percent": 44.02
+        },
+        "global_hard": {
+          "score": 0.924,
+          "fcr_percent": 4.35
+        },
+        "local_easy": {
+          "score": 1.554,
+          "fcr_percent": 22.28
+        },
+        "local_medium": {
+          "score": 0.891,
+          "fcr_percent": 10.33
+        },
+        "local_hard": {
+          "score": 0.125,
+          "fcr_percent": 0.54
+        }
+      }
+    },
+    {
+      "id": "gemini37_flash",
+      "label": "Gemini 3.7 Flash",
+      "overall": {
+        "zh": 1.159,
+        "en": 1.028
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 1.859,
+          "fcr_percent": 35.87
+        },
+        "global_hard": {
+          "score": 0.913,
+          "fcr_percent": 4.89
+        },
+        "local_easy": {
+          "score": 1.543,
+          "fcr_percent": 22.83
+        },
+        "local_medium": {
+          "score": 1.0,
+          "fcr_percent": 10.87
+        },
+        "local_hard": {
+          "score": 0.152,
+          "fcr_percent": 0.54
+        }
+      }
+    },
+    {
+      "id": "seed_lite",
+      "label": "Seed Lite",
+      "overall": {
+        "zh": 1.093,
+        "en": 0.941
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 1.891,
+          "fcr_percent": 35.33
+        },
+        "global_hard": {
+          "score": 0.815,
+          "fcr_percent": 2.72
+        },
+        "local_easy": {
+          "score": 1.511,
+          "fcr_percent": 20.11
+        },
+        "local_medium": {
+          "score": 0.766,
+          "fcr_percent": 7.61
+        },
+        "local_hard": {
+          "score": 0.103,
+          "fcr_percent": 0.0
+        }
+      }
+    },
+    {
+      "id": "qwen3_omni_flash",
+      "label": "Qwen 3 Omni",
+      "overall": {
+        "zh": 0.965,
+        "en": 0.913
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 1.63,
+          "fcr_percent": 26.63
+        },
+        "global_hard": {
+          "score": 0.929,
+          "fcr_percent": 3.8
+        },
+        "local_easy": {
+          "score": 1.429,
+          "fcr_percent": 20.11
+        },
+        "local_medium": {
+          "score": 0.636,
+          "fcr_percent": 4.35
+        },
+        "local_hard": {
+          "score": 0.071,
+          "fcr_percent": 0.0
+        }
+      }
+    },
+    {
+      "id": "stepaudio3_0909",
+      "label": "StepAudio 3",
+      "overall": {
+        "zh": 0.946,
+        "en": 0.863
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 1.647,
+          "fcr_percent": 27.72
+        },
+        "global_hard": {
+          "score": 0.799,
+          "fcr_percent": 2.17
+        },
+        "local_easy": {
+          "score": 1.375,
+          "fcr_percent": 19.57
+        },
+        "local_medium": {
+          "score": 0.641,
+          "fcr_percent": 7.07
+        },
+        "local_hard": {
+          "score": 0.06,
+          "fcr_percent": 0.0
+        }
+      }
+    },
+    {
+      "id": "gemini25_pro",
+      "label": "Gemini 2.5 Pro",
+      "overall": {
+        "zh": 0.917,
+        "en": 0.898
+      },
+      "configurations": {
+        "global_easy": {
+          "score": 1.755,
+          "fcr_percent": 30.43
+        },
+        "global_hard": {
+          "score": 0.826,
+          "fcr_percent": 2.17
+        },
+        "local_easy": {
+          "score": 1.217,
+          "fcr_percent": 14.67
+        },
+        "local_medium": {
+          "score": 0.674,
+          "fcr_percent": 3.8
+        },
+        "local_hard": {
+          "score": 0.065,
+          "fcr_percent": 0.0
+        }
+      }
+    }
+  ]
+}

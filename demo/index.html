@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="HMU-Bench: a bilingual benchmark for hierarchical music understanding through full-track audio and ABC notation.">
+  <title>HMU-Bench · Hierarchical Music Understanding</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="config.js" defer></script>
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar wrap">
+    <a class="wordmark" href="#" aria-label="HMU-Bench home">HMU-Bench</a>
+    <nav aria-label="Main navigation"><a href="https://arxiv.org/abs/2610.15773" target="_blank" rel="noopener noreferrer">Paper ↗</a><a href="#explore">Examples</a><a href="#results">Results</a><a href="https://github.com/stepaudiollm/hmu-bench" target="_blank" rel="noopener noreferrer">GitHub ↗</a></nav>
+  </header>
+  <main>
+    <section class="hero wrap">
+      <div class="hero-grid"><div class="hero-copy"><p class="eyebrow"><span class="dot"></span> A BENCHMARK FOR OMNI MODELS</p>
+      <h1>HMU-Bench</h1>
+      <h2>Music understanding.<br>From the whole to the detail.</h2>
+      <p class="intro">A bilingual benchmark for hierarchical music understanding.<br class="desktop"> Full-track audio. Symbolic notation. Questions that go deeper.</p>
+      <p class="authors">Zheqi Dai*, Boyang Wang*, Zhiyue Wu, Yiyang Xu, Xinming Shi,<br>Ruibin Yuan, Xuerui Yang, Chao Yan, Qiuqiang Kong</p>
+      <div class="actions"><a class="button primary" href="https://arxiv.org/abs/2610.15773" target="_blank" rel="noopener noreferrer">Read the paper <span>↗</span></a><a class="button" href="#explore">Explore examples ↓</a><a class="button" href="https://github.com/stepaudiollm/hmu-bench/releases/tag/v2026.10.08-data-final" target="_blank" rel="noopener noreferrer">Data ↗</a></div>
+      </div><div class="hero-art" aria-label="Audio and symbolic views of the first benchmark track"><div class="art-top"><span>AUDIO / SYMBOLIC</span><span class="art-dot">●</span></div><div class="art-track"><span>TRACK</span><strong>01<span>/ 92</span></strong></div><svg id="hero-waveform" class="hero-waveform" viewBox="0 0 700 120" role="img" aria-label="Amplitude envelope of track 01"></svg><div class="art-timeline"><span>0:00</span><span>FULL TRACK</span><span>3:28</span></div><div class="notation-strip"><div><span>ABC ANNOTATION</span><small>K:E &nbsp;·&nbsp; M:4/4 &nbsp;·&nbsp; Q:143</small></div><p>Emaj7 <i>→</i> C♯m7 <i>→</i> F♯m7</p></div><a class="art-bottom" href="#explore"><span>Global structure <i>→</i> Local detail</span><span>↗</span></a></div></div>
+      <div class="stats"><div><strong>92<span> tracks</span></strong><span>Complete musical pieces</span></div><div><strong>460<span> questions</span></strong><span>Audio · per language</span></div><div><strong>1,029<span> questions</span></strong><span>ABC notation · per language</span></div><div><strong>EN <span>/</span> 中文</strong><span>Aligned bilingual evaluation</span></div></div>
+    </section>
+    <section id="explore" class="explore wrap">
+      <div class="section-head"><div><p class="eyebrow">01 / SELECTED EXAMPLES</p><h2>Inside the benchmark.</h2></div><p>Three audio pieces and twelve notation tasks.<br>The complete benchmark is available in the release.</p></div>
+      <div class="toolbar"><div class="segmented" role="group" aria-label="Input modality"><button id="mode-audio" class="selected" aria-pressed="true">Audio</button><button id="mode-abc" aria-pressed="false">ABC notation</button></div><div class="segmented language" role="group" aria-label="Question language"><button id="lang-en" class="selected" aria-pressed="true">English</button><button id="lang-zh" aria-pressed="false">中文</button></div></div>
+      <div id="audio-panel" class="panel">
+        <div class="track-header"><div><label class="field-label" for="track-select">AUDIO EXAMPLE</label><select id="track-select"></select></div><div class="track-actions"><span id="duration" class="muted"></span></div></div>
+        <div class="audio-console"><button id="play-toggle" class="play-toggle" type="button" aria-label="Play track"><span id="play-icon">▶</span></button><div class="wave-wrap"><svg id="track-waveform" viewBox="0 0 700 90" aria-hidden="true"></svg><input id="seek-track" type="range" min="0" max="1000" value="0" aria-label="Seek within complete track"><div class="wave-times"><span id="current-time">0:00</span><span id="total-time">3:28</span></div></div><div class="audio-caption">COMPLETE TRACK<br><span>Music in context.</span></div></div>
+        <audio id="player" controls preload="none" aria-label="Complete music track"></audio>
+        <p id="audio-status" class="status" role="status">Every question uses the complete track. Local questions identify a specific passage.</p>
+        <div id="audio-questions" class="questions"></div>
+        <details class="annotation"><summary>Full-track ABC annotation <span>Reference material</span></summary><pre id="annotation-text"></pre></details>
+      </div>
+      <div id="abc-panel" class="panel" hidden><div class="track-header"><div><label class="field-label" for="abc-select">NOTATION EXAMPLE</label><select id="abc-select"></select></div><span class="muted">12 examples · 6 domains · 3 solution levels</span></div><div id="abc-question"></div></div>
+    </section>
+    <section class="protocol wrap"><div><p class="eyebrow">THE EVALUATION SETUP</p><h2>One question.<br>The whole piece.</h2></div><div class="protocol-copy"><p>Audio questions range from global musical style and structure to local melody, harmony, and rhythm. The model receives the complete track for each question; timestamps and bar ranges locate the passage when needed.</p><p>ABC questions pair notation excerpts with natural-language questions. Reference answers, audio annotations, model responses, and compact judge scores support inspection and evaluation.</p><a href="https://github.com/stepaudiollm/hmu-bench/blob/main/README.md" target="_blank" rel="noopener noreferrer">Read the evaluation protocol ↗</a></div></section>
+    <section id="results" class="results wrap"><div class="section-head"><div><p class="eyebrow">02 / REPORTED RESULTS</p><h2>Results from the paper.</h2></div><p>Tables 1 &amp; 3 · arXiv:2610.15773<br>Mean judge score on a 0–4 scale.</p></div><div class="toolbar"><div class="segmented" role="group" aria-label="Score modality"><button id="scores-audio" class="selected" aria-pressed="true">Audio</button><button id="scores-abc" aria-pressed="false">ABC notation</button></div><span class="muted">Chinese and English evaluated separately</span></div><div class="table-scroll"><table><thead id="score-head"></thead><tbody id="score-rows"></tbody></table></div><p id="table-note" class="table-note"></p></section>
+    <section class="download wrap"><div><p class="eyebrow">OPEN DATA</p><h2>Take a closer look.</h2><p>Questions, reference answers, prompts, model outputs,<br>and the full audio release.</p></div><a class="button primary" href="https://github.com/stepaudiollm/hmu-bench/releases/tag/v2026.10.08-data-final" target="_blank" rel="noopener noreferrer">Get the release ↗</a></section>
+  </main>
+  <footer class="wrap"><span>HMU-Bench · Music understanding, in detail.</span><a href="https://github.com/stepaudiollm/hmu-bench/blob/main/CITATION.cff" target="_blank" rel="noopener noreferrer">Citation ↗</a></footer>
+</body>
+</html>

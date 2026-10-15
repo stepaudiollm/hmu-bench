@@ -88,3 +88,23 @@ Do not pass these fields to the answering model.
 
 Gold answers, complete model answers, and compact judge scores are public under
 this release policy. Judge rationales are not included.
+
+## Audio naming and annotations — 2026-10-14 patch
+
+Audio tracks use neutral IDs `HMU-A000001` through `HMU-A000092` and paths
+`audio/assets/full/HMU-A000001.mp3`. Question IDs append `-Q01` through `-Q05`.
+Track indexes are global. Existing question text, answers, responses, scores,
+and audio bytes are unchanged.
+
+`audio/annotations/tracks.jsonl` contains 92 matched full-track ABC annotations.
+See `audio/annotations/README.md` for the schema and checksum definitions.
+Keep annotations out of audio-only answering model inputs. A separate migration
+mapping supports existing outputs using the original IDs.
+
+## Paper and detailed results
+
+The paper is available at https://arxiv.org/abs/2610.15773.
+Paper Table 1 (ABC domain and solution-requirement scores) is recorded in
+`aggregate_results/abc_aggregate_results.json`; Table 3 (Audio configuration
+scores and full-credit rates) is in `aggregate_results/audio_aggregate_results.json`.
+See `CITATION.cff` for the paper citation.

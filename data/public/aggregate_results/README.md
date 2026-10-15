@@ -17,4 +17,8 @@ Compact per-item judge scores and aggregate score summaries are under:
 - `../model_outputs/scores/audio/`
 - `../model_outputs/score_summary.json`
 
-The short overview is available at `../AUDIO_RESULTS_SUMMARY.md`.
+`audio_aggregate_results.json` reproduces paper Table 3, including five
+scope/difficulty configurations and full-credit rates. These aggregates are
+recomputed from the released scores; the display precision follows the paper.
+
+Paper: https://arxiv.org/abs/2610.15773v1.

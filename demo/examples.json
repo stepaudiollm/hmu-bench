@@ -1,0 +1,22 @@
+{
+  "audio_track_ids": [
+    "HMU-A000001",
+    "HMU-A000017",
+    "HMU-A000062"
+  ],
+  "key_withheld_question_ids": ["ABC-V2-0128"],
+  "abc_question_ids": [
+    "ABC-V2-0128",
+    "ABC-V2-0137",
+    "ABC-V2-0006",
+    "ABC-V2-0007",
+    "ABC-V2-0004",
+    "ABC-V2-0008-A1",
+    "ABC-V2-0003",
+    "ABC-V2-0010",
+    "ABC-V2-0273",
+    "ABC-V2-0274",
+    "ABC-V2-0002",
+    "ABC-V2-0241"
+  ]
+}

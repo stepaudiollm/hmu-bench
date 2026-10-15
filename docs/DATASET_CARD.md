@@ -9,14 +9,15 @@ Version: `2026-10-08-final`
 - Day distribution: 257 / 256 / 256 / 260.
 - Coverage: tonality and harmony, pitch and melody, rhythm, form and
   chronology, global metadata, and other verifiable symbolic-music tasks.
-- ABC materials: 1,168 excerpts.
+- ABC materials: 1,166 excerpts.
 - Final revision: `abc-manual-revision-20261008`.
 
 ## HMUBench-Audio
 
 - Input: a complete track and one question per request.
 - Scale: 460 aligned questions in Chinese and English over 92 tracks.
-- Source groups: Jazz16, Rock31, and Pop45.
+- Neutral track IDs: `HMU-A000001` through `HMU-A000092`; no genre labels in IDs.
+- Full-track ABC annotations: 92 records in `audio/annotations/tracks.jsonl`.
 - Local questions use `time_range`, `section`, and `bar_range` as locators,
   while the model still receives the complete track.
 - Public audio paths are relative to `PUBLIC_RELEASE/audio/` and use
@@ -42,3 +43,7 @@ Version: `2026-10-08-final`
 1. Confirm the dataset, code, and audio licenses.
 2. Confirm redistribution rights for all 92 audio files.
 3. Add the approved citation and contact information.
+
+## Paper
+
+[HMU-Bench: Hierarchical Music Understanding Benchmark for Omni Models](https://arxiv.org/abs/2610.15773), arXiv:2610.15773v1. Detailed results are in paper Tables 1 and 3.

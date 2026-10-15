@@ -26,7 +26,8 @@
         "zh-CN",
         "en"
       ],
-      "model_count": 7
+      "model_count": 7,
+      "annotation_count": 92
     }
   },
   "public_contents": {
@@ -47,7 +48,8 @@
     "prompts": "prompts/",
     "aggregate_results": "aggregate_results/",
     "model_outputs": "model_outputs/",
-    "graded_responses": null
+    "graded_responses": null,
+    "audio_annotations": "audio/annotations/tracks.jsonl"
   },
   "integrity": {
     "public_contains_gold_answers": true,
@@ -69,5 +71,12 @@
   "publication_blockers": [
     "license selection is pending",
     "audio redistribution rights are not documented in this directory"
-  ]
+  ],
+  "audio_naming_version": "neutral-audio-ids-v1",
+  "naming_patch_date": "2026-10-14",
+  "paper": {
+    "url": "https://arxiv.org/abs/2610.15773",
+    "version": "v1",
+    "date": "2026-10-11"
+  }
 }

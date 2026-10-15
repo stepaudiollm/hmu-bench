@@ -12,7 +12,8 @@ Version: `2026-10-08-final`
 ## Audio
 
 - 460 questions over 92 full tracks, aligned in Chinese and English.
-- Source groups: Jazz16, Rock31, and Pop45.
+- Neutral track IDs: `HMU-A000001` through `HMU-A000092`; no genre labels in IDs.
+- Full-track ABC annotations: 92 records in `audio/annotations/tracks.jsonl`.
 - Audio paths are relative to `audio/` and use `assets/full/...`.
 - Audio gold includes `reference_answer`, structured scoring fields, and
   public musical evidence.
@@ -35,3 +36,7 @@ Version: `2026-10-08-final`
 
 - Confirm dataset, code, and audio licenses.
 - Confirm audio redistribution rights.
+
+## Paper
+
+[HMU-Bench: Hierarchical Music Understanding Benchmark for Omni Models](https://arxiv.org/abs/2610.15773), arXiv:2610.15773v1. Detailed results are in paper Tables 1 and 3.
